@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="subscriber-is-stock-subscriber" type="JSON" />
+      <mapping pattern="invalid-type" type="JSON" />
+      <mapping pattern="get-all-tickets-empty-response.json" type="PLAIN_TEXT" />
+      <mapping pattern="get-all-logs-single-subscriber-ordered-by-date-created-ascjson.json" type="PLAIN_TEXT" />
+      <mapping pattern="get-all-tickets-default.json" type="PLAIN_TEXT" />
+      <mapping pattern="create-ticket-response" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
