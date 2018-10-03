@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/controllers/StaticChargeController.ts" timestamp="1538570771278" />
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538572497157">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538574939397">
         <mark key="[" line="65" column="54" />
         <mark key="]" line="65" column="54" />
         <mark key="^" line="65" column="54" />
@@ -51,15 +51,20 @@
         <mark key="^" line="94" column="32" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/create-static-charge.test.ts" timestamp="1538574567589" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/DeviceListController.ts" timestamp="1538574975333">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/create-static-charge.test.ts" timestamp="1538574855623" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMsIFZBTElEX1BFUk1JU1NJT05TKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMsIFZBTElEX1BFUk1JU1NJT05TKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">WydkZXZpY2VzX2Fwbl9kZXRhaWxzJywg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -74,7 +79,7 @@
         <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
       </register>
       <register name="-" type="4">
-        <text>INVALID_ADMIN_STATIC_CHARGE_PERMISSIONS</text>
+        <text encoding="base64">WydkZXZpY2VzX2Fwbl9kZXRhaWxzJywg</text>
       </register>
     </registers>
     <search>
