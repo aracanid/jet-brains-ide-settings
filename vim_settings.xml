@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/controllers/StaticChargeController.ts" timestamp="1538570771278" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/.gitlab-ci.yml" timestamp="1538577182738">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538574939397">
         <mark key="[" line="65" column="54" />
         <mark key="]" line="65" column="54" />
@@ -28,14 +33,29 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/config.ts" timestamp="1538577245638">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538574371770">
         <mark key="[" line="165" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/app.ts" timestamp="1538577232031">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538574358307">
         <mark key="[" line="194" column="50" />
         <mark key="]" line="218" column="45" />
         <mark key="^" line="218" column="45" />
         <mark key="." line="218" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/swagger.json" timestamp="1538577149716">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/get-all-static-charges.test.ts" timestamp="1538571138525" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/GetDevices.test.ts" timestamp="1538574281507">
@@ -44,11 +64,10 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538572638344">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/test.ts" timestamp="1535115826164">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/package.json" timestamp="1538577118542">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/edit-sent-request.test.ts" timestamp="1538574467644">
         <mark key="[" line="186" column="0" />
@@ -61,42 +80,47 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewDevicesTags.test.ts" timestamp="1538577276522">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/create-static-charge.test.ts" timestamp="1538574855623" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLi9zcmMnCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLi9zcmMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLicK</text>
+        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMsIFZBTElEX1BFUk1JU1NJT05TKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVVNFUl9QRVJNSVNTSU9OUywgVkFMSURfUEVSTUlTU0lPTlMpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1RPS0VOLCBWQUxJRF9BUElfVE9LRU4pCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELCBURVNUX0NPTVBBTllfSUQpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsIFRFU1RfQ09NUEFOWV9OQU1FKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVVNFUl9JRCwgVEVTVF9VU0VSX0lEKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
+        <text encoding="base64">aW1wb3J0IERldmljZSBmcm9tICcuL21vZGVscy9EZXZpY2UnCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFE</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
