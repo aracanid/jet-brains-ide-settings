@@ -3,15 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/controllers/StaticChargeController.ts" timestamp="1538570771278" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538570937106">
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="65" column="54" />
+        <mark key="^" line="65" column="54" />
+        <mark key="." line="65" column="54" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/untitled/test.ts" timestamp="1535115826164">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538571685142">
+        <mark key="[" line="165" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538571622356">
+        <mark key="[" line="194" column="50" />
+        <mark key="]" line="218" column="45" />
+        <mark key="^" line="218" column="45" />
+        <mark key="." line="218" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/get-all-static-charges.test.ts" timestamp="1538571138525" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>INVALID_ADMIN_STATIC_CHARGE_PERMISSIONS</text>
+      </register>
+      <register name="-" type="4">
+        <text>INVALID_ADMIN_STATIC_CHARGE_PERMISSIONS</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
