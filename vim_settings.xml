@@ -44,7 +44,6 @@
         <mark key="]" line="49" column="9" />
         <mark key="." line="49" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/get-all-static-charges.test.ts" timestamp="1538571138525" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/GetDevices.test.ts" timestamp="1538574281507">
         <mark key="[" line="462" column="4" />
       </file>
@@ -67,13 +66,11 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/create-static-charge.test.ts" timestamp="1538574855623" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/tsconfig.json" timestamp="1538580932301">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/controllers/StaticChargeController.ts" timestamp="1538570771278" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/get-sent-request.test.ts" timestamp="1538574474325">
         <mark key="[" line="107" column="8" />
       </file>
@@ -106,6 +103,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/docker-compose.yml" timestamp="1538581493924" />
     </filemarks>
     <jumps />
     <registers>
