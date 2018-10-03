@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/controllers/StaticChargeController.ts" timestamp="1538570771278" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1538577809985">
+        <mark key="[" line="104" column="8" />
+        <mark key="]" line="104" column="8" />
+        <mark key="." line="104" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/.gitlab-ci.yml" timestamp="1538577182738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -33,7 +38,7 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/config.ts" timestamp="1538577245638">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/config.ts" timestamp="1538577582079">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -90,37 +95,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLi9zcmMnCg==</text>
+        <text encoding="base64">ICAgIGlmICg9PT0gJycpIHsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLi9zcmMnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JycpIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVkaXNDbGllbnQgfSBmcm9tICcuLi9zcmMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERldmljZSBmcm9tICcuL21vZGVscy9EZXZpY2UnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">JycpIA==</text>
       </register>
     </registers>
     <search>
