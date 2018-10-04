@@ -18,8 +18,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538574371770">
-        <mark key="[" line="165" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538650144548">
+        <mark key="[" line="181" column="53" />
+        <mark key="]" line="181" column="52" />
+        <mark key="." line="181" column="52" />
+        <mark key="^" line="181" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538648730591">
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="65" />
+        <mark key="." line="22" column="65" />
+        <mark key="^" line="22" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/app.ts" timestamp="1538577232031">
         <mark key="[" line="2" column="0" />
@@ -48,7 +57,7 @@
         <mark key="]" line="63" column="97" />
         <mark key="." line="63" column="97" />
       </file>
-      <file name="/JavaScript Console" timestamp="1538583116260">
+      <file name="/JavaScript Console" timestamp="1538650041778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewAllTags.test.ts" timestamp="1538583367500">
@@ -62,13 +71,17 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/test/create-static-charge.test.ts" timestamp="1538582757786" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1538649673130">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/tsconfig.json" timestamp="1538580932301">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/src/index.ts" timestamp="1538583150841" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/get-sent-request.test.ts" timestamp="1538582763085">
         <mark key="[" line="107" column="8" />
       </file>
@@ -91,8 +104,16 @@
         <mark key="." line="32" column="100" />
         <mark key="^" line="32" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/index.ts" timestamp="1538583944394">
-        <mark key="[" line="25" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538650024128">
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/index.ts" timestamp="1538647510153">
+        <mark key="[" line="18" column="97" />
+        <mark key="]" line="18" column="97" />
+        <mark key="." line="18" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" timestamp="1538583969097">
         <mark key="[" line="30" column="11" />
@@ -120,44 +141,43 @@
         <mark key="." line="31" column="112" />
         <mark key="^" line="31" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/docker-compose.yml" timestamp="1538581493924" />
     </filemarks>
     <jumps>
       <jump line="31" column="107" filename="$USER_HOME$/Documents/Projects/Typescript/tags/test/AddTag.test.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIG5vY2socHJvY2Vzcy5lbnYuREVWSUNFX0lORk9STUFUSU9OX1VSTCEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>could not be found`</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfZGRHQVRFV0FZX1RPS0VOLCBWQUxJRF9HQVRFV0FZX1RPS0VOKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>could not be found`</text>
       </register>
     </registers>
     <search>
