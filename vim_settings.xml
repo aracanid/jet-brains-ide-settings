@@ -13,17 +13,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538671041467">
-        <mark key="[" line="181" column="53" />
-        <mark key="]" line="181" column="52" />
-        <mark key="." line="181" column="52" />
-        <mark key="^" line="181" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1538753893755">
+        <mark key="[" line="105" column="3" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538671431261">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="65" />
-        <mark key="." line="22" column="65" />
-        <mark key="^" line="22" column="65" />
+      <file name="internal/process/next_tick.js" timestamp="1538753686019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1538753938969">
+        <mark key="'" line="140" column="46" />
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="21" />
+        <mark key="^" line="140" column="84" />
+        <mark key="." line="61" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/app.ts" timestamp="1538577232031">
         <mark key="[" line="2" column="0" />
@@ -38,10 +41,16 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1538670416291">
-        <mark key="[" line="64" column="102" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1538754233920">
+        <mark key="[" line="51" column="92" />
         <mark key="]" line="64" column="102" />
         <mark key="." line="64" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/GetDevices.test.ts" timestamp="1538661580046">
+        <mark key="'" line="303" column="44" />
+        <mark key="[" line="102" column="12" />
+        <mark key="]" line="102" column="12" />
+        <mark key="." line="102" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/package.json" timestamp="1538744958224">
         <mark key="[" line="32" column="91" />
@@ -64,6 +73,12 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-companies.test.ts" timestamp="1538669548145">
+        <mark key="'" line="128" column="48" />
+        <mark key="[" line="150" column="62" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/index.ts" timestamp="1538735573435">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -74,11 +89,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538752940613">
-        <mark key="[" line="237" column="2" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538754810297">
+        <mark key="'" line="196" column="49" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/index.ts" timestamp="1538669932901">
         <mark key="[" line="18" column="97" />
@@ -103,11 +118,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/docker-compose.yml" timestamp="1538664847634">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewDevicesTags.test.ts" timestamp="1538666772080">
+        <mark key="'" line="110" column="43" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1538664692116">
         <mark key="[" line="200" column="26" />
@@ -118,6 +133,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1538745262182">
         <mark key="]" line="0" column="0" />
@@ -134,14 +152,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1538735432804">
+      <file name="/JavaScript Console" timestamp="1538753880511">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewAllTags.test.ts" timestamp="1538666637077">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/tsconfig.json" timestamp="1538580932301">
         <mark key="[" line="20" column="3" />
@@ -163,6 +175,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" timestamp="1538667579319">
+        <mark key="'" line="82" column="77" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/RemoveTag.test.ts" timestamp="1538667565005">
+        <mark key="'" line="90" column="37" />
+        <mark key="[" line="107" column="1" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
       </file>
@@ -170,6 +194,12 @@
         <mark key="[" line="5528" column="0" />
         <mark key="]" line="5528" column="0" />
         <mark key="." line="5528" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/AddTag.test.ts" timestamp="1538667397328">
+        <mark key="'" line="32" column="107" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/controllers/CompanyInformationController.ts" timestamp="1538735230637">
         <mark key="[" line="0" column="50" />
@@ -195,40 +225,42 @@
       <jump line="107" column="77" filename="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" />
       <jump line="132" column="48" filename="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-companies.test.ts" />
       <jump line="151" column="39" filename="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-all-companies.test.ts" />
+      <jump line="224" column="49" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" />
+      <jump line="168" column="46" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUZpeHR1cmVzLCBDb21wYW55UHJvZmlsZSwgQ29tcGFueSB9IGZyb20gJ2NvbXBhbnktaW5mb3JtYXRpb24nCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUZpeHR1cmVzLCBDb21wYW55UHJvZmlsZSwgQ29tcGFueSB9IGZyb20gJ2NvbXBhbnktaW5mb3JtYXRpb24nCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgZXJyb3JzID0gYWp2LmVycm9ycwogICAgICAgIC8vIGV4cGVjdChyZXNwb25zZS5ib2R5LmNvbnRlbnRbMF0uZGVwZW5kc09uKS50by5iZS5udWxsCiAgICAgICAgLy8gZXhwZWN0KGVycm9ycykudG8uaGF2ZS5sZW5ndGhPZigxKQogICAgICAgIC8vIGV4cGVjdChlcnJvcnMhWzBdLmRhdGFQYXRoKS50by5iZS5lcSgnLmRlcGVuZHNPbicpCiAgICAgICAgLy8gZXhwZWN0KGVycm9ycyFbMF0ua2V5d29yZCkudG8uYmUuZXEoJ3R5cGUnKQogICAgICAgIC8vIGV4cGVjdChlcnJvcnMhWzBdLm1lc3NhZ2UpLnRvLmJlLmVxKCdzaG91bGQgYmUgc3RyaW5nJykKICAgICAgICAvLyBleHBlY3QoZXJyb3JzIVswXS5wYXJhbXMpLnRvLmRlZXAuZXEoeyB0eXBlOiAnc3RyaW5nJyB9KQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAucmVxdWVzdChhcHApCiAgICAgICAgLmdldChgLyR7VkFMSURfUEhZU0lDQUxfSUR9L2xvZ3NgKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVE9LRU4sIFZBTElEX0FQSV9UT0tFTikKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfSUQsIFRFU1RfQ09NUEFOWV9JRCkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVEVTVF9DT01QQU5ZX05BTUUpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBURVNUX1VTRVJfSUQpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TLCBWQUxJRF9QRVJNSVNTSU9OUykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLzAuMi4wCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAucmVxdWVzdChhcHApCiAgICAgICAgLmdldChgLyR7VkFMSURfUEhZU0lDQUxfSUR9L2xvZ3NgKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVE9LRU4sIFZBTElEX0FQSV9UT0tFTikKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfSUQsIFRFU1RfQ09NUEFOWV9JRCkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVEVTVF9DT01QQU5ZX05BTUUpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBURVNUX1VTRVJfSUQpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TLCBWQUxJRF9QRVJNSVNTSU9OUyk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBnZXRBcG5Mb2dzUmVxdWVzdChWQUxJRF9QSFlTSUNBTF9JRCwgVkFMSURfUEVSTUlTU0lPTlMpICAgICAgICAucmVxdWVzdChhcHApCiAgICAgICAgLmdldChgLyR7VkFMSURfUEhZU0lDQUxfSUR9L2xvZ3NgKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVE9LRU4sIFZBTElEX0FQSV9UT0tFTikKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfSUQsIFRFU1RfQ09NUEFOWV9JRCkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVEVTVF9DT01QQU5ZX05BTUUpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBURVNUX1VTRVJfSUQpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TLCBWQUxJRF9QRVJNSVNTSU9OUykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAucmVxdWVzdChhcHApCiAgICAgICAgLmdldChgLyR7VkFMSURfUEhZU0lDQUxfSUR9L2xvZ3NgKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVE9LRU4sIFZBTElEX0FQSV9UT0tFTikKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfSUQsIFRFU1RfQ09NUEFOWV9JRCkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVEVTVF9DT01QQU5ZX05BTUUpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBURVNUX1VTRVJfSUQpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TLCBWQUxJRF9QRVJNSVNTSU9OUyk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLzAuMi4wCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAucmVxdWVzdChhcHApCiAgICAgICAgLmdldChgLyR7SU5WQUxJRF9QSFlTSUNBTF9JRH0vbG9nc2ApCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfQVBJX1RPS0VOKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwgVEVTVF9DT01QQU5ZX0lEKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9OQU1FLCBURVNUX0NPTVBBTllfTkFNRSkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1VTRVJfSUQsIFRFU1RfVVNFUl9JRCkKICAgICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMsIFZBTElEX1BFUk1JU1NJT05TKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
