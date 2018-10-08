@@ -151,9 +151,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1538745262182">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/package.json" timestamp="1538993807164">
+        <mark key="[" line="59" column="102" />
+        <mark key="]" line="66" column="15" />
+        <mark key="." line="66" column="15" />
+        <mark key="^" line="66" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/.gitlab-ci.yml" timestamp="1538752298939">
         <mark key="[" line="0" column="122" />
@@ -251,8 +253,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>develo</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJuYyIsICIteiIsICIzMzA2Il0KICAgICAgaW50ZXJ2YWw6IDMwcwogICAgICB0aW1lb3V0OiAxMHMKICAgICAgcmV0cmllczogNQ==</text>
@@ -285,7 +287,7 @@
         <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUZpeHR1cmVzLCBDb21wYW55UHJvZmlsZSwgQ29tcGFueSB9IGZyb20gJ2NvbXBhbnktaW5mb3JtYXRpb24nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>devices_view</text>
+        <text>develo</text>
       </register>
     </registers>
     <search>
