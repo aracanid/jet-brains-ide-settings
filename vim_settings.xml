@@ -46,12 +46,6 @@
         <mark key="]" line="64" column="102" />
         <mark key="." line="64" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/GetDevices.test.ts" timestamp="1538661580046">
-        <mark key="'" line="303" column="44" />
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="102" column="12" />
-        <mark key="." line="102" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/src/controllers/AuditLogController.ts" timestamp="1538990208047">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="16" />
@@ -78,12 +72,6 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-companies.test.ts" timestamp="1538669548145">
-        <mark key="'" line="128" column="48" />
-        <mark key="[" line="150" column="62" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/index.ts" timestamp="1538735573435">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -94,7 +82,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1538754810297">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1539004879929">
         <mark key="'" line="196" column="49" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -131,12 +119,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewDevicesTags.test.ts" timestamp="1538666772080">
-        <mark key="'" line="110" column="43" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1538664692116">
         <mark key="[" line="200" column="26" />
@@ -191,18 +173,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" timestamp="1538667579319">
-        <mark key="'" line="82" column="77" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/RemoveTag.test.ts" timestamp="1538667565005">
-        <mark key="'" line="90" column="37" />
-        <mark key="[" line="107" column="1" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/docker-compose.yml" timestamp="1538992369023">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -215,12 +185,6 @@
         <mark key="[" line="5528" column="0" />
         <mark key="]" line="5528" column="0" />
         <mark key="." line="5528" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/AddTag.test.ts" timestamp="1538667397328">
-        <mark key="'" line="32" column="107" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/controllers/CompanyInformationController.ts" timestamp="1538735230637">
         <mark key="[" line="0" column="50" />
