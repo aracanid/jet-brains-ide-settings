@@ -147,16 +147,23 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/package.json" timestamp="1539352259594">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/index.ts" timestamp="1538669932901">
         <mark key="[" line="18" column="97" />
         <mark key="]" line="18" column="97" />
         <mark key="." line="18" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" timestamp="1539351259820">
-        <mark key="[" line="12" column="61" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" timestamp="1539353072494">
+        <mark key="e" line="12" column="23" />
+        <mark key="'" line="34" column="161" />
+        <mark key="[" line="34" column="161" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-all-companies.test.ts" timestamp="1538735357313">
         <mark key="[" line="5" column="11" />
@@ -221,9 +228,21 @@
       <jump line="151" column="39" filename="$USER_HOME$/Documents/Projects/Typescript/company-information/test/get-all-companies.test.ts" />
       <jump line="224" column="49" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" />
       <jump line="168" column="46" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" />
+      <jump line="16" column="22" filename="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" />
+      <jump line="34" column="161" filename="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnLi95b3VyLWV4cHJlc3MtYXBwJyk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYXBwID0gcmVxdWlyZSgnLi95b3VyLWV4cHJlc3MtYXBwJyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJleHByZXNzLXByb20tYnVuZGxlIjogIl40LjIuMSIsCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>Accept: application/json
 X-Gateway-Company-Id: 1340
 X-Gateway-Company-Name: OaSys DEMO
@@ -233,19 +252,16 @@ X-Gateway-Company-Uhash: uhash
 X-Gateway-Company-Secret: secret
 X-Gateway-Realm: stream</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8080</text>
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJuYyIsICIteiIsICIzMzA2Il0KICAgICAgaW50ZXJ2YWw6IDMwcwogICAgICB0aW1lb3V0OiAxMHMKICAgICAgcmV0cmllczogNQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBnZXRBdWRpdExvZ3NSZXF1ZXN0KCwgVkFMSURfQ09NUEFOWV9JRF9PTkUsIFZBTElEX0NPTVBBTllfTkFNRV9PTkUsIElOVkFMSURfUEVSTUlTU0lPTlMpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>chai
         .request(app)
         .get('/')
@@ -254,20 +270,14 @@ X-Gateway-Realm: stream</text>
         .set(HEADER_GATEWAY_TOKEN, TOKEN)
         .set(HEADER_GATEWAY_USER_ID, VALID_USER_ID)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGl0KCdnaXZlbiBhIG1pc3NpbmcgY29tcGFueUlkIGhlYWRlciBpbiB0aGUgcmVxdWVzdCcsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBjaGFpCiAgICAgICAgLnJlcXVlc3QoYXBwKQogICAgICAgIC5nZXQoJy8nKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwgJycpCiAgICAgICAgLnNldChIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsICcnKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVE9LRU4sIFRPS0VOKQogICAgICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfVVNFUl9JRCwgVkFMSURfVVNFUl9JRCkKCiAgICAgIGV4cGVjdChyZXNwb25zZSkudG8uaGF2ZS5zdGF0dXMoQkFEX1JFUVVFU1QpCiAgICAgIGNvbnN0IGV4cGVjdGVkQm9keSA9IHJlcXVpcmUoX19kaXJuYW1lICsgJy9yZXNwb25zZXMvZXJyb3JzL2hlYWRlci13YXMtcmVxdWlyZWQtYnV0LW5vdC1wYXNzZWQuanNvbicpIC8vIFRPRE86CiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkQm9keSkKICAgIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>createServer</text>
       </register>
     </registers>
     <search>
