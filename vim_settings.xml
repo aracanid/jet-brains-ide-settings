@@ -65,18 +65,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/DeviceListController.ts" timestamp="1539357435653">
-        <mark key="e" line="18" column="21" />
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1538752549341">
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
       </file>
@@ -112,12 +100,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/test/get-all-audit-logs.test.ts" timestamp="1538990230745">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="24" column="80" />
-        <mark key="." line="24" column="80" />
-        <mark key="^" line="24" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper/package.json" timestamp="1539621041557">
         <mark key="[" line="95" column="22" />
         <mark key="]" line="95" column="22" />
@@ -131,6 +113,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/git-project-request-service.test.ts" timestamp="1541697597043">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/OaSysDemoSimListFixtures.ts" timestamp="1541694572329">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -142,11 +129,27 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/serializers/file-serializer.test.ts" timestamp="1541697418289">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/config.ts" timestamp="1541697272547">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/docker-compose.yml" timestamp="1541695730791" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1538664692116">
         <mark key="[" line="200" column="26" />
         <mark key="]" line="200" column="26" />
         <mark key="." line="200" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/ProjectSerializer.ts" timestamp="1541697353793">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/MicroserviceSerializer.ts" timestamp="1541697348511">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/.gitlab-ci.yml" timestamp="1538577182738">
         <mark key="[" line="0" column="0" />
@@ -155,12 +158,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/package.json" timestamp="1538993807164">
-        <mark key="[" line="59" column="102" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper/src/server/scripts/MicroserviceDependencyMapGenerator.ts" timestamp="1539621383081">
         <mark key="[" line="171" column="27" />
@@ -191,6 +188,14 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/docker-compose.yml" timestamp="1541697170160">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1541697342708">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/docker-compose.yml" timestamp="1538745393554">
         <mark key="[" line="34" column="63" />
         <mark key="]" line="34" column="64" />
@@ -211,6 +216,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/index.ts" timestamp="1541697251031">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/serializers/project-serializer.test.ts" timestamp="1541697423913" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
       </file>
@@ -258,45 +269,53 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzcWxpdGUzIjogIl4zLjEuMTMiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbm9jayB9IGZyb20gJ25vY2snCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbm9jayB9IGZyb20gJ25vY2snCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzdHJlYW0tYXBpLWV4dGVuc2lvbnMiOiAiZ2l0K3NzaDovL2dpdEBnaXRsYWIuc3RyZWFtLmxvY2FsOmMwbjVwaXI0Y3kvYXBpLWdhdGV3YXktbWlkZGxld2FyZS5naXQjZmVhdHVyZS9hZGQtYnVpbGQtc2NyaXB0IiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgbm9jayB9IGZyb20gJ25vY2snCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlc2VyaWFsaXplZEZpbGUgPSBmaWxlU2VyaWFsaXplci0+ZGVzZXJpYWxpemUoVkFMSURfR0lUX0ZJTEVfUkVTUE9OU0UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzdHJlYW0tYXBpLWV4dGVuc2lvbnMiOiAiZ2l0K3NzaDovL2dpdEBnaXRsYWIuc3RyZWFtLmxvY2FsOmMwbjVwaXI0Y3kvYXBpLWdhdGV3YXktbWlkZGxld2FyZS5naXQjZmVhdHVyZS9hZGQtYnVpbGQtc2NyaXB0IiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlQ29udGFpbmVyIH0gZnJvbSAndHlwZW9ybScK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGFyc2UgYXMgdXJsUGFyc2UsIFVybCB9IGZyb20gJ3VybCcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTG9jYWxpemF0aW9uIH0gZnJvbSAnc3RyZWFtLWFwaS11dGlsaXRpZXMnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlQ29udGFpbmVyKENvbnRhaW5lcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlQ29udGFpbmVyIH0gZnJvbSAndHlwZW9ybScK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzcWxpdGUzIjogIl4zLjEuMTMiLAo=</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBsb2NhbGl6YXRpb246IExvY2FsaXphdGlvbiA9IHsKICBiYWNrZW5kOiB7CiAgICBsb2FkUGF0aDogcHJvY2Vzcy5lbnYuTE9DQUxJWkFUSU9OX0xPQURfUEFUSCA/IHByb2Nlc3MuZW52LkxPQ0FMSVpBVElPTl9MT0FEX1BBVEggOiAnLi9sb2NhbGVzL3t7bG5nfX0ve3tuc319Lmpzb24nLAogICAgYWRkUGF0aDogcHJvY2Vzcy5lbnYuTE9DQUxJWkFUSU9OX0FERF9QQVRIID8gcHJvY2Vzcy5lbnYuTE9DQUxJWkFUSU9OX0FERF9QQVRIIDogJy4vbG9jYWxlcy97e2xuZ319L3t7bnN9fS5taXNzaW5nLmpzb24nLAogICAganNvbkluZGVudDogMgogIH0sCiAgbGFuZ3VhZ2VzOiBbJ2VuX0dCJywgJ2phX0pQJ10sCiAgbmFtZXNwYWNlczogWydvcGVuYXBpJywgJ2xvZ2dpbmcnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>createConnections</text>
+      </register>
+      <register name="/" type="4">
+        <text>buffer</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>buffer</last-search>
+      <last-offset />
+      <last-pattern>buffer</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>buffer</entry>
+      </history-search>
       <history-cmd>
         <entry>rr</entry>
       </history-cmd>
