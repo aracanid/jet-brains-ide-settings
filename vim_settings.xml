@@ -34,6 +34,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test.http" timestamp="1541694587644">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1538754233920">
         <mark key="[" line="51" column="92" />
         <mark key="]" line="64" column="102" />
@@ -120,12 +126,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/src/index.ts" timestamp="1538990180817">
         <mark key="[" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/RedisFixtureHelpers.ts" timestamp="1538580997280">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/RedisFixtureHelpers.ts" timestamp="1541694631536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/OaSysDemoSimListFixtures.ts" timestamp="1538581021005">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/OaSysDemoSimListFixtures.ts" timestamp="1541694572329">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -194,7 +200,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/node_modules/stream-api-extensions/dist/middleware/StreamApiGatewayHeaderMiddleware.d.ts" timestamp="1541609936196" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/docker-compose.yml" timestamp="1538992369023">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
