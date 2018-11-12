@@ -59,7 +59,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542051851458">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542052697245">
         <mark key="[" line="54" column="39" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -181,11 +181,10 @@
         <mark key="]" line="218" column="71" />
         <mark key="." line="218" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542051113703">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542053006274">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542018775984">
         <mark key="[" line="9" column="32" />
@@ -213,7 +212,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542037113645">
         <mark key="[" line="24" column="76" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542051761098">
+      <file name="/JavaScript Console" timestamp="1542052975506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/tsconfig.json" timestamp="1538580932301">
@@ -241,7 +240,7 @@
         <mark key="]" line="34" column="64" />
         <mark key="." line="34" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1542044230552">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1542052971401">
         <mark key="'" line="24" column="18" />
         <mark key="[" line="31" column="27" />
         <mark key="]" line="1" column="0" />
@@ -331,34 +330,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSBmaWxlSnNvbgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSBmaWxlSnNvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmVmb3JlKGFzeW5jICgpID0+IGRhdGFiYXNlQ29ubmVjdGlvblByb21pc2UpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJzZWRZYW1sCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YmVmb3JlKGFzeW5jICgpID0+IGRhdGFiYXNlQ29ubmVjdGlvblByb21pc2UpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBwYXJzZWRZYW1sCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFlhbWwgPSB0aGlzLihmaWxlSnNvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBkb2NrZXJDb21wb3NlRmlsZUNvbnRlbnRzID0gCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFlhbWwgPSB0aGlzLihmaWxlSnNvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgUFJPSkVDVF9USFJFRV9JRCA9IDExCg==</text>
+        <text encoding="base64">ICBjb25zdCBkb2NrZXJDb21wb3NlRmlsZUNvbnRlbnRzID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUFJPSkVDVF9UV09fSUQgPSAxMAo=</text>
+        <text encoding="base64">Y29uc3QgUFJPSkVDVF9USFJFRV9JRCA9IDExCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Y29uc3QgUFJPSkVDVF9UV09fSUQgPSAxMAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZGF0YWJhc2VDb25uZWN0aW9uUHJvbWlzZSA=</text>
