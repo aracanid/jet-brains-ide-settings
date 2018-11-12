@@ -65,10 +65,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542041292987">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542044533219">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
@@ -119,7 +119,7 @@
         <mark key="]" line="95" column="22" />
         <mark key="." line="95" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/git-project-request-service.test.ts" timestamp="1542037644904">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/git-project-request-service.test.ts" timestamp="1542044490709">
         <mark key="[" line="93" column="1" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -190,6 +190,11 @@
         <mark key="]" line="218" column="71" />
         <mark key="." line="218" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542045193301">
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542018775984">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="8" column="0" />
@@ -248,7 +253,7 @@
         <mark key="]" line="34" column="64" />
         <mark key="." line="34" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1542037663113">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1542044230552">
         <mark key="'" line="24" column="18" />
         <mark key="[" line="31" column="27" />
         <mark key="]" line="1" column="0" />
@@ -345,37 +350,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT0sgfSBmcm9tICdodHRwLXN0YXR1cy1jb2RlcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT0sgfSBmcm9tICdodHRwLXN0YXR1cy1jb2RlcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5vY2sgPSByZXF1aXJlKCdub2NrJykK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgY29uc3QgZG9ja2VyQ29tcG9zZUNvbnRlbnRzID0gdGhpcy5nZXREb2NrZXJDb21wb3NlRmlsZShwcm9qZWN0LmlkKQogICAgICByZXR1cm4gdGhpcy5idWlsZE1pY3Jvc2VydmljZShwcm9qZWN0LCBkb2NrZXJDb21wb3NlQ29udGVudHMp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgR0lUTEFCX1BSSVZBVEVfQUNDRVNTX1RPS0VOID0gJ3VGTnZLYlRaVFh6RzRpZGtnY3Y2Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgRE9DS0VSX0NPTVBPU0VfRklMRVBBVEggPSAnZG9ja2VyLWNvbXBvc2UueW1sJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgR0lUTEFCX0JBU0VfVVJJID0gJ2h0dHBzOi8vZ2l0bGFiLnN0cmVhbS5sb2NhbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBHZXRGaWxlRGV0YWlsc05vY2tFbmRwb2ludCAocHJvamVjdElkOiBudW1iZXIpIHsKICBub2NrKEdJVExBQl9CQVNFX1VSSSkKICAgIC5nZXQoYC9wcm9qZWN0cy8ke3Byb2plY3RJZH0vcmVwb3NpdG9yeS9maWxlcy8ke0RPQ0tFUl9DT01QT1NFX0ZJTEVQQVRIfWApCiAgICAucXVlcnkoYHByaXZhdGVfdG9rZW49JHtHSVRMQUJfUFJJVkFURV9BQ0NFU1NfVE9LRU59YCkKICAgIC5yZXBseVdpdGhGaWxlKE9LLCBfX2Rpcm5hbWUgKyAnL3Jlc3BvbnNlcy9nZXQtZG9ja2VyLWNvbXBvc2UtZmlsZS1mcm9tLXJlcG9zaXRvcnktcmVzcG9uc2UuanNvbicsIHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfSkKfQoKZnVuY3Rpb24gc2V0dXBHZXRGaWxlRGV0YWlsc0Zyb21BcGlHcm91cE5vY2tFbmRwb2ludCAoKSB7CiAgbm9jayhHSVRMQUJfQkFTRV9VUkkpCiAgICAuZ2V0KGAvZ3JvdXBzLyR7QVBJX0dST1VQX0lEfS9wcm9qZWN0c2ApCiAgICAucXVlcnkoYHByaXZhdGVfdG9rZW49JHtHSVRMQUJfUFJJVkFURV9BQ0NFU1NfVE9LRU59YCkKICAgIC5yZXBseVdpdGhGaWxlKE9LLCBfX2Rpcm5hbWUgKyAnL3Jlc3BvbnNlcy9nZXQtcHJvamVjdHMtaW4tZ3JvdXAtcmVzcG9uc2UuanNvbicsIHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfSkKfQoKZnVuY3Rpb24gc2V0dXBHZXRGaWxlRGV0YWlsc0Zyb21Qcm9qZWN0Tm9ja0VuZHBvaW50ICgpIHsKICBub2NrKEdJVExBQl9CQVNFX1VSSSkKICAgIC5nZXQoYC9wcm9qZWN0cy8ke1BST0pFQ1RfT05FX0lEfWApCiAgICAucXVlcnkoYHByaXZhdGVfdG9rZW49JHtHSVRMQUJfUFJJVkFURV9BQ0NFU1NfVE9LRU59YCkKICAgIC5yZXBseVdpdGhGaWxlKE9LLCBfX2Rpcm5hbWUgKyAnL3Jlc3BvbnNlcy9nZXQtc2luZ2xlLXByb2plY3QtcmVzcG9uc2UuanNvbicsIHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfSkKfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGJ1aWxkTWljcm9zZXJ2aWNlID0gZnVuY3Rpb24gKHByb2plY3QsIGRvY2tlckNvbXBvc2VDb250ZW50cyk6IE1pY3Jvc2VydmljZSB7CiAgICByZXR1cm4gewogICAgICBuYW1lOiBwcm9qZWN0Lm5hbWUsCiAgICAgIGRlc2NyaXB0aW9uOiBwcm9qZWN0LmRlc2NyaXB0aW9uLAogICAgICB2ZXJzaW9uOiAnJywKICAgICAgcmVwb3NpdG9yeVVybDogcHJvamVjdC5yZXBvc2l0b3J5VXJsLAogICAgICBsYXN0UmVwb3NpdG9yeUFjdGl2aXR5OiBwcm9qZWN0Lmxhc3RSZXBvc2l0b3J5QWN0aXZpdHksCiAgICAgIGRvY2tlckNvbXBvc2VDb250ZW50czogZG9ja2VyQ29tcG9zZUNvbnRlbnRzLAogICAgICBkZXBlbmRlbmNpZXM6IHVuZGVmaW5lZAogICAgfSBhcyBNaWNyb3NlcnZpY2UKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIk5vY2s6IE5vIG1hdGNoIGZvciByZXF1ZXN0IHtcbiAgXCJtZXRob2RcIjogXCJHRVRcIixcbiAgXCJ1cmxcIjogXCJodHRwczovL2dpdGxhYi5zdHJlYW0ubG9jYWwvZ3JvdXBzLzQ5L3Byb2plY3RzP3ByaXZhdGVfdG9rZW49YWJjZGVmZzEyMzQ1Njc4OTBcIlxufSIK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2FmZUxvYWQgfSBmcm9tICdqcy15YW1sJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm9jayB9IGZyb20gJ25vY2snCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlY29kZWRGaWxlID0gYXdhaXQgc2FmZUxvYWQoZmlsZS5jb250ZW50KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>details</text>
+        <text>extracted</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
