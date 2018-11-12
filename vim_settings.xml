@@ -190,10 +190,11 @@
         <mark key="]" line="218" column="71" />
         <mark key="." line="218" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542046164616">
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542048732313">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542018775984">
         <mark key="[" line="9" column="32" />
@@ -352,8 +353,8 @@
       <register name="1" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>async</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -380,7 +381,7 @@
         <text encoding="base64">aW1wb3J0IHsgc2FmZUxvYWQgfSBmcm9tICdqcy15YW1sJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>extracted</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
