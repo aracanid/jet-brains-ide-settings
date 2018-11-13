@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1542100152093">
+      <file name="/fragment.js" timestamp="1542128578355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
@@ -36,12 +36,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542125362713">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="6" column="85" />
-        <mark key="]" line="6" column="70" />
-        <mark key="^" line="6" column="70" />
-        <mark key="." line="6" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542129424641">
+        <mark key="'" line="16" column="18" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/git-project-request-service.test.ts" timestamp="1542102203254">
         <mark key="[" line="88" column="38" />
@@ -72,11 +72,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/MicroserviceDependencies.ts" timestamp="1542125329177">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="6" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/MicroserviceDependencies.ts" timestamp="1542127588893">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
         <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/responses/get-text-file-from-repository-response.json" timestamp="1542029655625">
         <mark key="[" line="1" column="34" />
@@ -96,13 +96,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542125044792">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="77" column="114" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542129535225">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542112017694">
+      <file name="/JavaScript Console" timestamp="1542129378315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1542098310461">
@@ -115,6 +114,9 @@
         <mark key="[" line="8" column="9" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1542126727128">
+        <mark key="[" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -140,40 +142,41 @@
       <jump line="7" column="21" filename="$USER_HOME$/Documents/Projects/Typescript/device-list/src/MetricsMiddleware.ts" />
       <jump line="22" column="18" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
+      <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYnVpbGRHaXRSZXF1ZXN0U2VydmljZVN0dWIgKCkgewogIGNvbnN0IGdpdFJlcXVlc3RTZXJ2aWNlU3R1YiA9IHNpbm9uLmNyZWF0ZVN0dWJJbnN0YW5jZShHaXRMYWJQcm9qZWN0UmVxdWVzdFNlcnZpY2UpCgogIGNvbnN0IGRvY2tlckNvbXBvc2VGaWxlQ29udGVudHNPbmUgPSBCYXNlNjQuZW5jb2RlKGZzLnJlYWRGaWxlU3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4vZG9ja2VyL2RvY2tlci1jb21wb3NlLXRlc3QtcHJvamVjdC0xLnltbCcpLCAndXRmOCcpKQogIGNvbnN0IGRvY2tlckNvbXBvc2VGaWxlQ29udGVudHNUd28gPSBCYXNlNjQuZW5jb2RlKGZzLnJlYWRGaWxlU3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4vZG9ja2VyL2RvY2tlci1jb21wb3NlLXRlc3QtcHJvamVjdC0yLnltbCcpLCAndXRmOCcpKQogIGNvbnN0IGRvY2tlckNvbXBvc2VGaWxlQ29udGVudHNUaHJlZSA9IEJhc2U2NC5lbmNvZGUoZnMucmVhZEZpbGVTeW5jKHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLi9kb2NrZXIvZG9ja2VyLWNvbXBvc2UtdGVzdC1wcm9qZWN0LTMueW1sJyksICd1dGY4JykpCiAgY29uc3QgZG9ja2VyQ29tcG9zZUZpbGVSZXNwb25zZUJhc2UgPSByZXF1aXJlKHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLi9yZXNwb25zZXMvZ2V0LWRvY2tlci1jb21wb3NlLWZpbGUtZnJvbS1yZXBvc2l0b3J5LXJlc3BvbnNlLmpzb24nKSkKICBjb25zdCBkb2NrZXJDb21wb3NlRmlsZVJlc3BvbnNlT25lID0geyAuLi5kb2NrZXJDb21wb3NlRmlsZVJlc3BvbnNlQmFzZSB9CiAgZG9ja2VyQ29tcG9zZUZpbGVSZXNwb25zZU9uZS5jb250ZW50ID0gZG9ja2VyQ29tcG9zZUZpbGVDb250ZW50c09uZQogIGNvbnN0IGRvY2tlckNvbXBvc2VGaWxlUmVzcG9uc2VUd28gPSB7IC4uLmRvY2tlckNvbXBvc2VGaWxlUmVzcG9uc2VCYXNlIH0KICBkb2NrZXJDb21wb3NlRmlsZVJlc3BvbnNlVHdvLmNvbnRlbnQgPSBkb2NrZXJDb21wb3NlRmlsZUNvbnRlbnRzVHdvCiAgY29uc3QgZG9ja2VyQ29tcG9zZUZpbGVSZXNwb25zZVRocmVlID0geyAuLi5kb2NrZXJDb21wb3NlRmlsZVJlc3BvbnNlQmFzZSB9CiAgZG9ja2VyQ29tcG9zZUZpbGVSZXNwb25zZVRocmVlLmNvbnRlbnQgPSBkb2NrZXJDb21wb3NlRmlsZUNvbnRlbnRzVGhyZWUKCiAgZ2l0UmVxdWVzdFNlcnZpY2VTdHViLmdldEZpbGVJbmZvcm1hdGlvbkZyb21Qcm9qZWN0LndpdGhBcmdzKDksICdkb2NrZXItY29tcG9zZS55bWwnKS5yZXNvbHZlcyhkb2NrZXJDb21wb3NlRmlsZVJlc3BvbnNlT25lKQogIGdpdFJlcXVlc3RTZXJ2aWNlU3R1Yi5nZXRGaWxlSW5mb3JtYXRpb25Gcm9tUHJvamVjdC53aXRoQXJncygxMCwgJ2RvY2tlci1jb21wb3NlLnltbCcpLnJlc29sdmVzKGRvY2tlckNvbXBvc2VGaWxlUmVzcG9uc2VUd28pCiAgZ2l0UmVxdWVzdFNlcnZpY2VTdHViLmdldEZpbGVJbmZvcm1hdGlvbkZyb21Qcm9qZWN0LndpdGhBcmdzKDExLCAnZG9ja2VyLWNvbXBvc2UueW1sJykucmVzb2x2ZXMoZG9ja2VyQ29tcG9zZUZpbGVSZXNwb25zZVRocmVlKQogIGdpdFJlcXVlc3RTZXJ2aWNlU3R1Yi5nZXRQcm9qZWN0SW5mb3JtYXRpb25Gcm9tR3JvdXAud2l0aEFyZ3MoNDkpLnJldHVybnMocmVxdWlyZShwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4vcmVzcG9uc2VzL2dldC1wcm9qZWN0cy1pbi1ncm91cC1yZXNwb25zZS5qc29uJykpKQogIGdpdFJlcXVlc3RTZXJ2aWNlU3R1Yi5nZXRQcm9qZWN0SW5mb3JtYXRpb25Gcm9tUHJvamVjdC53aXRoQXJncyg5KS5yZXR1cm5zKHJlcXVpcmUocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL3Jlc3BvbnNlcy9nZXQtc2luZ2xlLXByb2plY3QtcmVzcG9uc2UuanNvbicpKSkKCiAgcmV0dXJuIGdpdFJlcXVlc3RTZXJ2aWNlU3R1Ygp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TUFQUEVEX01JQ1JPU0VSVklDRV9PTkUuZGVwZW5kZW5jaWVzLnB1c2goeyAuLi5WQUxJRF9NSUNST1NFUlZJZENFXyB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0dpdExhYlByb2plY3RSZXF1ZXN0U2VydmljZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IG1pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL01pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbnRhaW5lci5zZXQoR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBnaXRSZXF1ZXN0U2VydmljZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZSA9IENvbnRhaW5lci5nZXQ8TWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlPihNaWNyb3NlcnZpY2VJbmZvcm1hdGlvblNlcnZpY2UpCg==</text>
+        <text encoding="base64">Y29uc3QgQVBJX0dST1VQX0lEID0gNDkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZSA9IENvbnRhaW5lci5nZXQ8TWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlPihNaWNyb3NlcnZpY2VJbmZvcm1hdGlvblNlcnZpY2UpCg==</text>
+        <text encoding="base64">Y29uc3QgUFJPSkVDVF9PTkVfSUQgPSA5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbnRhaW5lci5zZXQoR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBnaXRSZXF1ZXN0U2VydmljZVN0dWIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbnRhaW5lci5zZXQoR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBnaXRSZXF1ZXN0U2VydmljZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MAPPED_MICROSERVICE_THREE</text>
+        <text>s M</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
