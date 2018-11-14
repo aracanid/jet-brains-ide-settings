@@ -62,13 +62,13 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542193868523">
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="65" column="131" />
-        <mark key="." line="65" column="131" />
-        <mark key="^" line="65" column="131" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542204026420">
+        <mark key="[" line="78" column="45" />
+        <mark key="]" line="78" column="42" />
+        <mark key="^" line="78" column="42" />
+        <mark key="." line="78" column="42" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542194474836">
+      <file name="/JavaScript Console" timestamp="1542203818281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
@@ -109,7 +109,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542194636815">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542203691750">
         <mark key="'" line="16" column="18" />
         <mark key="x" line="17" column="23" />
         <mark key="i" line="17" column="22" />
@@ -132,6 +132,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/src/index.ts" timestamp="1538990180817">
         <mark key="[" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-2.yml" timestamp="1542202496556" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Services.ts" timestamp="1542189466282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="11" />
@@ -173,38 +174,38 @@
       <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSByZWFkb25seSBjcmVhdGVOZXdNaWNyb3NlcnZpY2VPYmplY3RGcm9tT2xkTWljcm9zZXJ2aWNlT2JqZWN0ID0gZnVuY3Rpb24gKG1pY3Jvc2VydmljZTogTWljcm9zZXJ2aWNlKTogTWljcm9zZXJ2aWNlIHsKICAgIHJldHVybiBuZXcgTWljcm9zZXJ2aWNlKAogICAgICBtaWNyb3NlcnZpY2UubmFtZSwKICAgICAgbWljcm9zZXJ2aWNlLmRlc2NyaXB0aW9uLAogICAgICBtaWNyb3NlcnZpY2UudmVyc2lvbiwKICAgICAgbWljcm9zZXJ2aWNlLnJlcG9zaXRvcnlVcmwsCiAgICAgIG1pY3Jvc2VydmljZS5sYXN0UmVwb3NpdG9yeUFjdGl2aXR5LAogICAgICBtaWNyb3NlcnZpY2UuZG9ja2VyQ29tcG9zZUNvbnRlbnQsCiAgICAgIG1pY3Jvc2VydmljZS5kZXBlbmRlbmNpZXMKICAgICkKICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlRGVwZW5kZW5jaWVzIH0gZnJvbSAnLi4vbW9kZWxzL01pY3Jvc2VydmljZURlcGVuZGVuY2llcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZnRlcigoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvcnM6IEFycmF5PEVycm9yPiA9IFtdCg==</text>
+        <text encoding="base64">bGV0IGludmFsaWRNYXBwZWRNaWNyb3NlcnZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JzLmNvbmNhdChlcnJvcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIEVYQU1QTEVfRU5WSVJPTk1FTlRfVkFSSUFCTEU9ZXhhbXBsZQo=</text>
+        <text encoding="base64">ICAgIGludmFsaWRNYXBwZWRNaWNyb3NlcnZpY2UuZXJyb3JzLnB1c2gobmV3IE1hcHBpbmdFcnJvcignVW5hYmxlIHRvIGZpbmQgZGVwZW5kZW5jeSB3aXRoIG5hbWUgW2RvY2tlci1yZWdpc3RyeS5zdHJlYW0ubG9jYWwvYXBpL2ludmFsaWRNaWNyb3NlcnZpY2VJbWFnZU5hbWVdIGZvciBtaWNyb3NlcnZpY2UgW3Rlc3QtcHJvamVjdC0yXScpZGRkKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgLSBkYXRhYmFzZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGludmFsaWRNYXBwZWRNaWNyb3NlcnZpY2UgPSBNaWNyb3NlcnZpY2UuZHVwbGljYXRlKHZhbGlkTWljcm9zZXJ2aWNlVHdvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
