@@ -51,12 +51,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542184261707">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1542188218155">
         <mark key="[" line="69" column="117" />
         <mark key="]" line="69" column="117" />
         <mark key="." line="69" column="117" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542129378315">
+      <file name="/JavaScript Console" timestamp="1542188226468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
@@ -96,12 +96,13 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542186721143">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542188145249">
         <mark key="'" line="17" column="18" />
         <mark key="i" line="18" column="22" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -147,34 +148,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZXBlbmRlbmN5Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0dpdExhYlByb2plY3RSZXF1ZXN0U2VydmljZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL01pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZScK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBkZXBlbmRlbmN5Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0dpdExhYlByb2plY3RSZXF1ZXN0U2VydmljZScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL01pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZScK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQVBJX0dST1VQX0lEID0gNDkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>undefined</text>
