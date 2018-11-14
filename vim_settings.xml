@@ -82,8 +82,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1542126727128">
-        <mark key="[" line="13" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1542186743863">
+        <mark key="[" line="15" column="187" />
+        <mark key="]" line="15" column="187" />
+        <mark key="." line="15" column="187" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-1.yml" timestamp="1542103923005">
         <mark key="[" line="16" column="59" />
@@ -94,12 +96,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542184688823">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1542186721143">
         <mark key="'" line="17" column="18" />
         <mark key="i" line="18" column="22" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -145,37 +147,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>extracted</text>
+        <text>undefined</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZXBlbmRlbmN5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0dpdExhYlByb2plY3RSZXF1ZXN0U2VydmljZScK</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlLCBJR2l0UHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0lHaXRQcm9qZWN0UmVxdWVzdFNlcnZpY2UnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL01pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZScK</text>
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0TGFiUHJvamVjdFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL0dpdExhYlByb2plY3RSZXF1ZXN0U2VydmljZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQVBJX0dST1VQX0lEID0gNDkK</text>
+        <text encoding="base64">aW1wb3J0IHsgTWljcm9zZXJ2aWNlSW5mb3JtYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc3JjL3NlcnZpY2VzL01pY3Jvc2VydmljZUluZm9ybWF0aW9uU2VydmljZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUFJPSkVDVF9PTkVfSUQgPSA5Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgQVBJX0dST1VQX0lEID0gNDkK</text>
+      </register>
       <register name="-" type="4">
-        <text>extracted</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
