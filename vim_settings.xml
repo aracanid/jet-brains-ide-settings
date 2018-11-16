@@ -9,11 +9,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542366607407">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542386758582">
+        <mark key="[" line="59" column="33" />
+        <mark key="]" line="59" column="33" />
         <mark key="^" line="83" column="14" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="59" column="33" />
       </file>
       <file name="/fragment.js" timestamp="1542362342993">
         <mark key="[" line="0" column="0" />
@@ -30,14 +30,22 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542365621683">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542386340868">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542380485213">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1542384205458">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542386599480">
+        <mark key="[" line="98" column="14" />
+        <mark key="]" line="98" column="14" />
+        <mark key="^" line="98" column="14" />
+        <mark key="." line="98" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/SubscriberController.ts" timestamp="1542299014816">
         <mark key="[" line="98" column="30" />
@@ -45,16 +53,13 @@
         <mark key="^" line="77" column="97" />
         <mark key="." line="77" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/index.ts" timestamp="1542378101694">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/index.ts" timestamp="1542385496752">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542378342027">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542384570660">
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
         <mark key="[" line="84" column="39" />
@@ -65,6 +70,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/stream-api-utilities/index.ts" timestamp="1542386211677" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/package.json" timestamp="1542110388969">
         <mark key="[" line="65" column="18" />
       </file>
@@ -123,8 +129,10 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
         <mark key="[" line="28" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/utilities/openAPIGenerate.ts" timestamp="1542303293937">
-        <mark key="[" line="15" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/utilities/openAPIGenerate.ts" timestamp="1542385525212">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/ProjectSerializer.ts" timestamp="1542288951914">
         <mark key="[" line="3" column="0" />
@@ -195,16 +203,22 @@
       <file name="/JavaScript Console" timestamp="1542362390360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542367097841">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542385361029">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/NetworkState.ts" timestamp="1542367065849">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/NetworkState.ts" timestamp="1542386075554">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
+        <mark key="[" line="0" column="123" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542386732777">
+        <mark key="[" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1542277677226">
         <mark key="[" line="8" column="25" />
@@ -217,6 +231,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" timestamp="1542385323851">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1542194418287">
         <mark key="[" line="25" column="2" />
         <mark key="]" line="25" column="2" />
@@ -228,13 +247,18 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542362910554">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542386883664">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/config/routingControllerOptions.ts" timestamp="1542386190295">
+        <mark key="[" line="2" column="103" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/responses/get-projects-in-group-response.json" timestamp="1542112732246">
         <mark key="[" line="77" column="34" />
@@ -310,40 +334,50 @@
       <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
       <jump line="83" column="29" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" />
+      <jump line="363" column="4" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" />
+      <jump line="362" column="4" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBASlNPTlNjaGVtYSh7CiAgICBkZXNjcmlwdGlvbjogYFRoZSBzdWJzY3JpYmVyJ3MgdW5pcXVlIGlkZW50aWZpZXIuIEZvciBhIGNlbGx1bGFyIHN1YnNjcmliZXIgdGhpcyBpcyBpdHMgSUNDSUQuIEZvciBhIExvUmEgc3Vic2NyaWJlciB0aGlzIGlzIGl0cyBEZXZpY2UgRVVJLiBGb3IgYSBzYXRlbGxpdGUgc3Vic2NyaWJlciB0aGlzIGlzIGl0cyBJTUVJLmAsCiAgICBleGFtcGxlOiAnODk0NDAwMDAwMDAwMDAwMDAwMScKICB9KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>nul</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGVybWlzc2lvbnMgfSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1Blcm1pc3Npb25zTWlkZGxld2FyZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFN1YnNjcmliZXJDb250cm9sbGVyIGZyb20gJy4vY29udHJvbGxlcnMvU3Vic2NyaWJlckNvbnRyb2xsZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUgfSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMnCg==</text>
+        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="7" type="4">
+        <text>import SubscriberController from '../src/controllers/SubscriberController'
+import { HttpLoggingMiddleware } from 'stream-api-utilities/'
+import { ErrorHandler } from 'stream-api-utilities/src/middleware/ErrorHandler'
+import { StreamApiGatewayHeaderMiddleware } from 'stream-api-extensions'
+import { PaginationMiddleware } from 'stream-api-utilities/src/middleware/PaginationMiddleware'
+import { OrderByMiddleware } from 'stream-api-utilities/src/middleware/OrderByMiddleware'
+import { FilterMiddleware } from 'stream-api-utilities/src/middleware/FilterMiddleware'
+import { Permissions } from 'stream-api-extensions/dist/middleware/PermissionsMiddleware'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbjogJ0luZm9ybWF0aW9uIHJlbGF0ZWQgdG8gdGhlIGNvbm5lY3Rpdml0eSBzdGF0ZSBvZiB0aGUgc3Vic2NyaWJlci4nCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEpTT05TY2hlbWEoewo=</text>
+        <text encoding="base64">bGV0IGRiOiBDb25uZWN0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>nul</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
