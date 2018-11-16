@@ -33,11 +33,28 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542365621683">
         <mark key="'" line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542378932191">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/SubscriberController.ts" timestamp="1542299014816">
         <mark key="[" line="98" column="30" />
         <mark key="]" line="77" column="97" />
         <mark key="^" line="77" column="97" />
         <mark key="." line="77" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/index.ts" timestamp="1542378101694">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542378342027">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
         <mark key="[" line="84" column="39" />
@@ -295,38 +312,38 @@
       <jump line="90" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBASlNPTlNjaGVtYSh7CiAgICBkZXNjcmlwdGlvbjogYFRoZSBzdWJzY3JpYmVyJ3MgdW5pcXVlIGlkZW50aWZpZXIuIEZvciBhIGNlbGx1bGFyIHN1YnNjcmliZXIgdGhpcyBpcyBpdHMgSUNDSUQuIEZvciBhIExvUmEgc3Vic2NyaWJlciB0aGlzIGlzIGl0cyBEZXZpY2UgRVVJLiBGb3IgYSBzYXRlbGxpdGUgc3Vic2NyaWJlciB0aGlzIGlzIGl0cyBJTUVJLmAsCiAgICBleGFtcGxlOiAnODk0NDAwMDAwMDAwMDAwMDAwMScKICB9KQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbjogJ0luZm9ybWF0aW9uIHJlbGF0ZWQgdG8gdGhlIGNvbm5lY3Rpdml0eSBzdGF0ZSBvZiB0aGUgc3Vic2NyaWJlci4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEpTT05TY2hlbWEoewo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGVybWlzc2lvbnMgfSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1Blcm1pc3Npb25zTWlkZGxld2FyZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXhjbHVkZSB9IGZyb20gJ2NsYXNzLXRyYW5zZm9ybWVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IFN1YnNjcmliZXJDb250cm9sbGVyIGZyb20gJy4vY29udHJvbGxlcnMvU3Vic2NyaWJlckNvbnRyb2xsZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSXNOdW1iZXIsIElzU3RyaW5nLCBJc0RhdGUgfSBmcm9tICdjbGFzcy12YWxpZGF0b3InCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUgfSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASXNOdW1iZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBARXhjbHVkZSgpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASXNTdHJpbmcoKQo=</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbjogJ0luZm9ybWF0aW9uIHJlbGF0ZWQgdG8gdGhlIGNvbm5lY3Rpdml0eSBzdGF0ZSBvZiB0aGUgc3Vic2NyaWJlci4nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASXNEYXRlKCkK</text>
+        <text encoding="base64">QEpTT05TY2hlbWEoewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzcG9uc2Ug</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
