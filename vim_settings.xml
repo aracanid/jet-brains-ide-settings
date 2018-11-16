@@ -9,11 +9,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542362485832">
-        <mark key="[" line="176" column="50" />
-        <mark key="]" line="153" column="14" />
-        <mark key="." line="153" column="14" />
-        <mark key="^" line="153" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542366607407">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="83" column="14" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1542362342993">
         <mark key="[" line="0" column="0" />
@@ -178,11 +178,16 @@
       <file name="/JavaScript Console" timestamp="1542362390360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542361637258">
-        <mark key="[" line="2" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542367097841">
+        <mark key="[" line="28" column="29" />
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/NetworkState.ts" timestamp="1542367065849">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1542277677226">
         <mark key="[" line="8" column="25" />
@@ -253,6 +258,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/DataUsage.ts" timestamp="1542366829868">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MappingError.ts" timestamp="1542213528340">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="4" column="19" />
@@ -286,34 +296,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRvci52YWxpZGF0ZSh7ICRyZWY6IHN3YWdnZXJSZWYgfSwgc3Vic2NyaWJlcnMpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRvci52YWxpZGF0ZSh7ICRyZWY6IHN3YWdnZXJSZWYgfSwgc3Vic2NyaWJlcnMpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRvci5lcnJvcnMpCg==</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbjogJ0luZm9ybWF0aW9uIHJlbGF0ZWQgdG8gdGhlIGNvbm5lY3Rpdml0eSBzdGF0ZSBvZiB0aGUgc3Vic2NyaWJlci4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIwLjEuMSIsCg==</text>
+        <text encoding="base64">QEpTT05TY2hlbWEoewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXhjbHVkZSB9IGZyb20gJ2NsYXNzLXRyYW5zZm9ybWVyJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVN1YnNjcmliZXIgfSBmcm9tICcuLicK</text>
+        <text encoding="base64">aW1wb3J0IHsgSXNOdW1iZXIsIElzU3RyaW5nLCBJc0RhdGUgfSBmcm9tICdjbGFzcy12YWxpZGF0b3InCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASXNOdW1iZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbmQnLHByb2plY3RKc29uLmlkKQo=</text>
+        <text encoding="base64">ICBARXhjbHVkZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCcscHJvamVjdEpzb24uaWQpZGQK</text>
+        <text encoding="base64">ICBASXNTdHJpbmcoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnc3RyZWFtLWFwaS11dGlsaXRpZXMnCg==</text>
+        <text encoding="base64">ICBASXNEYXRlKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UmVzcG9uc2Ug</text>
