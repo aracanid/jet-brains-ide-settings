@@ -30,6 +30,9 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542365621683">
+        <mark key="'" line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/SubscriberController.ts" timestamp="1542299014816">
         <mark key="[" line="98" column="30" />
         <mark key="]" line="77" column="97" />
@@ -158,7 +161,6 @@
       <file name="timers.js" timestamp="1542102413741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1542362424710" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
@@ -182,7 +184,6 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542362112284" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1542277677226">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="24" column="0" />
@@ -281,6 +282,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
       <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" />
       <jump line="83" column="29" filename="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
