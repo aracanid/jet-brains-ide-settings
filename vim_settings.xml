@@ -9,10 +9,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542361775314">
-        <mark key="[" line="139" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542362485832">
+        <mark key="[" line="176" column="50" />
+        <mark key="]" line="153" column="14" />
+        <mark key="." line="153" column="14" />
+        <mark key="^" line="153" column="14" />
       </file>
-      <file name="/fragment.js" timestamp="1542194434816">
+      <file name="/fragment.js" timestamp="1542362342993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
@@ -92,6 +95,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542362679783">
+        <mark key="[" line="125" column="44" />
+        <mark key="]" line="125" column="44" />
+        <mark key="." line="125" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
         <mark key="[" line="28" column="76" />
       </file>
@@ -150,6 +158,7 @@
       <file name="timers.js" timestamp="1542102413741">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1542362424710" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
@@ -164,7 +173,7 @@
         <mark key="^" line="0" column="1817" />
         <mark key="." line="0" column="1817" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542303915060">
+      <file name="/JavaScript Console" timestamp="1542362390360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542361637258">
@@ -173,6 +182,7 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542362112284" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/FileSerializer.ts" timestamp="1542277677226">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="24" column="0" />
@@ -195,10 +205,10 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542303745090">
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542362910554">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -274,37 +284,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIwLjEuMSIsCg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRvci52YWxpZGF0ZSh7ICRyZWY6IHN3YWdnZXJSZWYgfSwgc3Vic2NyaWJlcnMpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGlzdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbGlkYXRvci52YWxpZGF0ZSh7ICRyZWY6IHN3YWdnZXJSZWYgfSwgc3Vic2NyaWJlcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRvci5lcnJvcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVN1YnNjcmliZXIgfSBmcm9tICcuLicK</text>
+        <text encoding="base64">ICAidmVyc2lvbiI6ICIwLjEuMSIsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbmQnLHByb2plY3RKc29uLmlkKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVN1YnNjcmliZXIgfSBmcm9tICcuLicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCcscHJvamVjdEpzb24uaWQpZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnc3RyZWFtLWFwaS11dGlsaXRpZXMnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbmQnLHByb2plY3RKc29uLmlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcih7IGlkLCBuZGRkZGRkYW1lLCBkZXNjcmlwdGlvbiwgcmVwb3NpdG9yeVVybCwgbGFzdFJlcG9zaXRvcnlBY3Rpdml0eSB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCcscHJvamVjdEpzb24uaWQpZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2plY3RzKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnc3RyZWFtLWFwaS11dGlsaXRpZXMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGlzdCA=</text>
+        <text encoding="base64">UmVzcG9uc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>buffer</text>
