@@ -18,6 +18,12 @@
       <file name="/fragment.js" timestamp="1542630584035">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/typescript-api-utilities/test/middleware/EndpointSchemaGeneration.test.ts" timestamp="1542641782555">
+        <mark key="[" line="280" column="14" />
+        <mark key="]" line="280" column="14" />
+        <mark key="." line="280" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542642742530" />
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,10 +63,20 @@
         <mark key="^" line="77" column="97" />
         <mark key="." line="77" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/package.json" timestamp="1542641866056">
+        <mark key="[" line="26" column="97" />
+        <mark key="]" line="26" column="97" />
+        <mark key="." line="26" column="97" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/index.ts" timestamp="1542385496752">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/typescript-api-utilities/src/utility/generateEndpointSchema.ts" timestamp="1542641721915">
+        <mark key="[" line="86" column="64" />
+        <mark key="]" line="86" column="64" />
+        <mark key="." line="86" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
         <mark key="[" line="84" column="39" />
@@ -82,6 +98,12 @@
         <mark key="]" line="77" column="168" />
         <mark key="." line="77" column="168" />
         <mark key="^" line="77" column="168" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/src/decorators.ts" timestamp="1542642087315">
+        <mark key="[" line="219" column="10" />
+        <mark key="]" line="219" column="8" />
+        <mark key="." line="219" column="8" />
+        <mark key="^" line="219" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-1.yml" timestamp="1542189407104">
         <mark key="[" line="16" column="59" />
@@ -107,6 +129,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/SubscriberFixtures.ts" timestamp="1542301814970">
         <mark key="[" line="106" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/decorators.test.ts" timestamp="1542642688311">
+        <mark key="[" line="188" column="6" />
+        <mark key="]" line="187" column="45" />
+        <mark key="." line="187" column="45" />
+        <mark key="^" line="187" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/repository/CompanyDeviceRepository.ts" timestamp="1542297835862">
         <mark key="[" line="4" column="26" />
@@ -214,7 +242,12 @@
         <mark key="." line="0" column="1817" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1542630613791" />
-      <file name="/JavaScript Console" timestamp="1542630637506">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/snapshots/swagger.json" timestamp="1542643307844">
+        <mark key="[" line="438" column="22" />
+        <mark key="]" line="438" column="22" />
+        <mark key="." line="438" column="22" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1542642202712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542385361029">
@@ -361,37 +394,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnVsbCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAvLyBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlCiAgLy8gICAudGhlbihjb25uZWN0aW9ucyA9PiB7CiAgLy8gICAgIGNvbm5lY3Rpb25zLmZvckVhY2goY29ubmVjdGlvbiA9PiB7IGNvbnN0IGRiID0gY29ubmVjdGlvbiB9KQogIC8vICAgfSkKICAvLyAgIC5jYXRjaCgoKSA9PiB7IC8qIERvIE5vdGhpbmcgKi8gfSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnVsbCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
