@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1542298675569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/config.ts" timestamp="1542621886165">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/config.ts" timestamp="1542629882947">
         <mark key="[" line="22" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/ContainerInstance.ts" timestamp="1542098478265">
@@ -129,7 +129,7 @@
         <mark key="]" line="125" column="44" />
         <mark key="." line="125" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/arm-openapi/dist/src/decorators.js" timestamp="1542622705599" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/arm-openapi/dist/src/decorators.js" timestamp="1542629678245" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
         <mark key="[" line="28" column="76" />
       </file>
@@ -160,6 +160,11 @@
         <mark key="]" line="29" column="32" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1542630209917">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/MicroserviceInformationService.ts" timestamp="1542289085776">
         <mark key="[" line="47" column="0" />
@@ -204,7 +209,7 @@
         <mark key="^" line="0" column="1817" />
         <mark key="." line="0" column="1817" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542622707958">
+      <file name="/JavaScript Console" timestamp="1542630510617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542385361029">
@@ -251,7 +256,7 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542621985221">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542630505055">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
@@ -346,10 +351,10 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>nul</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,12 +366,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>import SubscriberController from '../src/controllers/SubscriberController'
 import { HttpLoggingMiddleware } from 'stream-api-utilities/'
 import { ErrorHandler } from 'stream-api-utilities/src/middleware/ErrorHandler'
@@ -376,11 +384,8 @@ import { OrderByMiddleware } from 'stream-api-utilities/src/middleware/OrderByMi
 import { FilterMiddleware } from 'stream-api-utilities/src/middleware/FilterMiddleware'
 import { Permissions } from 'stream-api-extensions/dist/middleware/PermissionsMiddleware'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGRiOiBDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
       </register>
       <register name="-" type="4">
         <text>nul</text>
