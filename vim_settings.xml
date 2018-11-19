@@ -15,7 +15,7 @@
         <mark key="^" line="83" column="14" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="/fragment.js" timestamp="1542362342993">
+      <file name="/fragment.js" timestamp="1542630584035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
@@ -44,7 +44,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542622277561">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542630559277">
         <mark key="'" line="152" column="69" />
         <mark key="[" line="22" column="63" />
         <mark key="]" line="98" column="14" />
@@ -61,9 +61,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542384570660">
-        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
         <mark key="[" line="84" column="39" />
@@ -124,10 +121,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542362679783">
-        <mark key="[" line="125" column="44" />
-        <mark key="]" line="125" column="44" />
-        <mark key="." line="125" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542631208850">
+        <mark key="[" line="130" column="84" />
+        <mark key="]" line="138" column="61" />
+        <mark key="." line="138" column="61" />
+        <mark key="^" line="138" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/arm-openapi/dist/src/decorators.js" timestamp="1542629678245" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
@@ -209,7 +207,8 @@
         <mark key="^" line="0" column="1817" />
         <mark key="." line="0" column="1817" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542630510617">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1542630613791" />
+      <file name="/JavaScript Console" timestamp="1542630637506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542385361029">
@@ -240,6 +239,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1542631267473" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" timestamp="1542621492181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -353,8 +353,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>000Z</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -388,7 +388,7 @@ import { Permissions } from 'stream-api-extensions/dist/middleware/PermissionsMi
         <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
       </register>
       <register name="-" type="4">
-        <text>nul</text>
+        <text>000Z</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
