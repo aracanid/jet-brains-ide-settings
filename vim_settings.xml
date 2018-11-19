@@ -80,6 +80,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542648285641" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/typescript-api-utilities/src/utility/generateEndpointSchema.ts" timestamp="1542641721915">
         <mark key="[" line="86" column="64" />
         <mark key="]" line="86" column="64" />
@@ -284,10 +285,10 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1542644686891">
-        <mark key="[" line="87" column="7" />
-        <mark key="]" line="88" column="10" />
-        <mark key="." line="88" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1542648418302">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
         <mark key="^" line="88" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" timestamp="1542621492181">
@@ -404,7 +405,7 @@
         <text encoding="base64">ICBASXNEZWZpbmVkKCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">Q2hhcmdlcyA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBASXNPcHRpb25hbCgpCg==</text>
@@ -431,7 +432,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">Q2hhcmdlcyA=</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
