@@ -44,12 +44,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542630559277">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542635262953">
         <mark key="'" line="152" column="69" />
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="98" column="14" />
-        <mark key="^" line="98" column="14" />
-        <mark key="." line="98" column="14" />
+        <mark key="[" line="185" column="22" />
+        <mark key="]" line="185" column="31" />
+        <mark key="^" line="185" column="31" />
+        <mark key="." line="185" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/controllers/SubscriberController.ts" timestamp="1542299014816">
         <mark key="[" line="98" column="30" />
@@ -76,6 +76,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542301716230">
         <mark key="[" line="3" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/SubscriberFixtures.ts" timestamp="1542635314807">
+        <mark key="[" line="77" column="148" />
+        <mark key="]" line="77" column="168" />
+        <mark key="." line="77" column="168" />
+        <mark key="^" line="77" column="168" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-1.yml" timestamp="1542189407104">
         <mark key="[" line="16" column="59" />
@@ -239,7 +245,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1542631267473" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1542634788730">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/swagger.json" timestamp="1542621492181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -256,10 +266,10 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542630505055">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542635042933">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -351,16 +361,16 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>000Z</text>
+        <text encoding="base64">bnVsbCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAvLyBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlCiAgLy8gICAudGhlbihjb25uZWN0aW9ucyA9PiB7CiAgLy8gICAgIGNvbm5lY3Rpb25zLmZvckVhY2goY29ubmVjdGlvbiA9PiB7IGNvbnN0IGRiID0gY29ubmVjdGlvbiB9KQogIC8vICAgfSkKICAvLyAgIC5jYXRjaCgoKSA9PiB7IC8qIERvIE5vdGhpbmcgKi8gfSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBMT0NBTElaQVRJT05fTE9BRF9QQVRIPS9Vc2Vycy9qdXNtY20wMS9Eb2N1bWVudHMvUHJvamVjdHMvVHlwZXNjcmlwdC9zdWJzY3JpYmVycy9sb2NhbGVzL2VuX0dCL29wZW5hcGkuanNvbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -369,26 +379,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import SubscriberController from '../src/controllers/SubscriberController'
-import { HttpLoggingMiddleware } from 'stream-api-utilities/'
-import { ErrorHandler } from 'stream-api-utilities/src/middleware/ErrorHandler'
-import { StreamApiGatewayHeaderMiddleware } from 'stream-api-extensions'
-import { PaginationMiddleware } from 'stream-api-utilities/src/middleware/PaginationMiddleware'
-import { OrderByMiddleware } from 'stream-api-utilities/src/middleware/OrderByMiddleware'
-import { FilterMiddleware } from 'stream-api-utilities/src/middleware/FilterMiddleware'
-import { Permissions } from 'stream-api-extensions/dist/middleware/PermissionsMiddleware'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBtaWRkbGV3YXJlczogWyBIdHRwTG9nZ2luZ01pZGRsZXdhcmUsIEVycm9ySGFuZGxlciwgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUsIFBhZ2luYXRpb25NaWRkbGV3YXJlLCBPcmRlckJ5TWlkZGxld2FyZSwgRmlsdGVyTWlkZGxld2FyZSBdLAogIGNsYXNzVHJhbnNmb3JtZXI6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>000Z</text>
+        <text encoding="base64">bnVsbCA=</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
