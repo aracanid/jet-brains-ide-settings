@@ -37,6 +37,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-disable-profile.test.ts" timestamp="1542732954376">
+        <mark key="[" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-ip-addresses/src/models/subscriber.ts" timestamp="1542710584209">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="0" />
@@ -69,6 +72,9 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/package.json" timestamp="1542110388969">
         <mark key="[" line="65" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/interfaces.ts" timestamp="1542731983741">
+        <mark key="[" line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/SubscriberFixtures.ts" timestamp="1542635314807">
         <mark key="[" line="77" column="148" />
         <mark key="]" line="77" column="168" />
@@ -93,6 +99,9 @@
         <mark key="]" line="13" column="69" />
         <mark key="^" line="13" column="69" />
         <mark key="." line="13" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/AdminActionService.ts" timestamp="1542732102126">
+        <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
         <mark key="[" line="28" column="76" />
@@ -145,12 +154,6 @@
         <mark key="]" line="3018" column="0" />
         <mark key="." line="3018" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/search/docker-compose.yml" timestamp="1542730949929">
-        <mark key="'" line="38" column="55" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542646320965">
         <mark key="[" line="28" column="84" />
         <mark key="]" line="28" column="85" />
@@ -169,6 +172,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/ValidationService.ts" timestamp="1542732407217">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="80" />
+        <mark key="." line="6" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1542194418287">
         <mark key="[" line="25" column="2" />
@@ -207,6 +215,9 @@
         <mark key="[" line="52" column="71" />
         <mark key="]" line="52" column="71" />
         <mark key="." line="52" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/SubscriberService.ts" timestamp="1542732297039">
+        <mark key="[" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Services.ts" timestamp="1542189466282">
         <mark key="[" line="0" column="0" />
@@ -267,6 +278,12 @@
         <mark key="^" line="77" column="97" />
         <mark key="." line="77" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-attach-profile.test.ts" timestamp="1542732781713">
+        <mark key="[" line="211" column="49" />
+        <mark key="]" line="211" column="49" />
+        <mark key="^" line="211" column="49" />
+        <mark key="." line="211" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/package.json" timestamp="1542645546470">
         <mark key="[" line="26" column="97" />
         <mark key="]" line="26" column="97" />
@@ -275,10 +292,33 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/models/TagWithCount.ts" timestamp="1542726668891">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/TransactionLogService.ts" timestamp="1542732276686">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/typescript-api-utilities/src/utility/generateEndpointSchema.ts" timestamp="1542641721915">
         <mark key="[" line="86" column="64" />
         <mark key="]" line="86" column="64" />
         <mark key="." line="86" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-enable-profile.test.ts" timestamp="1542732908929">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-detach-profile.test.ts" timestamp="1542732659403">
+        <mark key="[" line="104" column="83" />
+        <mark key="]" line="104" column="83" />
+        <mark key="^" line="104" column="83" />
+        <mark key="." line="104" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/controllers/EuiccActionController.ts" timestamp="1542732510617">
+        <mark key="[" line="80" column="128" />
+        <mark key="]" line="80" column="128" />
+        <mark key="." line="80" column="128" />
+        <mark key="^" line="60" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542301716230">
         <mark key="[" line="3" column="72" />
@@ -293,6 +333,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-sync-euicc-device.test.ts" timestamp="1542732975838">
+        <mark key="[" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitProjectRequestService.ts" timestamp="1542110573897">
         <mark key="[" line="10" column="0" />
@@ -311,6 +354,9 @@
         <mark key="]" line="187" column="45" />
         <mark key="." line="187" column="45" />
         <mark key="^" line="187" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-attach-profile.test.ts" timestamp="1542732863923">
+        <mark key="[" line="51" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/git-project-request-service.test.ts" timestamp="1542184135853">
         <mark key="[" line="88" column="38" />
@@ -356,6 +402,9 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542277892111">
         <mark key="[" line="11" column="118" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/validators.ts" timestamp="1542732028467">
+        <mark key="[" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/MicroserviceDependencies.ts" timestamp="1542127588893">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -399,6 +448,9 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542732876540">
+        <mark key="[" line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" timestamp="1542726809691">
         <mark key="[" line="24" column="17" />
       </file>
@@ -424,6 +476,9 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/UserActionService.ts" timestamp="1542732188385">
+        <mark key="[" line="4" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/repository/CompanySubscriberRepository.ts" timestamp="1542298057066">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="37" />
@@ -443,6 +498,15 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542302963491">
         <mark key="[" line="36" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-detach-profile.test.ts" timestamp="1542732914121">
+        <mark key="[" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-audit-euicc-device.test.ts" timestamp="1542733249972">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -474,37 +538,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGV2aWNlLXN0YXRlOgogICAgaW1hZ2U6IGRvY2tlci1yZWdpc3RyeS5zdHJlYW0ubG9jYWwvYXBpL2RldmljZS1zdGF0ZTpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtIDgwODc6MzAwMAogICAgbGlua3M6CiAgICAgIC0gY29uLWRiOmRhdGFiYXNlCiAgICAgIC0gY29uLWRiOmNvbnJlYWRob3N0CiAgICBkZXBlbmRzX29uOgogICAgICAtIGNvbi1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gREFUQUJBU0VfVVJJPW15c3FsOi8vZGV2OmZ1bGxzdHJlYW1haGVhZEBkYXRhYmFzZS9pa2lkcwogICAgICAtIERBVEFCQVNFX1NZTkM9ZmFsc2UKICAgICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
+        <text encoding="base64">ICBAT3BlbkFQSShnZW5lcmF0ZUVuZHBvaW50U2NoZW1hKG51bGwsIFtbTm90Rm91bmRFcnJvciwgYERldmljZSB3aXRoIGlkIDpwaHlzaWNhbElkIGNvdWxkIG5vdCBiZSBmb3VuZGBdLCBbTm90Rm91bmRFcnJvciwgYERldmljZSB3aXRoIGlkIDpwaHlzaWNhbElkIGNvdWxkIG5vdCBiZSBmb3VuZGBdLCBbQmFkUmVxdWVzdEVycm9yLCBgVW5hYmxlIHRvIDphY3Rpb24uIFByb2ZpbGUgOmNoaWxkUGh5c2ljYWxJZCBpcyBub3QgY3VycmVudGx5IGF0dGFjaGVkIHRvIGFueSBldWljYyBkZXZpY2VzYF0sIFtCYWRSZXF1ZXN0RXJyb3IsIGBVbmFibGUgdG8gOmFjdGlvbi4gUHJvZmlsZSA6Y2hpbGRQaHlzaWNhbElkIGlzIGN1cnJlbnRseSBlbmFibGVkIG9uIDpwYXJlbnRQaHlzaWNhbElkLmBdXSwgW10sIHsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>exports</text>
+        <text>Device</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBERVZJQ0VfU1RBVEVfVVJMPWh0dHA6Ly9kZXZpY2Utc3RhdGU6MzAwMAo=</text>
+        <text encoding="base64">CiAgZGV2aWNlLXN0YXRlOgogICAgaW1hZ2U6IGRvY2tlci1yZWdpc3RyeS5zdHJlYW0ubG9jYWwvYXBpL2RldmljZS1zdGF0ZTpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtIDgwODc6MzAwMAogICAgbGlua3M6CiAgICAgIC0gY29uLWRiOmRhdGFiYXNlCiAgICAgIC0gY29uLWRiOmNvbnJlYWRob3N0CiAgICBkZXBlbmRzX29uOgogICAgICAtIGNvbi1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gREFUQUJBU0VfVVJJPW15c3FsOi8vZGV2OmZ1bGxzdHJlYW1haGVhZEBkYXRhYmFzZS9pa2lkcwogICAgICAtIERBVEFCQVNFX1NZTkM9ZmFsc2UKICAgICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBERVZJQ0VfU1RBVEVfVVJMPWh0dHA6Ly9kZXZpY2Utc3RhdGU6MzAwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbXBhbnkgPSBhd2FpdCB0aGlzLmdldENvbXBhbnkoY29tcGFueUlkKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgSU5WQUxJRF9VU0VSX0lEID0gJzEwMDAnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNvbXBhbnkgPSBhd2FpdCB0aGlzLmdldENvbXBhbnkoY29tcGFueUlkKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgSU5WQUxJRF9VU0VSX0lEID0gJzEwMDAnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGFwcCkudG8ubm90LmVxdWFsKG51bGwpCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdTaG91bGQgZXhpc3QnLCBhc3luYyAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGFwcCkudG8ubm90LmVxdWFsKG51bGwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>exports</text>
+        <text>Device</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
