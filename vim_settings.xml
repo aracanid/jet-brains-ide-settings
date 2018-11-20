@@ -197,6 +197,11 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1542726387788">
+        <mark key="[" line="177" column="26" />
+        <mark key="]" line="177" column="26" />
+        <mark key="." line="177" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/serializers/ProjectSerializer.ts" timestamp="1542288951914">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -441,7 +446,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>DEVICE_LIST_URL</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNvbXBhbnkgPSBhd2FpdCB0aGlzLmdldENvbXBhbnkoY29tcGFueUlkKQo=</text>
@@ -468,7 +473,7 @@
         <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>DEVICE_LIST_URL</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
