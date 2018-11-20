@@ -12,7 +12,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/CompanySubscriber.ts" timestamp="1542386758582">
         <mark key="[" line="59" column="33" />
         <mark key="]" line="59" column="33" />
-        <mark key="^" line="83" column="14" />
         <mark key="." line="59" column="33" />
       </file>
       <file name="/fragment.js" timestamp="1542630584035">
@@ -52,10 +51,17 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1542384205458">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542720380523">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1542720486266">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542647390651">
         <mark key="'" line="150" column="69" />
@@ -276,6 +282,7 @@
         <mark key="]" line="1" column="49" />
         <mark key="." line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Profile.ts" timestamp="1542720245944" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
         <mark key="[" line="0" column="123" />
       </file>
@@ -418,7 +425,7 @@
         <text encoding="base64">aW1wb3J0IHsgT3BlbkFQSSB9IGZyb20gJ3JvdXRpbmctY29uZGR0cm9sbGVycy1vcGVuYXBpJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>i</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -445,7 +452,7 @@
         <text encoding="base64">ICAvLyBUaGlzIHNwZWNpZmljIGZ1bmN0aW9uIGlzIG1vdW50ZWQgYXQgL2Fwbi9pcC86cGh5c2NpYWxJZAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
