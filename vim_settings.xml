@@ -43,6 +43,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/ContainerInstance.ts" timestamp="1542098478265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-ip-addresses/src/controllers/APNIPAddressController.ts" timestamp="1542710832075">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
@@ -70,6 +76,11 @@
         <mark key="^" line="77" column="97" />
         <mark key="." line="77" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-ip-addresses/src/models/subscriber.ts" timestamp="1542710584209">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/package.json" timestamp="1542645546470">
         <mark key="[" line="26" column="97" />
         <mark key="]" line="26" column="97" />
@@ -80,7 +91,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1542648285641" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/typescript-api-utilities/src/utility/generateEndpointSchema.ts" timestamp="1542641721915">
         <mark key="[" line="86" column="64" />
         <mark key="]" line="86" column="64" />
@@ -248,7 +258,6 @@
         <mark key="^" line="0" column="1817" />
         <mark key="." line="0" column="1817" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1542647082532" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/snapshots/swagger.json" timestamp="1542643974633">
         <mark key="[" line="3018" column="0" />
         <mark key="]" line="3018" column="0" />
@@ -402,34 +411,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBASXNEZWZpbmVkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q2hhcmdlcyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASXNPcHRpb25hbCgpCg==</text>
+        <text encoding="base64">ICAvLyBUaGlzIHNwZWNpZmljIGZ1bmN0aW9uIGlzIG1vdW50ZWQgYXQgL2Fwbi9pcC86cGh5c2NpYWxJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASXNEYXRlU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAvLyBUaGlzIHNwZWNpZmljIGZ1bmN0aW9uIGlzIG1vdW50ZWQgYXQgL2Fwbi9pcC8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBATnVsbGFibGVUeXBlKCdzdHJpbmcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignRmlsZSBub3QgZm91bmQ6IGFybS1vcGVuYXBpIHJlcXVpcmVzIGFuIGFybS1vcGVuYXBpLmpzIGZpbGUgaW4gb3JkZXIgdG8gY29ycmVjdGx5IGdlbmVyYXRlIGRvY3MnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoZS5tZXNzYWdlLmluY2x1ZGVzKCdDYW5ub3QgZmluZCBtb2R1bGUnKSkgewo=</text>
+        <text encoding="base64">ICBASXNEZWZpbmVkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCg==</text>
+        <text encoding="base64">ICBASXNPcHRpb25hbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBASXNEYXRlU3RyaW5nKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJpdGVtcyI6IHsK</text>
+        <text encoding="base64">ICBATnVsbGFibGVUeXBlKCdzdHJpbmcnKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Q2hhcmdlcyA=</text>
