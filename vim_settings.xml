@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1542817477138">
-        <mark key="[" line="76" column="101" />
-        <mark key="]" line="77" column="3" />
-        <mark key="." line="77" column="3" />
-        <mark key="^" line="77" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1542817526205">
+        <mark key="[" line="131" column="84" />
+        <mark key="]" line="131" column="82" />
+        <mark key="." line="131" column="82" />
+        <mark key="^" line="131" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/GetOneSubscriber.test.ts" timestamp="1542302705310">
         <mark key="[" line="29" column="38" />
@@ -337,7 +337,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/.gitlab-ci.yml" timestamp="1538752298939">
         <mark key="[" line="0" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceListFixtures.ts" timestamp="1542816175671">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceListFixtures.ts" timestamp="1542817571275">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
