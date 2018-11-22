@@ -71,6 +71,11 @@
       <file name="buffer.js" timestamp="1542051817668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/package.json" timestamp="1542893903680">
+        <mark key="[" line="65" column="98" />
+        <mark key="]" line="65" column="98" />
+        <mark key="." line="65" column="98" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
       </file>
@@ -313,8 +318,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>12</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlOmRldmljZS1zdGF0ZQo=</text>
@@ -341,7 +346,7 @@
         <text encoding="base64">ICAgIC0gREVWSUNFX1NUQVRFX1VSTD1odHRwOi8vZGV2aWNlLXN0YXRlOjMwMDAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3Vic2NyaWJlciA=</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
