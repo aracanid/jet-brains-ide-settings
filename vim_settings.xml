@@ -38,6 +38,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1542907389862">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/utilities/openAPIGenerate.ts" timestamp="1542881386625">
         <mark key="[" line="32" column="52" />
         <mark key="]" line="32" column="52" />
@@ -187,6 +193,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test.http" timestamp="1542907154732" />
       <file name="timers.js" timestamp="1542102413741">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,7 +204,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542884088555">
+      <file name="/JavaScript Console" timestamp="1542907401468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
