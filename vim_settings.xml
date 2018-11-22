@@ -187,15 +187,15 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/docker-compose.yml" timestamp="1542879780517">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/docker-compose.yml" timestamp="1542884203053">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542815938856">
+      <file name="/JavaScript Console" timestamp="1542884088555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
@@ -216,10 +216,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/CompanyDevice.ts" timestamp="1542818701764">
         <mark key="[" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/errorMessages.ts" timestamp="1542880383468">
-        <mark key="[" line="6" column="76" />
-        <mark key="]" line="6" column="76" />
-        <mark key="." line="6" column="76" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/errorMessages.ts" timestamp="1542883809248">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/sqlQueries.ts" timestamp="1542880447253">
         <mark key="[" line="14" column="19" />
@@ -261,7 +262,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1542880735890">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1542884132701">
         <mark key="[" line="585" column="20" />
         <mark key="]" line="585" column="20" />
         <mark key="." line="585" column="20" />
@@ -315,37 +316,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBlbmQgZGF0ZScsIHVuaXhFbmREYXRlKQo=</text>
+        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>devices</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBzdGFydCBkYXRlJywgdW5peFN0YXJ0RGF0ZSkK</text>
+        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlOmRldmljZS1zdGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignZW5kIGRhdGUnLCBkYXRlUmFuZ2VbJ2VuZERhdGUnXSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBlbmQgZGF0ZScsIHVuaXhFbmREYXRlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignc3RhcnQgZGF0ZScsIGRhdGVSYW5nZVsnc3RhcnREYXRlJ10pCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBzdGFydCBkYXRlJywgdW5peFN0YXJ0RGF0ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignbXNpc2RuIGZyb20gaW5mbycsIG1zaXNkbikK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignZW5kIGRhdGUnLCBkYXRlUmFuZ2VbJ2VuZERhdGUnXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXZpY2Utc3RhdGU6CiAgICBpbWFnZTogZG9ja2VyLXJlZ2lzdHJ5LnN0cmVhbS5sb2NhbC9hcGkvZGV2aWNlLXN0YXRlOmxhdGVzdAogICAgcG9ydHM6CiAgICAtIDgwOTU6MzAwMAogICAgbGlua3M6CiAgICAtIGNvbi1kYjpkYXRhYmFzZQogICAgLSBjb24tZGI6Y29ucmVhZGhvc3QKICAgIC0gY29tcGFueWluZm9ybWF0aW9uOmNvbXBhbnlpbmZvcm1hdGlvbgogICAgZGVwZW5kc19vbjoKICAgIC0gY29uLWRiCiAgICAtIGNvbXBhbnlpbmZvcm1hdGlvbgogICAgZW52aXJvbm1lbnQ6CiAgICAtIERBVEFCQVNFX1VSST1teXNxbDovL2RldjpmdWxsc3RyZWFtYWhlYWRAZGF0YWJhc2UvaWtpZHMKICAgIC0gREFUQUJBU0VfU1lOQz1mYWxzZQogICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignc3RhcnQgZGF0ZScsIGRhdGVSYW5nZVsnc3RhcnREYXRlJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gREVWSUNFX1NUQVRFX1VSTD1odHRwOi8vZGV2aWNlLXN0YXRlOjMwMDAK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignbXNpc2RuIGZyb20gaW5mbycsIG1zaXNkbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIERldmljZUxpc3RSZXNvdXJjZSB7Cg==</text>
+        <text encoding="base64">ICBkZXZpY2Utc3RhdGU6CiAgICBpbWFnZTogZG9ja2VyLXJlZ2lzdHJ5LnN0cmVhbS5sb2NhbC9hcGkvZGV2aWNlLXN0YXRlOmxhdGVzdAogICAgcG9ydHM6CiAgICAtIDgwOTU6MzAwMAogICAgbGlua3M6CiAgICAtIGNvbi1kYjpkYXRhYmFzZQogICAgLSBjb24tZGI6Y29ucmVhZGhvc3QKICAgIC0gY29tcGFueWluZm9ybWF0aW9uOmNvbXBhbnlpbmZvcm1hdGlvbgogICAgZGVwZW5kc19vbjoKICAgIC0gY29uLWRiCiAgICAtIGNvbXBhbnlpbmZvcm1hdGlvbgogICAgZW52aXJvbm1lbnQ6CiAgICAtIERBVEFCQVNFX1VSST1teXNxbDovL2RldjpmdWxsc3RyZWFtYWhlYWRAZGF0YWJhc2UvaWtpZHMKICAgIC0gREFUQUJBU0VfU1lOQz1mYWxzZQogICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC0gREVWSUNFX1NUQVRFX1VSTD1odHRwOi8vZGV2aWNlLXN0YXRlOjMwMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>devices</text>
+        <text encoding="base64">U3Vic2NyaWJlciA=</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
