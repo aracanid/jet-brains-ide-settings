@@ -58,7 +58,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-disable-profile.test.ts" timestamp="1542736127139">
         <mark key="[" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542904761735" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542972378164">
+        <mark key="[" line="185" column="21" />
+        <mark key="]" line="185" column="21" />
+        <mark key="." line="185" column="21" />
+        <mark key="^" line="185" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/models/TagWithCount.ts" timestamp="1542726668891">
         <mark key="[" line="17" column="20" />
       </file>
@@ -193,14 +198,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test.http" timestamp="1542907154732" />
       <file name="timers.js" timestamp="1542102413741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/docker-compose.yml" timestamp="1542899903320" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
@@ -328,7 +331,7 @@
         <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>12</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlOmRldmljZS1zdGF0ZQo=</text>
@@ -355,7 +358,7 @@
         <text encoding="base64">ICAgIC0gREVWSUNFX1NUQVRFX1VSTD1odHRwOi8vZGV2aWNlLXN0YXRlOjMwMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
