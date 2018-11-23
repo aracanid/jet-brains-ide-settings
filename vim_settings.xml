@@ -58,11 +58,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-disable-profile.test.ts" timestamp="1542736127139">
         <mark key="[" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542972378164">
-        <mark key="[" line="185" column="21" />
-        <mark key="]" line="185" column="21" />
-        <mark key="." line="185" column="21" />
-        <mark key="^" line="185" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542976000959">
+        <mark key="[" line="193" column="4" />
+        <mark key="]" line="189" column="5" />
+        <mark key="." line="189" column="5" />
+        <mark key="^" line="189" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/models/TagWithCount.ts" timestamp="1542726668891">
         <mark key="[" line="17" column="20" />
@@ -204,11 +204,20 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
         <mark key="[" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1542976022621">
+        <mark key="[" line="292" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542907401468">
+      <file name="/JavaScript Console" timestamp="1542975520315">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1542976400124">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
         <mark key="[" line="0" column="123" />
@@ -328,37 +337,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlOmRldmljZS1zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LnBhZ2luYXRpb24udG90YWxJdGVtcykudG8uYmUuZXEoMjUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBlbmQgZGF0ZScsIHVuaXhFbmREYXRlKQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmNvbnRlbnQubGVuZ3RoKS50by5iZS5lcSgyNSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBzdGFydCBkYXRlJywgdW5peFN0YXJ0RGF0ZSkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgIC5xdWVyeSh7IGZpbHRlcjogJ2lzT25saW5lIGVxIHRydWUnIH0p</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignZW5kIGRhdGUnLCBkYXRlUmFuZ2VbJ2VuZERhdGUnXSkK</text>
+        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignc3RhcnQgZGF0ZScsIGRhdGVSYW5nZVsnc3RhcnREYXRlJ10pCg==</text>
+        <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlOmRldmljZS1zdGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignbXNpc2RuIGZyb20gaW5mbycsIG1zaXNkbikK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBlbmQgZGF0ZScsIHVuaXhFbmREYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXZpY2Utc3RhdGU6CiAgICBpbWFnZTogZG9ja2VyLXJlZ2lzdHJ5LnN0cmVhbS5sb2NhbC9hcGkvZGV2aWNlLXN0YXRlOmxhdGVzdAogICAgcG9ydHM6CiAgICAtIDgwOTU6MzAwMAogICAgbGlua3M6CiAgICAtIGNvbi1kYjpkYXRhYmFzZQogICAgLSBjb24tZGI6Y29ucmVhZGhvc3QKICAgIC0gY29tcGFueWluZm9ybWF0aW9uOmNvbXBhbnlpbmZvcm1hdGlvbgogICAgZGVwZW5kc19vbjoKICAgIC0gY29uLWRiCiAgICAtIGNvbXBhbnlpbmZvcm1hdGlvbgogICAgZW52aXJvbm1lbnQ6CiAgICAtIERBVEFCQVNFX1VSST1teXNxbDovL2RldjpmdWxsc3RyZWFtYWhlYWRAZGF0YWJhc2UvaWtpZHMKICAgIC0gREFUQUJBU0VfU1lOQz1mYWxzZQogICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigndW5peCBzdGFydCBkYXRlJywgdW5peFN0YXJ0RGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gREVWSUNFX1NUQVRFX1VSTD1odHRwOi8vZGV2aWNlLXN0YXRlOjMwMDAK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignZW5kIGRhdGUnLCBkYXRlUmFuZ2VbJ2VuZERhdGUnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>connectionDate</text>
