@@ -194,6 +194,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/fixtures/CompanyFixtures.ts" timestamp="1543417681780">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542277892111">
         <mark key="[" line="11" column="118" />
       </file>
@@ -380,7 +386,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>blob</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,7 +413,7 @@
         <text encoding="base64">ICAgIC0gZGV2aWNlLXN0YXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>blob</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
