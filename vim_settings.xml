@@ -363,6 +363,11 @@
       <jump line="345" column="10" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" />
       <jump line="348" column="10" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" />
       <jump line="191" column="6" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
+      <jump line="12" column="26" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
+      <jump line="27" column="56" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
+      <jump line="44" column="2" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
+      <jump line="45" column="44" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -399,13 +404,13 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>device-list</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>device-list</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>device-list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buffer</last-substitute>
       <last-dir>1</last-dir>
@@ -416,6 +421,8 @@
         <entry>buffer</entry>
         <entry>connectionDate</entry>
         <entry>throw</entry>
+        <entry>device</entry>
+        <entry>device-list</entry>
       </history-search>
       <history-cmd>
         <entry>rr</entry>
