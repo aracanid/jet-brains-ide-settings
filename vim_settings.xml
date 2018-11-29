@@ -48,7 +48,7 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="47" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1542112654555">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1543499902811">
         <mark key="[" line="84" column="39" />
       </file>
       <file name="buffer.js" timestamp="1542051817668">
@@ -158,8 +158,8 @@
         <mark key="]" line="6" column="80" />
         <mark key="." line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1543495482083">
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/GitLabProjectRequestService.ts" timestamp="1543500927379">
+        <mark key="[" line="55" column="14" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -168,6 +168,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="26" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Microservice.ts" timestamp="1543498159561">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/microservice-serializer.test.ts" timestamp="1543494916873">
         <mark key="[" line="51" column="0" />
@@ -231,6 +237,12 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/ParentMicroservice.ts" timestamp="1543498466443">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1543415920938">
         <mark key="[" line="65" column="105" />
         <mark key="]" line="51" column="96" />
@@ -293,11 +305,11 @@
         <mark key="]" line="31" column="43" />
         <mark key="." line="31" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1543496903916">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="9" column="157" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/services/DependencyMapperService.ts" timestamp="1543499614721">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="28" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/models/FormattedDeviceDataUsageByIpAddress.ts" timestamp="1542879937000">
         <mark key="[" line="11" column="13" />
@@ -315,6 +327,11 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/git-project-request-service.test.ts" timestamp="1543501474263">
+        <mark key="[" line="109" column="11" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/src/index.ts" timestamp="1538990180817">
         <mark key="[" line="24" column="13" />
@@ -349,13 +366,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1543496709925">
-        <mark key="[" line="84" column="78" />
-        <mark key="]" line="84" column="58" />
-        <mark key="^" line="84" column="58" />
-        <mark key="." line="84" column="58" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1543499696826">
+        <mark key="[" line="86" column="78" />
+        <mark key="]" line="86" column="83" />
+        <mark key="^" line="86" column="83" />
+        <mark key="." line="86" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543495795277">
+      <file name="/JavaScript Console" timestamp="1543501441285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
@@ -443,41 +460,44 @@
       <jump line="45" column="44" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oYEN1cnJlbnQgc2VydmljZSBpcyBbJHtzZXJ2aWNlfV0gd2l0aGluIG1pY3Jvc2VydmljZSBbJHttaWNyb3NlcnZpY2UubmFtZX1dYCwgc2VydmljZSkK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oYEN1cnJlbnQgc2VydmljZSBpcyBbJHtzZXJ2aWNlfV0gd2l0aGluIG1pY3Jvc2VydmljZSBbJHttaWNyb3NlcnZpY2UubmFtZX1dYCwgc2VydmljZSkK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>actualQueryObject)</text>
+      </register>
+      <register name="/" type="4">
+        <text>device-list</text>
+      </register>
+      <register name="0" type="4">
+        <text>return parentMicroservice.cloneAs</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhgQ3VycmVudCBtaWNyb3NlcnZpY2UgaXMgWyR7bWljcm9zZXJ2aWNlLm5hbWV9XWAsIG1pY3Jvc2VydmljZSkK</text>
+        <text encoding="base64">ICAgIC5xdWVyeSh7IHByaXZhdGVfdG9rZW46IEdJVExBQl9QUklWQVRFX0FDQ0VTU19UT0tFTiB9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRlbGV0ZSB2YWxpZE1pY3Jvc2VydmljZU9uZS5kb2NrZXJDb21wb3NlQ29udGVudAogICAgZGVsZXRlIHZhbGlkTWljcm9zZXJ2aWNlVHdvLmRvY2tlckNvbXBvc2VDb250ZW50CiAgICBkZWxldGUgdmFsaWRNaWNyb3NlcnZpY2VUaHJlZS5kb2NrZXJDb21wb3NlQ29udGVudA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnNpZGVGaWxlSW5mb3JtYXRpb05Gcm9tUHJvamVjdDogJyArIHByb2plY3RJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXJlbnRNaWNyb3NlcnZpY2UuY2xvbmVBcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBkZXBlbmRlbmN5T25lLmRvY2tlckNvbXBvc2VDb250ZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oY3VycmVudFBhZ2UsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBkZXBlbmRlbmN5VHdvLmRvY2tlckNvbXBvc2VDb250ZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2FmZUxvYWQoZnMucmVhZEZpbGVTeW5jKHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLi9kb2NrZXIvZG9ja2VyLWNvbXBvc2UtdGVzdC1wcm9qZWN0LTIueW1sJyksICd1dGY4JykpLAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>validMicroserviceTwo</text>
-      </register>
-      <register name="/" type="4">
-        <text>device-list</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBkZXBlbmRlbmN5VGhyZWUuZG9ja2VyQ29tcG9zZUNvbnRlbnQK</text>
       </register>
     </registers>
     <search>
