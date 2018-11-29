@@ -344,10 +344,11 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/responses/subscriber-not-found.json" timestamp="1543487829090">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/responses/subscriber-not-found.json" timestamp="1543489227824">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -423,8 +424,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBEZXZpY2Ugewo=</text>
@@ -451,7 +452,7 @@
         <text encoding="base64">aW1wb3J0IG5vY2sgPSByZXF1aXJlKCdub2NrJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGV2aWNlIA==</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
