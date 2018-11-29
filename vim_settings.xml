@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542644177380">
         <mark key="[" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1543425549495">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/controllers/ApnInformationController.ts" timestamp="1543487537031">
         <mark key="'" line="191" column="6" />
-        <mark key="[" line="191" column="82" />
-        <mark key="]" line="191" column="82" />
-        <mark key="." line="191" column="82" />
-        <mark key="^" line="347" column="8" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="87" column="28" />
+        <mark key="." line="87" column="11" />
+        <mark key="^" line="87" column="9" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
         <mark key="[" line="0" column="0" />
@@ -39,10 +39,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/test/testSuccessfulResponsesForAllEndpoints.test.ts" timestamp="1542880486330">
         <mark key="[" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1543426911344">
-        <mark key="[" line="55" column="63" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1543487874744">
+        <mark key="[" line="72" column="146" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="121" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/models/FormattedDataUsageByDevice.ts" timestamp="1542879914017">
         <mark key="[" line="7" column="14" />
@@ -56,7 +57,6 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1543420080842" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1543415920938">
         <mark key="[" line="65" column="105" />
         <mark key="]" line="51" column="96" />
@@ -125,7 +125,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/package.json" timestamp="1542110388969">
         <mark key="[" line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/config.ts" timestamp="1543421759677" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/interfaces.ts" timestamp="1542731983741">
         <mark key="[" line="16" column="6" />
       </file>
@@ -137,8 +136,8 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542301716230">
         <mark key="[" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/testUtilities.ts" timestamp="1543426883081">
-        <mark key="[" line="13" column="92" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/testUtilities.ts" timestamp="1543486936100">
+        <mark key="[" line="13" column="56" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
@@ -159,10 +158,10 @@
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1543426896584">
-        <mark key="[" line="75" column="53" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1543487139685">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/DeviceListResource.ts" timestamp="1542818550319">
         <mark key="[" line="0" column="0" />
@@ -192,6 +191,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/AdminActionService.ts" timestamp="1542732102126">
         <mark key="[" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/interfaces.ts" timestamp="1543486982252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
         <mark key="[" line="28" column="76" />
       </file>
@@ -203,6 +207,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" timestamp="1543487045326">
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="2" />
+        <mark key="." line="76" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1542819031732">
         <mark key="[" line="222" column="25" />
@@ -259,7 +268,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543426680047">
+      <file name="/JavaScript Console" timestamp="1543487773398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1543328828111">
@@ -334,6 +343,11 @@
         <mark key="]" line="34" column="39" />
         <mark key="^" line="28" column="18" />
         <mark key="." line="34" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/responses/subscriber-not-found.json" timestamp="1543487829090">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
         <mark key="[" line="30" column="16" />
@@ -412,32 +426,32 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNvbnN0IFZBTElEX0FQSV9UT0tFTiA9ICd0ZXN0X3Rva2VuJwpjb25zdCBURVNUX0NPTVBBTllfSUQgPSAnMScKY29uc3QgVEVTVF9DT01QQU5ZX05BTUUgPSAnVGVzdCBDb21wYW55IDEnCmNvbnN0IFZBTElEX1BIWVNJQ0FMX0lEID0gJzEnCmNvbnN0IElOVkFMSURfUEhZU0lDQUxfSUQgPSAnOTk5OTk5Jwpjb25zdCBURVNUX1VTRVJfSUQgPSAnODg4OCc=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBEZXZpY2Ugewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmNvbnN0IFZBTElEX0FQSV9UT0tFTiA9ICd0ZXN0X3Rva2VuJwpjb25zdCBURVNUX0NPTVBBTllfSUQgPSAnMScKY29uc3QgVEVTVF9DT01QQU5ZX05BTUUgPSAnVGVzdCBDb21wYW55IDEnCmNvbnN0IFZBTElEX1BIWVNJQ0FMX0lEID0gJzEnCmNvbnN0IElOVkFMSURfUEhZU0lDQUxfSUQgPSAnOTk5OTk5Jwpjb25zdCBURVNUX1VTRVJfSUQgPSAnODg4OCc=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG5vY2sgZnJvbSAnbm9jaycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5vY2sgPSByZXF1aXJlKCdub2NrJykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vY2socHJvY2Vzcy5lbnYuU1VCU0NSSUJFUlNfVVJMISkKICAgICAgLm1hdGNoSGVhZGVyKEhFQURFUl9HQVRFV0FZX0NPTVBBTllfSUQsIFRFU1RfQ09NUEFOWV9JRCkKICAgICAgLm1hdGNoSGVhZGVyKEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVEVTVF9DT01QQU5ZX05BTUUpCiAgICAgIC5tYXRjaEhlYWRlcihIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfQVBJX1RPS0VOKQogICAgICAubWF0Y2hIZWFkZXIoSEVBREVSX0dBVEVXQVlfVVNFUl9JRCwgVEVTVF9VU0VSX0lEKQogICAgICAubWF0Y2hIZWFkZXIoSEVBREVSX0dBVEVXQVlfVVNFUl9QRVJNSVNTSU9OUywgVkFMSURfUEVSTUlTU0lPTlMpCiAgICAgIC5nZXQoJy9zdWJzY3JpYmVycy8xJykKICAgICAgLnJlcGx5KE9LLCBkZXZpY2VPbmVKc29uUmVzcG9uc2UpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG5vY2sgZnJvbSAnbm9jaycK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG5vY2sgPSByZXF1aXJlKCdub2NrJykK</text>
+      </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">RGV2aWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
