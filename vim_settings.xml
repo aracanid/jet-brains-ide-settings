@@ -27,10 +27,15 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
         <mark key="[" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1543837534319">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-disable-profile.test.ts" timestamp="1542736127139">
         <mark key="[" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1542976000959">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1543838547733">
         <mark key="[" line="193" column="4" />
         <mark key="]" line="189" column="5" />
         <mark key="." line="189" column="5" />
@@ -54,11 +59,11 @@
       <file name="buffer.js" timestamp="1542051817668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/UpdateDeviceNickname.test.ts" timestamp="1543835933501">
-        <mark key="[" line="65" column="41" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/UpdateDeviceNickname.test.ts" timestamp="1543836898305">
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="48" column="30" />
+        <mark key="^" line="48" column="30" />
+        <mark key="." line="48" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
@@ -216,6 +221,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/SubscriberService.ts" timestamp="1542732297039">
         <mark key="[" line="12" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/PatchBody.ts" timestamp="1543838753757">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/interfaces.ts" timestamp="1542879813885">
         <mark key="[" line="74" column="28" />
       </file>
@@ -236,11 +246,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/edit-company-ones-device-information.json" timestamp="1543511190539">
         <mark key="[" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1543509762557">
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="22" />
-        <mark key="." line="84" column="22" />
-        <mark key="^" line="80" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1543837927774">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="50" />
+        <mark key="^" line="69" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/ParentMicroservice.ts" timestamp="1543498466443">
         <mark key="[" line="27" column="3" />
@@ -411,6 +421,9 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/locales/en_GB/openapi.json" timestamp="1543838637698">
+        <mark key="[" line="147" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="50" />
@@ -482,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
       </register>
       <register name="-" type="4">
-        <text>swaggerForPatch</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>device-list</text>
@@ -494,31 +507,31 @@
         <text>return parentMicroservice.cloneAs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSlNPTlNjaGVtYSB9IGZyb20gJ2NsYXNzLXZhbGlkYXRvci1qc29uc2NoZW1hJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnU2hvdWxkIHJldHVybiAyMDAgT0sgYW5kIHVwZGF0ZSB0aGUgc3BlY2lmaWVkIGRldmljZXMgbmlja25hbWUgZ2l2ZW4gYSB2YWxpZCBwaHlzaWNhbCBpZCBmb3IgYSBkaWZmZXJlbnQgdmFsaWQgY29tcGFueScsIGFzeW5jICgpID0+IHsKICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgY2hhaQogICAgICAucmVxdWVzdChhcHApCiAgICAgIC5wYXRjaChgL3N1YnNjcmliZXJzLyR7Q09NUEFOWV9UV09fVkFMSURfUEhZU0lDQUxfSUR9YCkKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELCBWQUxJRF9DT01QQU5ZX0lEX1RXTy50b1N0cmluZygpKQogICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVkFMSURfQ09NUEFOWV9OQU1FX1RXTykKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBWQUxJRF9VU0VSX0lEKQogICAgICAuc2VuZCh7CiAgICAgICAgbmlja25hbWU6ICduZXdOaWNrbmFtZTInCiAgICAgIH0pCgogICAgZXhwZWN0KHJlc3BvbnNlKS50by5oYXZlLnN0YXR1cyhPSykKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5KS50by5oYXZlLnByb3BlcnR5KCdjb250ZW50JykKICAgIC8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTpuby11bnVzZWQtZXhwcmVzc2lvbgogICAgZXhwZWN0KHZhbGlkYXRvci52YWxpZGF0ZSh7ICRyZWY6ICdzd2FnZ2VyLmpzb24jL2NvbXBvbmVudHMvc2NoZW1hcy9TdWJzY3JpYmVyUmVzcG9uc2UnIH0sIHJlc3BvbnNlLmJvZHkuY29udGVudCkpLnRvLmJlLnRydWUKICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmNvbnRlbnQpLnRvLmRlZXAuZXF1YWwoZXhwZWN0ZWRCb2R5RWRpdENvbXBhbnlUd29EZXZpY2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3Vic2NyaWJlciB9IGZyb20gJy4uL3NyYy9tb2RlbHMvU3Vic2NyaWJlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueURldmljZUZpeHR1cmVzIH0gZnJvbSAnLi9maXh0dXJlcy9Db21wYW55RGV2aWNlRml4dHVyZXMnCg==</text>
+        <text encoding="base64">ICBARGVzY3JpcHRpb24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnLi9maXh0dXJlcy9TaW1GaXh0dXJlcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3BlcmF0b3JGaXh0dXJlcywgQ29tcGFueUZpeHR1cmVzLCBTdGF0ZVN0b3JlRml4dHVyZXMsIENvbXBhbnksIFN0YXRlU3RvcmUgfSBmcm9tICdkZXZpY2UtbGlzdC9kaXN0L3NyYycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGV2aWNlSW5mb3JtYXRpb25SZXNwb25zZSA9IGF3YWl0IHRoaXMuZ2V0RGV2aWNlSW5mb3JtYXRpb25SZXNwb25zZShtb2RpZmllZENvbXBhbnlEZXZpY2UsIGZ1bGxPcGVyYXRvck5hbWUpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZnVsbE9wZXJhdG9yTmFtZSA9IGF3YWl0IHRoaXMuZ2V0RnVsbE9wZXJhdG9yTmFtZShtb2RpZmllZENvbXBhbnlEZXZpY2UuY29tcGFueURldmljZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
