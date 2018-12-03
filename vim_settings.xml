@@ -283,7 +283,6 @@
         <mark key="]" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetOneSubscriber.test.ts" timestamp="1543510348672" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-enable-profile.test.ts" timestamp="1542736139971">
         <mark key="[" line="131" column="50" />
         <mark key="]" line="131" column="50" />
@@ -351,7 +350,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1543509694368" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1542816353200">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -407,7 +405,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-management/src/controllers/ApnManagementController.ts" timestamp="1542797339302">
         <mark key="[" line="115" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-information/src/controllers/DeviceInformationController.ts" timestamp="1543507210727" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/device-information/src/controllers/DeviceInformationController.ts" timestamp="1543833547414">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="50" />
