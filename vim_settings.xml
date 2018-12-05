@@ -105,6 +105,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-management/package.json" timestamp="1542797500655">
         <mark key="[" line="78" column="98" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/MonitoringAlert.ts" timestamp="1544016578075">
+        <mark key="[" line="24" column="84" />
+        <mark key="]" line="24" column="84" />
+        <mark key="^" line="24" column="84" />
+        <mark key="." line="24" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-3.yml" timestamp="1542105599491">
         <mark key="[" line="18" column="15" />
       </file>
@@ -116,11 +122,10 @@
         <mark key="]" line="76" column="2" />
         <mark key="." line="76" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544009614158">
-        <mark key="[" line="232" column="47" />
-        <mark key="]" line="232" column="46" />
-        <mark key="^" line="232" column="46" />
-        <mark key="." line="232" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544017295027">
+        <mark key="[" line="160" column="33" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/.gitlab-ci.yml" timestamp="1542812433135">
         <mark key="[" line="0" column="42" />
@@ -155,7 +160,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542386732777">
         <mark key="[" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544009311204">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544015960690">
         <mark key="[" line="74" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceGroupFixtures.ts" timestamp="1544009466373">
@@ -347,10 +352,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/SubscriberFixtures.ts" timestamp="1542301814970">
         <mark key="[" line="106" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/subscriberService.ts" timestamp="1543508321757">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-attach-profile.test.ts" timestamp="1542735940488">
         <mark key="[" line="51" column="53" />
       </file>
@@ -438,8 +439,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/SubscriberGroupFixtures.ts" timestamp="1544009559947">
-        <mark key="[" line="10" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/SubscriberGroupFixtures.ts" timestamp="1544016111911">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
@@ -512,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb25pdG9yaW5nQWxlcnQudGFyZ2V0ID0gc3Vic2NyaWJlci5zdWJzY3JpYmVySWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>subscriberId</text>
+        <text encoding="base64">JycpIA==</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
@@ -524,31 +528,31 @@
         <text>return parentMicroservice.cloneAs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb25pdG9yaW5nQWxlcnQudGFyZ2V0ID0gc3Vic2NyaWJlci5zdWJzY3JpYmVySWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnF1ZXJ5KHsgZmlsdGVyOiBgc3Vic2NyaWJlcklkIGVxICIke3BoeXNpY2FsSWR9ImAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBoeXNpY2FsSWQgPSBtb25pdG9yaW5nQWxlcnQudGFyZ2V0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LAogICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzdWNjZXNzIjogIlN1Y2Nlc3NmdWwgcmVzcG9uc2UgLSByZXR1cm5zIGluZm9ybWF0aW9uIGFib3V0IHRoZSBzdWJzY3JpYmVyLiIK</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKGBVbmFibGUgdG8gZmluZCBzdWJzY3JpYmVyIHdpdGggc3Vic2NyaWJlcklkOiAiJHttb25pdG9yaW5nQWxlcnQudGFyZ2V0fSJgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN1YnNjcmliZXIpIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICJwcm9maWxlIjogewogICAgICAiaXMtdHJhbnNmZXJyaW5nIjogewogICAgICAgICJkZXNjcmlwdGlvbiI6ICJJbmRpY2F0ZXMgd2hldGhlciB0aGUgc3Vic2NyaWJlciBpcyBjdXJyZW50bHkgdHJhbnNmZXJyaW5nIGRhdGEuIiwKICAgICAgICAiZXhhbXBsZSI6ICJ0cnVlIgogICAgICB9LAogICAgICAiaXMtb25saW5lIjogewogICAgICAgICJkZXNjcmlwdGlvbiI6ICJJbmRpY2F0ZXMgd2hldGhlciB0aGUgc3Vic2NyaWJlciBpcyBjdXJyZW50bHkgb25saW5lLiIsCiAgICAgICAgImV4YW1wbGUiOiAidHJ1ZSIKICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYFVuYWJsZSB0byBmaW5kIHN1YnNjcmliZXIgd2l0aCBzdWJzY3JpYmVySWQ6ICIke3BoeXNpY2FsSWR9ImApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgY2hhaQogICAgICAucmVxdWVzdChhcHApCiAgICAgIC5wYXRjaChgL3N1YnNjcmliZXJzLyR7Q09NUEFOWV9PTkVfVkFMSURfUEhZU0lDQUxfSUR9YCkKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELCBWQUxJRF9DT01QQU5ZX0lEX09ORS50b1N0cmluZygpKQogICAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgVkFMSURfQ09NUEFOWV9OQU1FX09ORSkKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9UT0tFTiwgVkFMSURfR0FURVdBWV9UT0tFTikKICAgICAgLnNldChIRUFERVJfR0FURVdBWV9VU0VSX0lELCBWQUxJRF9VU0VSX0lEKQogICAgICAuc2VuZCh7CiAgICAgICAgbmlja25hbWU6ICdpbnZhbGlkIG5pY2tuYW1lIHRvbyBsb25nIGludmFsaWQgbmlja25hbWUgdG9vIGxvbmcgaW52YWxpZCBuaWNrbmFtZSB0b28gbG9uZyBpbnZhbGlkIG5pY2tuYW1lIHRvbyBsb25nIGludmFsaWQgbmlja25hbWUgdG9vIGxvbmcgaW52YWxpZCBuaWNrbmFtZSB0b28gbG9uZyBpbnZhbGlkIG5pY2tuYW1lIHRvbyBsb25nIGludmFsaWQgbmlja25hbWUgdG9vIGxvbmcgaW52YWxpZCBuaWNrbmFtZSB0b28gbG9uZyBpbnZhbGlkIG5pY2tuYW1lIHRvbyBsb25nIGludmFsaWQgbmlja25hbWUgdG9vIGxvbmcgaW52YWxpZCBuaWNrbmFtZSB0b28gbG9uZyBpbnZhbGlkIG5pY2tuYW1lIHRvbyBsb25nIGludmFsaWQgbmlja25hbWUgdG9vIGxvbmcgaW52YWxpZCBuaWNrbmFtZSB0b28gbG9uZycK</text>
+        <text encoding="base64">ICAgIGlmIChzdWJzY3JpYmVyUmVzcG9uc2UuYm9keS5jb250ZW50Lmxlbmd0aCA9PT0gMCkgewo=</text>
       </register>
     </registers>
     <search>
@@ -577,6 +581,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
