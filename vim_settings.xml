@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542644177380">
@@ -161,8 +161,10 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542386732777">
         <mark key="[" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090220253">
-        <mark key="[" line="74" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090535371">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceGroupFixtures.ts" timestamp="1544009466373">
         <mark key="[" line="6" column="21" />
@@ -516,8 +518,8 @@
       <jump line="45" column="44" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -532,28 +534,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBoeXNpY2FsSWQgPSBtb25pdG9yaW5nQWxlcnQudGFyZ2V0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKGBVbmFibGUgdG8gZmluZCBzdWJzY3JpYmVyIHdpdGggc3Vic2NyaWJlcklkOiAiJHttb25pdG9yaW5nQWxlcnQudGFyZ2V0fSJgKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN1YnNjcmliZXIpIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBoeXNpY2FsSWQgPSBtb25pdG9yaW5nQWxlcnQudGFyZ2V0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKGBVbmFibGUgdG8gZmluZCBzdWJzY3JpYmVyIHdpdGggc3Vic2NyaWJlcklkOiAiJHttb25pdG9yaW5nQWxlcnQudGFyZ2V0fSJgKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIXN1YnNjcmliZXIpIHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYFVuYWJsZSB0byBmaW5kIHN1YnNjcmliZXIgd2l0aCBzdWJzY3JpYmVySWQ6ICIke3BoeXNpY2FsSWR9ImApCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChzdWJzY3JpYmVyUmVzcG9uc2UuYm9keS5jb250ZW50Lmxlbmd0aCA9PT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYFVuYWJsZSB0byBmaW5kIHN1YnNjcmliZXIgd2l0aCBzdWJzY3JpYmVySWQ6ICIke3BoeXNpY2FsSWR9ImApCg==</text>
       </register>
     </registers>
     <search>
