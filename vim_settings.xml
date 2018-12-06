@@ -122,10 +122,11 @@
         <mark key="]" line="76" column="2" />
         <mark key="." line="76" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544017295027">
-        <mark key="[" line="160" column="33" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544089284717">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/.gitlab-ci.yml" timestamp="1542812433135">
         <mark key="[" line="0" column="42" />
@@ -515,11 +516,11 @@
       <jump line="45" column="44" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JycpIA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
