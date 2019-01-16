@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
@@ -10,10 +9,12 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="subscriber-is-stock-subscriber" type="JSON" />
       <mapping pattern="invalid-type" type="JSON" />
       <mapping pattern="get-all-tickets-empty-response.json" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="get-all-logs-single-subscriber-ordered-by-date-created-ascjson.json" type="PLAIN_TEXT" />
       <mapping pattern="get-all-tickets-default.json" type="PLAIN_TEXT" />
       <mapping pattern="create-ticket-response" type="PLAIN_TEXT" />
