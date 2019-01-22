@@ -471,6 +471,13 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" timestamp="1548155005724">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="50" />
@@ -553,13 +560,16 @@
       <jump line="138" column="101" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/InternalSentRequestController.ts" />
+      <jump line="3" column="13" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFnaW5hdGlvbjogeyB0b3RhbEl0ZW1zOiBsaXN0T2ZTZW50UmVxdWVzdHNBbmRDb3VudC5jb3VudCwgb2Zmc2V0OiBvZmZzZXQsIGxpbWl0OiBsaW1pdCB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>device-list</text>
@@ -594,6 +604,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>action GotoImplementation</text>
+      </register>
     </registers>
     <search>
       <last-search>device-list</last-search>
@@ -619,6 +632,8 @@
         <entry>wincmd h</entry>
         <entry>gh</entry>
         <entry>g1</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
