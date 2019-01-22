@@ -648,6 +648,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed TAB</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
