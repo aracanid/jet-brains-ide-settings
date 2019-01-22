@@ -608,7 +608,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -638,6 +638,8 @@
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Switcher</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
