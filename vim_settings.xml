@@ -269,6 +269,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestAttributePostBody.ts" timestamp="1548170173033">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/interfaces.ts" timestamp="1542879813885">
         <mark key="[" line="74" column="28" />
       </file>
@@ -399,11 +405,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1548167340788">
-        <mark key="[" line="131" column="29" />
-        <mark key="]" line="131" column="10" />
-        <mark key="." line="131" column="10" />
-        <mark key="^" line="131" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1548167402321">
+        <mark key="[" line="93" column="6" />
+        <mark key="]" line="95" column="32" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="144" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1542816353200">
         <mark key="[" line="23" column="0" />
@@ -435,6 +441,12 @@
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestAttribute.ts" timestamp="1548169890087">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/dependency-mapper-service.test.ts" timestamp="1543499696826">
         <mark key="[" line="86" column="78" />
@@ -477,12 +489,12 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" timestamp="1548155005724">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" timestamp="1548169826937">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="99" />
+        <mark key="]" line="59" column="99" />
+        <mark key="." line="59" column="99" />
+        <mark key="^" line="60" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
@@ -509,6 +521,13 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-detach-profile.test.ts" timestamp="1542732914121">
         <mark key="[" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestResponseBody.ts" timestamp="1548170186411">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="84" column="43" />
+        <mark key="]" line="84" column="50" />
+        <mark key="^" line="84" column="50" />
+        <mark key="." line="84" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -567,72 +586,62 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/InternalSentRequestController.ts" />
       <jump line="3" column="13" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
       <jump line="80" column="51" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="201" column="2" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
+      <jump line="60" column="46" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequest.ts" />
+      <jump line="4" column="13" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestResponseBody.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>The attributes associatedwith this sent request</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>The attributes associatedwith this sent request</text>
       </register>
       <register name="/" type="4">
-        <text>device-list</text>
+        <text encoding="base64">XDxpbXBvcnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>attributes: [
-          {
-            id: 1,
-            sentRequestId: 1,
-            name: 'topUpType',
-            value: 'data'
-          },
-          {
-            id: 1,
-            sentRequestId: 1,
-            name: 'topUpAmount',
-            value: '12345'
-          }</text>
+        <text>({ type: SentRequestAttributey4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZW50UmVxdWVzdElkOiBudW1iZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY29uZmlybVJlcXVpcmVkRmllbGRzQXJlQ29ycmVjdCAoc2VudFJlcXVlc3Q6IFNlbnRSZXF1ZXN0KTogdm9pZCB7CiAgY29tcGFueU5hbWU6IFRFU1RfQ09NUEFOWV9PTkVfTkFNRSwKICBjb21wYW55UHJlZml4OlRFU1RfQ09NUEFOWV9PTkVfSUQudG9TdHJpbmcoKSwKICByZXF1ZXN0VHlwZTpURVNUX1JFUVVFU1RfVFlQRSwKICBvcGVyYXRvcjpURVNUX09QRVJBVE9SLAogIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgcGh5c2ljYWxJZDpURVNUX1NJTV9OVU1CRVIsCiAgYmF0Y2hOdW1iZXI6IFRFU1RfQkFUQ0hfTlVNQkVSLAogIHN0YXR1czogVEVTVF9TVEFUVVMKfQoKZnVuY3Rpb24gY29uZmlybUJvZHlSZXF1aXJlZEZpZWxkc0FSZUNvcnJlY3QgKHNlbnRSZXF1ZXN0OiBTZW50UmVxdWVzdFBvc3RCb2R5KTogdm9pZCB7CiAgZXhwZWN0KHNlbnRSZXF1ZXN0LmNvbXBhbnlJZCkudG8uYmUuZXEoVEVTVF9DT01QQU5ZX09ORV9JRCkKICBleHBlY3Qoc2VudFJlcXVlc3QucmVxdWVzdFR5cGUpLnRvLmJlLmVxKFRFU1RfUkVRVUVTVF9UWVBFKQogIGV4cGVjdChzZW50UmVxdWVzdC5vcGVyYXRvcikudG8uYmUuZXEoVEVTVF9PUEVSQVRPUikKICBleHBlY3Qoc2VudFJlcXVlc3QucmFuZCkudG8uYmUuZXEoVEVTVF9SQU5ET01fSEFTSCkKICBleHBlY3Qoc2VudFJlcXVlc3QucGh5c2ljYWxJZCkudG8uYmUuZXEoVEVTVF9TSU1fTlVNQkVSKQogIGV4cGVjdChzZW50UmVxdWVzdC5iYXRjaE51bWJlcikudG8uYmUuZXEoVEVTVF9CQVRDSF9OVU1CRVIpCiAgZXhwZWN0KHNlbnRSZXF1ZXN0LnN0YXR1cykudG8uYmUuZXEoVEVTVF9TVEFUVVMpCn0K</text>
+        <text encoding="base64">ICBAQ29sdW1uKHsgbmFtZTogJ3JlcXVlc3RfaWQnLCB0eXBlOiAnYmlnaW50JyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUZpeHR1cmVzIH0gZnJvbSAnY29tcGFueS1pbmZvcm1hdGlvbi9kaXN0L3NyYycKaW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi9zcmMvbW9kZWxzL1NlbnRSZXF1ZXN0JwppbXBvcnQgeyBpbnRlcm5hbEFwcCB9IGZyb20gJy4uL3NyYycKaW1wb3J0ICogYXMgY2hhaVNldFVwIGZyb20gJ2NoYWknCmNvbnN0IGNoYWkgPSBjaGFpU2V0VXAudXNlKHJlcXVpcmUoJ2NoYWktaHR0cCcpKQppbXBvcnQgeyBDb250YWluZXIgfSBmcm9tICd0eXBlZGknCmNvbnN0IGV4cGVjdCA9IGNoYWkuZXhwZWN0CmltcG9ydCB7IE9LLCBCQURfUkVRVUVTVCB9IGZyb20gJ2h0dHAtc3RhdHVzLWNvZGVzJwppbXBvcnQgeyBSZXBvc2l0b3J5LCBnZXRSZXBvc2l0b3J5IH0gZnJvbSAndHlwZW9ybScKaW1wb3J0IHsgdHJ1bmNhdGVTZW50UmVxdWVzdHMgfSBmcm9tICcuL3Rlc3QtdXRpbGl0aWVzJwppbXBvcnQgeyBTZW50UmVxdWVzdFBvc3RCb2R5IH0gZnJvbSAnLi4vc3JjL21vZGVscy9TZW50UmVxdWVzdFBvc3RCb2R5JwoKY29uc3QgQWp2ID0gcmVxdWlyZSgnYWp2JykKCi8qIHRzbGludDpkaXNhYmxlOm5vLXVudXNlZC1leHByZXNzaW9uICovCmxldCBzd2FnZ2VyCnRyeSB7CiAgc3dhZ2dlciA9IHJlcXVpcmUoJy4uL3N3YWdnZXIuanNvbicpCn0gY2F0Y2ggKGUpIHsKICBzd2FnZ2VyID0gcmVxdWlyZSgnLi4vLi4vc3dhZ2dlci5qc29uJykKfQoKY29uc3QgVkFMSURBVElPTl9GQUlMRURfTUVTU0FHRSA9ICdUaGUgcmVxdWVzdCBib2R5IGlzIGludmFsaWQuIFBsZWFzZSBzZWUgY2hpbGRyZW4gZm9yIG1vcmUgZGV0YWlscy4nCgpjb25zdCBCQVNFX0VORFBPSU5UID0gJy9pbnRlcm5hbC9zZW50LXJlcXVlc3RzLycKCmNvbnN0IFRFU1RfQ09NUEFOWV9PTkVfSUQgPSAxCmNvbnN0IFRFU1RfQ09NUEFOWV9PTkVfTkFNRSA9ICdUZXN0IENvbXBhbnkgMScKY29uc3QgVEVTVF9SRVFVRVNUX1RZUEUgPSAndGVzdCcKY29uc3QgVEVTVF9PUEVSQVRPUiA9ICd0ZXN0T3BlcmF0b3InCmNvbnN0IFRFU1RfUkFORE9NX0hBU0ggPSAncmFuZG9tSGFzaCcKY29uc3QgVEVTVF9TSU1fTlVNQkVSID0gJzEyMzQnCmNvbnN0IFRFU1RfQkFUQ0hfTlVNQkVSID0gJzFhMmIzYycKY29uc3QgVEVTVF9TVEFUVVMgPSAncGVuZGluZycKY29uc3QgVEVTVF9YTUwgPSAneG1sJwpjb25zdCBURVNUX05PVF9WSVNJQkxFID0gZmFsc2UKY29uc3QgVEVTVF9BQ0tOT1dMRURHRUQgPSB0cnVlCmNvbnN0IFRFU1RfRkFJTEVEX1JFQVNPTiA9ICdmYWlsZWQgdGVzdCcKY29uc3QgVEVTVF9DT1VOVCA9IDEwCmNvbnN0IFRFU1RfREVQRU5EU19PTiA9ICc0Jwpjb25zdCBURVNUX1JFU1BPTlNFID0gJ3Jlc3BvbnNlJwpjb25zdCBURVNUX1JFQUxNID0gJ3Rlc3RSZWFsbScKY29uc3QgU1RSRUFNX1JFQUxNID0gJ3N0cmVhbScKCmxldCBjb21wYW55Rml4dHVyZXM6IENvbXBhbnlGaXh0dXJlcwpsZXQgc2VudFJlcXVlc3RSZXBvc2l0b3J5OiBSZXBvc2l0b3J5PFNlbnRSZXF1ZXN0Pgpjb25zdCBhanYgPSBuZXcgQWp2KCkKCmRlc2NyaWJlKCdDcmVhdGVTZW50UmVxdWVzdHNUZXN0JywgKCkgPT4gewogIGJlZm9yZShhc3luYyAoKSA9PiB7CiAgICAvKiB0c2xpbnQ6ZGlzYWJsZTpuby11bm5lY2Vzc2FyeS10eXBlLWFzc2VydGlvbiAqLwoKICAgIGFqdi5hZGRTY2hlbWEoc3dhZ2dlciwgJ3N3YWdnZXIuanNvbicpCgogICAgc2VudFJlcXVlc3RSZXBvc2l0b3J5ID0gZ2V0UmVwb3NpdG9yeShTZW50UmVxdWVzdCwgJ2NvbkRiJykKICAgIGNvbXBhbnlGaXh0dXJlcyA9IENvbnRhaW5lci5nZXQ8Q29tcGFueUZpeHR1cmVzPihDb21wYW55Rml4dHVyZXMpCiAgfSkKCiAgYmVmb3JlRWFjaChhc3luYyAoKSA9PiB7CiAgICBhd2FpdCB0cnVuY2F0ZVNlbnRSZXF1ZXN0cygpCiAgICBhd2FpdCBjb21wYW55Rml4dHVyZXMudHJ1bmNhdGUoKQogICAgYXdhaXQgY29tcGFueUZpeHR1cmVzLmNyZWF0ZSgpCiAgfSkKCiAgZGVzY3JpYmUoJ1NlbnRSZXF1ZXN0Q29udHJvbGxlcicsICgpID0+IHsKICAgIGRlc2NyaWJlKCcjcG9zdCAvaW50ZXJuYWwvc2VudC1yZXF1ZXN0cycsIGFzeW5jICgpID0+IHsKICAgICAgaXQoJ1Nob3VsZCBjcmVhdGUgYSBzZW50IHJlcXVlc3QgZW50cnkgd2hlbiBzZW5kaW5nIG9ubHkgcmVxdWlyZWQgZmllbGRzJywgYXN5bmMgKCkgPT4gewogICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgc2V0VXBQb3N0UmVxdWVzdChCQVNFX0VORFBPSU5UKQogICAgICAgIC5zZW5kKHsKICAgICAgICAgIGNvbXBhbnlJZDogVEVTVF9DT01QQU5ZX09ORV9JRCwKICAgICAgICAgIHJlcXVlc3RUeXBlOiBURVNUX1JFUVVFU1RfVFlQRSwKICAgICAgICAgIG9wZXJhdG9yOiBURVNUX09QRVJBVE9SLAogICAgICAgICAgcmFuZDogVEVTVF9SQU5ET01fSEFTSCwKICAgICAgICAgIHBoeXNpY2FsSWQ6IFRFU1RfU0lNX05VTUJFUiwKICAgICAgICAgIGJhdGNoTnVtYmVyOiBURVNUX0JBVENIX05VTUJFUiwKICAgICAgICAgIHN0YXR1czogVEVTVF9TVEFUVVMsCiAgICAgICAgICByZWFsbTogU1RSRUFNX1JFQUxNCiAgICAgICAgfSkKCiAgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50by5oYXZlLnN0YXR1cyhPSykKCiAgICAgICAgY29uc3QgdmFsaWQgPSBhanYudmFsaWRhdGUoeyAkcmVmOiAnc3dhZ2dlci5qc29uIy9jb21wb25lbnRzL3NjaGVtYXMvU2VudFJlcXVlc3RSZXNwb25zZScgfSwgcmVzcG9uc2UuYm9keS5jb250ZW50KQogICAgICAgIGV4cGVjdCh2YWxpZCkudG8uZXEodHJ1ZSkKCiAgICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuY29udGVudCkudG8uZGVlcC5lcXVhbCh7CiAgICAgICAgICBjb21wYW55SWQ6IFRFU1RfQ09NUEFOWV9PTkVfSUQsCiAgICAgICAgICByZXF1ZXN0VHlwZTogVEVTVF9SRVFVRVNUX1RZUEUsCiAgICAgICAgICBvcGVyYXRvcjogVEVTVF9PUEVSQVRPUiwKICAgICAgICAgIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgICAgICAgICBwaHlzaWNhbElkOiBURVNUX1NJTV9OVU1CRVIsCiAgICAgICAgICBiYXRjaE51bWJlcjogVEVTVF9CQVRDSF9OVU1CRVIKICAgICAgICB9KQoKICAgICAgICBjb25zdCBjcmVhdGVkU2VudFJlcXVlc3QgPSBhd2FpdCBzZW50UmVxdWVzdFJlcG9zaXRvcnkuZmluZE9uZSgxKQoKICAgICAgICBleHBlY3QoY3JlYXRlZFNlbnRSZXF1ZXN0KS50by5kZWVwLmVxdWFsKHsKICAgICAgICAgIGNvbXBhbnlOYW1lOiBURVNUX0NPTVBBTllfT05FX05BTUUsCiAgICAgICAgICBjb21wYW55UHJlZml4OiBURVNUX0NPTVBBTllfT05FX0lELnRvU3RyaW5nKCksCiAgICAgICAgICByZXF1ZXN0VHlwZTogVEVTVF9SRVFVRVNUX1RZUEUsCiAgICAgICAgICBvcGVyYXRvcjogVEVTVF9PUEVSQVRPUiwKICAgICAgICAgIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgICAgICAgICBwaHlzaWNhbElkOiBURVNUX1NJTV9OVU1CRVIsCiAgICAgICAgICBiYXRjaE51bWJlcjogVEVTVF9CQVRDSF9OVU1CRVIsCiAgICAgICAgICBzdGF0dXM6IFRFU1RfU1RBVFVTCiAgICAgICAgfSkKICAgICAgfSkKICAgIH0pCgogICAgaXQoJ1Nob3VsZCBjcmVhdGUgYSBzZW50IHJlcXVlc3QgZW50cnkgd2hlbiBhbGwgZmllbGRzIGFyZSBnaXZlbicsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBzZXRVcFBvc3RSZXF1ZXN0KEJBU0VfRU5EUE9JTlQpCiAgICAgIC5zZW5kKHsKICAgICAgICBjb21wYW55SWQ6IFRFU1RfQ09NUEFOWV9PTkVfSUQsCiAgICAgICAgcmVxdWVzdFR5cGU6IFRFU1RfUkVRVUVTVF9UWVBFLAogICAgICAgIG9wZXJhdG9yOiBURVNUX09QRVJBVE9SLAogICAgICAgIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgICAgICAgcGh5c2ljYWxJZDogVEVTVF9TSU1fTlVNQkVSLAogICAgICAgIGJhdGNoTnVtYmVyOiBURVNUX0JBVENIX05VTUJFUiwKICAgICAgICBzdGF0dXM6IFRFU1RfU1RBVFVTLAogICAgICAgIHJlYWxtOiBTVFJFQU1fUkVBTE0KICAgICAgfSkKCiAgICAgIGV4cGVjdChyZXNwb25zZSkudG8uaGF2ZS5zdGF0dXMoT0spCgogICAgICBjb25zdCB2YWxpZCA9IGFqdi52YWxpZGF0ZSh7ICRyZWY6ICdzd2FnZ2VyLmpzb24jL2NvbXBvbmVudHMvc2NoZW1hcy9TZW50UmVxdWVzdFJlc3BvbnNlJyB9LCByZXNwb25zZS5ib2R5LmNvbnRlbnQpCiAgICAgIGV4cGVjdCh2YWxpZCkudG8uZXEodHJ1ZSkKCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmNvbnRlbnQpLnRvLmRlZXAuZXF1YWwoewogICAgICAgIGNvbXBhbnlJZDogVEVTVF9DT01QQU5ZX09ORV9JRCwKICAgICAgICByZXF1ZXN0VHlwZTogVEVTVF9SRVFVRVNUX1RZUEUsCiAgICAgICAgb3BlcmF0b3I6IFRFU1RfT1BFUkFUT1IsCiAgICAgICAgcmFuZDogVEVTVF9SQU5ET01fSEFTSCwKICAgICAgICBwaHlzaWNhbElkOiBURVNUX1NJTV9OVU1CRVIsCiAgICAgICAgYmF0Y2hOdW1iZXI6IFRFU1RfQkFUQ0hfTlVNQkVSCiAgICAgIH0pCgogICAgICBjb25zdCBjcmVhdGVkU2VudFJlcXVlc3QgPSBhd2FpdCBzZW50UmVxdWVzdFJlcG9zaXRvcnkuZmluZE9uZSgxKQoKICAgICAgZXhwZWN0KGNyZWF0ZWRTZW50UmVxdWVzdCkudG8uZGVlcC5lcXVhbCh7CiAgICAgICAgY29tcGFueU5hbWU6IFRFU1RfQ09NUEFOWV9PTkVfTkFNRSwKICAgICAgICBjb21wYW55UHJlZml4OiBURVNUX0NPTVBBTllfT05FX0lELnRvU3RyaW5nKCksCiAgICAgICAgcmVxdWVzdFR5cGU6IFRFU1RfUkVRVUVTVF9UWVBFLAogICAgICAgIG9wZXJhdG9yOiBURVNUX09QRVJBVE9SLAogICAgICAgIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgICAgICAgcGh5c2ljYWxJZDogVEVTVF9TSU1fTlVNQkVSLAogICAgICAgIGJhdGNoTnVtYmVyOiBURVNUX0JBVENIX05VTUJFUiwKICAgICAgICBzdGF0dXM6IFRFU1RfU1RBVFVTCiAgICAgIH0pCiAgICB9KQoKICAgIGl0KCdTaG91bGQgdGhyb3cgYSBiYWQgcmVxdWVzdCB3aXRoIGVycm9ycyB3aGVuIG5vbmUgb2YgdGhlIHJlcXVpcmVkIGZpZWxkcyBhcmUgc3VwcGxpZWQnLCBhc3luYyAoKSA9PiB7CiAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgc2V0VXBQb3N0UmVxdWVzdChCQVNFX0VORFBPSU5UKQogICAgICAuc2VuZCh7CiAgICAgICAgeG1sOiBURVNUX1hNTCwKICAgICAgICB2aXNpYmxlOiBURVNUX05PVF9WSVNJQkxFLAogICAgICAgIGFja25vd2xlZGdlZDogVEVTVF9BQ0tOT1dMRURHRUQsCiAgICAgICAgZmFpbGVkUmVhc29uOiBURVNUX0ZBSUxFRF9SRUFTT04sCiAgICAgICAgY291bnQ6IFRFU1RfQ09VTlQsCiAgICAgICAgZGVwZW5kc09uOiBURVNUX0RFUEVORFNfT04sCiAgICAgICAgcmVzcG9uc2U6IFRFU1RfUkVTUE9OU0UsCiAgICAgICAgcmVhbG06IFRFU1RfUkVBTE0KICAgICAgfSkKCiAgICAgIGV4cGVjdChyZXNwb25zZSkudG8uaGF2ZS5zdGF0dXMoQkFEX1JFUVVFU1QpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLm1lc3NhZ2UpLnRvLmJlLmVxKFZBTElEQVRJT05fRkFJTEVEX01FU1NBR0UpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLmNoaWxkcmVuKS50by5iZS5hbignYXJyYXknKS50by5iZS5sZW5ndGhPZig3KQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5lcnJvci5jaGlsZHJlblswXS5jaGlsZHJlblswXS5tZXNzYWdlKS50by5iZS5lcSgnY29tcGFueUlkIG11c3QgYmUgYSBudW1iZXInKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5lcnJvci5jaGlsZHJlblsxXS5jaGlsZHJlblswXS5tZXNzYWdlKS50by5iZS5lcSgncmVxdWVzdFR5cGUgbXVzdCBiZSBhIHN0cmluZycpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLmNoaWxkcmVuWzJdLmNoaWxkcmVuWzBdLm1lc3NhZ2UpLnRvLmJlLmVxKCdvcGVyYXRvciBtdXN0IGJlIGEgc3RyaW5nJykKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuZXJyb3IuY2hpbGRyZW5bM10uY2hpbGRyZW5bMF0ubWVzc2FnZSkudG8uYmUuZXEoJ3JhbmQgbXVzdCBiZSBhIHN0cmluZycpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLmNoaWxkcmVuWzRdLmNoaWxkcmVuWzBdLm1lc3NhZ2UpLnRvLmJlLmVxKCdwaHlzaWNhbElkIG11c3QgYmUgYSBzdHJpbmcnKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5lcnJvci5jaGlsZHJlbls1XS5jaGlsZHJlblswXS5tZXNzYWdlKS50by5iZS5lcSgnYmF0Y2hOdW1iZXIgbXVzdCBiZSBhIHN0cmluZycpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLmNoaWxkcmVuWzZdLmNoaWxkcmVuWzBdLm1lc3NhZ2UpLnRvLmJlLmVxKCdzdGF0dXMgbXVzdCBiZSBhIHN0cmluZycpCiAgICB9KQoKICAgIGl0KCdTaG91bGQgdGhyb3cgYSBiYWQgcmVxdWVzdCB3aXRoIGNvbXBhbnkgaWQgZXJyb3Igd2hlbiBubyBjb21wYW55IGlkIGlzIHN1cHBsaWVkJywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHNldFVwUG9zdFJlcXVlc3QoQkFTRV9FTkRQT0lOVCkKICAgICAgLnNlbmQoewogICAgICAgIHJlcXVlc3RUeXBlOiBURVNUX1JFUVVFU1RfVFlQRSwKICAgICAgICBvcGVyYXRvcjogVEVTVF9PUEVSQVRPUiwKICAgICAgICByYW5kOiBURVNUX1JBTkRPTV9IQVNILAogICAgICAgIHBoeXNpY2FsSWQ6IFRFU1RfU0lNX05VTUJFUiwKICAgICAgICBiYXRjaE51bWJlcjogVEVTVF9CQVRDSF9OVU1CRVIsCiAgICAgICAgc3RhdHVzOiBURVNUX1NUQVRVUywKICAgICAgICByZWFsbTogU1RSRUFNX1JFQUxNCiAgICAgIH0pCgogICAgICBleHBlY3QocmVzcG9uc2UpLnRvLmhhdmUuc3RhdHVzKEJBRF9SRVFVRVNUKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5lcnJvci5tZXNzYWdlKS50by5iZS5lcShWQUxJREFUSU9OX0ZBSUxFRF9NRVNTQUdFKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5lcnJvci5jaGlsZHJlbikudG8uYmUuYW4oJ2FycmF5JykudG8uYmUubGVuZ3RoT2YoMSkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuZXJyb3IuY2hpbGRyZW5bMF0uY2hpbGRyZW5bMF0ubWVzc2FnZSkudG8uYmUuZXEoJ2NvbXBhbnlJZCBtdXN0IGJlIGEgbnVtYmVyJykKICAgIH0pCgogICAgaXQoJ1Nob3VsZCB0aHJvdyBhIGJhZCByZXF1ZXN0IHdpdGggc3RhdHVzIGlzIG5vdCBhIHN0cmluZycsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBzZXRVcFBvc3RSZXF1ZXN0KEJBU0VfRU5EUE9JTlQpCiAgICAgIC5zZW5kKHsKICAgICAgICBjb21wYW55SWQ6IFRFU1RfQ09NUEFOWV9PTkVfSUQsCiAgICAgICAgcmVxdWVzdFR5cGU6IFRFU1RfUkVRVUVTVF9UWVBFLAogICAgICAgIG9wZXJhdG9yOiBURVNUX09QRVJBVE9SLAogICAgICAgIHJhbmQ6IFRFU1RfUkFORE9NX0hBU0gsCiAgICAgICAgcGh5c2ljYWxJZDogVEVTVF9TSU1fTlVNQkVSLAogICAgICAgIGJhdGNoTnVtYmVyOiBURVNUX0JBVENIX05VTUJFUiwKICAgICAgICBzdGF0dXM6IDEsCiAgICAgICAgcmVhbG06IFNUUkVBTV9SRUFMTQogICAgICB9KQoKICAgICAgZXhwZWN0KHJlc3BvbnNlKS50by5oYXZlLnN0YXR1cyhCQURfUkVRVUVTVCkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuZXJyb3IubWVzc2FnZSkudG8uYmUuZXEoVkFMSURBVElPTl9GQUlMRURfTUVTU0FHRSkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuZXJyb3IuY2hpbGRyZW4pLnRvLmJlLmFuKCdhcnJheScpLnRvLmJlLmxlbmd0aE9mKDEpCiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmVycm9yLmNoaWxkcmVuWzBdLmNoaWxkcmVuWzBdLm1lc3NhZ2UpLnRvLmJlLmVxKCdzdGF0dXMgbXVzdCBiZSBhIHN0cmluZycpCiAgICB9KQoKICAgIGl0KCdTaG91bGQgdGhyb3cgYSBiYWQgcmVxdWVzdCB3aGVuIGdpdmVuIGEgY29tcGFueSB0aGF0IGRvZXMgbm90IGV4aXN0JywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHNldFVwUG9zdFJlcXVlc3QoQkFTRV9FTkRQT0lOVCkKICAgICAgLnNlbmQoewogICAgICAgIGNvbXBhbnlJZDogOTk5LAogICAgICAgIHJlcXVlc3RUeXBlOiBURVNUX1JFUVVFU1RfVFlQRSwKICAgICAgICBvcGVyYXRvcjogVEVTVF9PUEVSQVRPUiwKICAgICAgICByYW5kOiBURVNUX1JBTkRPTV9IQVNILAogICAgICAgIHBoeXNpY2FsSWQ6IFRFU1RfU0lNX05VTUJFUiwKICAgICAgICBiYXRjaE51bWJlcjogVEVTVF9CQVRDSF9OVU1CRVIsCiAgICAgICAgc3RhdHVzOiAncGVuZGluZycsCiAgICAgICAgcmVhbG06IFNUUkVBTV9SRUFMTQogICAgICB9KQoKICAgICAgZXhwZWN0KHJlc3BvbnNlKS50by5oYXZlLnN0YXR1cyhCQURfUkVRVUVTVCkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuZXJyb3IubWVzc2FnZSkudG8uYmUuZXEoYENvbXBhbnkgd2l0aCBpZCA5OTkgY291bGQgbm90IGJlIGZvdW5kYCkKICAgIH0pCiAgfSkKfSkKCmZ1bmN0aW9uIHNldFVwUG9zdFJlcXVlc3QgKGVuZHBvaW50OiBzdHJpbmcpIHsKICByZXR1cm4gY2hhaQogIC5yZXF1ZXN0KGludGVybmFsQXBwKQogIC5wb3N0KGVuZHBvaW50KQp9CgpmdW5jdGlvbiBjb25maXJtUmVxdWlyZWRGaWVsZHNBcmVDb3JyZWN0IChzZW50UmVxdWVzdDogU2VudFJlcXVlc3QpOiB2b2lkIHsK</text>
+        <text encoding="base64">ICBASm9pbkNvbHVtbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVudGl0eSh7IHNjaGVtYTogJ2lraWRzJywgbmFtZTogJ3NlbnRfcmVxdWVzdHMnIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmFsaWQpLnRvLmVxKHRydWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRW50aXR5LCBDb2x1bW4sIFByaW1hcnlHZW5lcmF0ZWRDb2x1bW4gfSBmcm9tICd0eXBlb3JtJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdmFsaWQgPSBhanYudmFsaWRhdGUoeyAkcmVmOiAnc3dhZ2dlci5qc29uIy9jb21wb25lbnRzL3NjaGVtYXMvU2VudFJlcXVlc3RSZXNwb25zZScgfSwgY3JlYXRlZFNlbnRSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICBAQ29sdW1uKHsgdHlwZTogJ3RleHQnLCBsZW5ndGg6IDI1NSB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY29uZmlybVJlcXVpcmVkRmllbGRzQXJlQ29ycmVjdCAoc2VudFJlcXVlc3Q6IFNlbnRSZXF1ZXN0KTogdm9pZCB7CiAgY29tcGFueU5hbWU6IFRFU1RfQ09NUEFOWV9PTkVfTkFNRSwK</text>
+        <text encoding="base64">ICBAQ29sdW1uKHsgdHlwZTogJ3ZhcmNoYXInLCBsZW5ndGg6IDI1NSB9KQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>).to.be.eq(</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>device-list</last-search>
+      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>device-list</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buffer</last-substitute>
       <last-dir>1</last-dir>
@@ -645,9 +654,9 @@
         <entry>throw</entry>
         <entry>device</entry>
         <entry>device-list</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>rr</entry>
         <entry>gt</entry>
         <entry>WriteBufferIfNecessary</entry>
         <entry>wincmd h</entry>
@@ -657,9 +666,13 @@
         <entry>action Switcher</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action CloseContent</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Forward</entry>
         <entry>mx</entry>
+        <entry>action VimFilePrevious</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>rr</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
