@@ -136,6 +136,9 @@
         <mark key="]" line="76" column="2" />
         <mark key="." line="76" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestPostBody.ts" timestamp="1548158687256">
+        <mark key="a" line="22" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544090373346">
         <mark key="[" line="67" column="4" />
         <mark key="]" line="25" column="12" />
@@ -605,7 +608,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -634,6 +637,7 @@
         <entry>g1</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -650,6 +654,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed TAB</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
