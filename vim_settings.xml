@@ -609,6 +609,8 @@
       <history-cmd>
         <entry>rr</entry>
         <entry>gt</entry>
+        <entry>WriteBufferIfNecessary</entry>
+        <entry>wincmd h</entry>
       </history-cmd>
       <history-expr />
       <history-input />
