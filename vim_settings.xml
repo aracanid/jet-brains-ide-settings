@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548262383859">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548264543184">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="49" />
+        <mark key="^" line="26" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542644177380">
         <mark key="[" line="15" column="61" />
@@ -667,16 +667,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[SentRequestAttributeToCreate] | null</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>[SentRequestAttributeToCreate] | null</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcml2YXRlXD4=</text>
+        <text encoding="base64">XDx0b3B1cFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgREVGQVVMVF9TRU5UX1JFUVVFU1RfU1RBVFVTID0gJ3BlbmRpbmcnCgogIA==</text>
+        <text encoding="base64">ID0gJ3RvcHVwJwogIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGVycm9yKQo=</text>
@@ -717,9 +717,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
+      <last-search encoding="base64">XDx0b3B1cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0b3B1cFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buffer</last-substitute>
       <last-dir>1</last-dir>
@@ -734,6 +734,7 @@
         <entry>device-list</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDx0b3B1cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>gt</entry>
