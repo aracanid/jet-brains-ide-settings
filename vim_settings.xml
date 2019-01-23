@@ -18,6 +18,9 @@
       <file name="/a.dummy" timestamp="1542818740006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/clients/internal/add-audit-log-client.test.ts" timestamp="1548255824328">
+        <mark key="[" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/config.ts" timestamp="1542629882947">
         <mark key="[" line="22" column="90" />
       </file>
@@ -102,6 +105,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
         <mark key="[" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestToCreate.ts" timestamp="1548255412814">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/package.json" timestamp="1542110388969">
         <mark key="[" line="65" column="18" />
       </file>
@@ -126,6 +135,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/DeviceGroup.ts" timestamp="1544009486946">
         <mark key="[" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" timestamp="1548255798242">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="42" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/AdminActionService.ts" timestamp="1542732102126">
         <mark key="[" line="4" column="17" />
@@ -152,10 +167,6 @@
         <mark key="[" line="76" column="2" />
         <mark key="]" line="76" column="2" />
         <mark key="." line="76" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestPostBody.ts" timestamp="1548171723709">
-        <mark key="a" line="23" column="19" />
-        <mark key="[" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544090373346">
         <mark key="[" line="67" column="4" />
@@ -293,6 +304,12 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestAttributeToCreate.ts" timestamp="1548255397235">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/interfaces.ts" timestamp="1542879813885">
         <mark key="[" line="74" column="28" />
       </file>
@@ -359,6 +376,12 @@
         <mark key="[" line="65" column="98" />
         <mark key="]" line="65" column="98" />
         <mark key="." line="65" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestPostBody.ts" timestamp="1548254060829">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-enable-profile.test.ts" timestamp="1542736139971">
         <mark key="[" line="131" column="50" />
@@ -452,6 +475,12 @@
         <mark key="[" line="3" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/AddAuditLogService.ts" timestamp="1548255801657">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1543510037150">
         <mark key="[" line="24" column="14" />
@@ -629,55 +658,56 @@
       <jump line="4" column="13" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/models/SentRequestResponseBody.ts" />
       <jump line="117" column="92" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
       <jump line="154" column="84" filename="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" />
+      <jump line="14" column="56" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">cmVxdWVzdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">cmVxdWVzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRcPg==</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>({ type: SentRequestAttributey4</text>
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgREVGQVVMVF9TRU5UX1JFUVVFU1RfU1RBVFVTID0gJ3BlbmRpbmcnCgogIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgYEZhaWxlZCB0byBhZGQgbmV3IHNlbnQgcmVxdWVzdCBcbiA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVwb3NpdG9yeSwgZ2V0UmVwb3NpdG9yeSB9IGZyb20gJ3R5cGVvcm0nCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQWRkIGxvZ2dpbmcK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi9zcmMvbW9kZWxzL1NlbnRSZXF1ZXN0Jwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29tcGFueUlkOiBudW1iZXIKICBiYXRjaE51bWJlcjogc3RyaW5nCiAgcmVxdWVzdFR5cGU6IHN0cmluZwogIHBoeXNpY2FsSWQ6IHN0cmluZwogIG9wZXJhdG9yOiBzdHJpbmcKICByZWFsbTogc3RyaW5nLAogIGF0dHJpYnV0ZXM6IEFycmF5PFNlbnRSZXF1ZXN0QXR0cmlidXRlVG9DcmVhdGU+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbnRSZXF1ZXN0UmVwb3NpdG9yeSA9IGdldFJlcG9zaXRvcnkoU2VudFJlcXVlc3QsICdjb25EYicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IHNlbnRSZXF1ZXN0UmVwb3NpdG9yeTogUmVwb3NpdG9yeTxTZW50UmVxdWVzdD4K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBERUZBVUxUX1NFTlRfUkVRVUVTVF9TVEFUVVMgPSAncGVuZGluZycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjaGFpLWV4Y2x1ZGUiOiAiXjEuMC4xMiIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buffer</last-substitute>
       <last-dir>1</last-dir>
@@ -691,6 +721,7 @@
         <entry>device</entry>
         <entry>device-list</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>gt</entry>
@@ -707,8 +738,8 @@
         <entry>action VimFilePrevious</entry>
         <entry>action SearchEverywhere</entry>
         <entry>rr</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
