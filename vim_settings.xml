@@ -3,14 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548324678405">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548331055930">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542644177380">
         <mark key="[" line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/index.ts" timestamp="1548330389510">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1542102411952">
         <mark key="[" line="0" column="0" />
@@ -114,7 +120,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/RoutingControllers.ts" timestamp="1544007515032">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/package.json" timestamp="1548260944567">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/package.json" timestamp="1548331263127">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
@@ -226,6 +232,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542386732777">
         <mark key="[" line="52" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1548330927668">
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="88" column="21" />
+        <mark key="^" line="83" column="36" />
+        <mark key="." line="88" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090535371">
         <mark key="[" line="90" column="0" />
@@ -667,10 +679,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3B1cFw+</text>
@@ -679,12 +691,18 @@
         <text encoding="base64">ID0gJ3RvcHVwJwogIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGVycm9yKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VydmljZSB9IGZyb20gJ3R5cGVkaScK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">QFNlcnZpY2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGVycm9yKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>import {
   HEADER_GATEWAY_COMPANY_ID,
   HEADER_GATEWAY_COMPANY_NAME,
@@ -694,17 +712,11 @@
   HEADER_GATEWAY_USER_PERMISSIONS
 } from 'stream-api-extensions/dist/middleware/StreamApiGatewayHeaderMiddleware'</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGVycm9yKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwgY29tcGFueUlkLnRvU3RyaW5nKCkpCiAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgY29tcGFueU5hbWUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwgY29tcGFueUlkLnRvU3RyaW5nKCkpCiAgICAuc2V0KEhFQURFUl9HQVRFV0FZX0NPTVBBTllfTkFNRSwgY29tcGFueU5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
