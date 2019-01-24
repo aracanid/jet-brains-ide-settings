@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548344349662">
-        <mark key="[" line="16" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548346975775">
+        <mark key="[" line="52" column="23" />
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
@@ -69,11 +69,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/topup-service.test.ts" timestamp="1548344723973">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/topup-service.test.ts" timestamp="1548347030344">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="138" column="12" />
-        <mark key="]" line="138" column="13" />
-        <mark key="." line="138" column="13" />
+        <mark key="[" line="21" column="98" />
+        <mark key="]" line="145" column="55" />
+        <mark key="." line="145" column="55" />
+        <mark key="^" line="145" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1543425721839">
         <mark key="[" line="18" column="25" />
@@ -163,8 +164,8 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/AdminActionService.ts" timestamp="1542732102126">
         <mark key="[" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequest.ts" timestamp="1548338636029">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequest.ts" timestamp="1548346731090">
+        <mark key="[" line="21" column="15" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
@@ -359,6 +360,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/interfaces.ts" timestamp="1542879813885">
         <mark key="[" line="74" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/interfaces/internal/SentRequest.d.ts" timestamp="1548346763243">
+        <mark key="[" line="19" column="17" />
       </file>
       <file name="/fragment.js" timestamp="1542630584035">
         <mark key="[" line="0" column="0" />
@@ -572,7 +576,7 @@
         <mark key="^" line="86" column="83" />
         <mark key="." line="86" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548344133336">
+      <file name="/JavaScript Console" timestamp="1548346480530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
@@ -735,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TopUpType.DATA,</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>TopUpType.DATA,</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVTdHViSW5zdGFuY2VcPg==</text>
