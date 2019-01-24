@@ -617,6 +617,12 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/top-up-controller-test.ts" timestamp="1548350916092">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="81" column="45" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-disable-profile.test.ts" timestamp="1542736080553">
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="50" />
@@ -738,11 +744,11 @@
       <jump line="14" column="56" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVG9wVXBFcnJvciB9IGZyb20gJy4uL3NyYy9zZXJ2aWNlcy9Ub3BVcEVycm9yJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>OK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVTdHViSW5zdGFuY2VcPg==</text>
@@ -751,31 +757,31 @@
         <text>create</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">aW1wb3J0IHsgVG9wVXBFcnJvciB9IGZyb20gJy4uL3NyYy9zZXJ2aWNlcy9Ub3BVcEVycm9yJwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBsZXQgYWRkQXVkaXRMb2dDbGllbnQ6IEFkZEF1ZGl0TG9nQ2xpZW50CiAgbGV0IHNlbnRSZXF1ZXN0Q2xpZW50OiBTZW50UmVxdWVzdENsaWVudA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuVE9QX1VQX0FNT1VOVF9BVFRSSUJVVEVfS0VZID0gVE9QX1VQX0FNT1VOVF9BVFRSSUJVVEVfS0VZCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuVE9QX1VQX1RZUEVfQVRUUklCVVRFX0tFWSA9IFRPUF9VUF9UWVBFX0FUVFJJQlVURV9LRVkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSU5WQUxJRF9TRU5UX1JFUVVFU1RfVE9fQ1JFQVRFCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgVkFMSURfQVVESVRfTE9HX1RPX0NSRUFURSA9IHsKICBjb21wYW55SWQ6IDEzNDAsCiAgdXNlcklkOiA4ODg4LAogIGxvZ0NvZGU6ICdTVUJTQ1JJQkVSIFRPUCBVUCcsCiAgbm90ZTogJ0FkZGVkIERBVEEgdG9wIHVwIHJlcXVlc3QgZm9yIHN1YnNjcmliZXIgd2l0aCBwaHlzaWNhbElkIDg5NDQxMjM0NTY3ODkwIGZvciBhbW91bnQgMTIzNDUnCn0KCmNvbnN0IElOVkFMSURfQVVESVRfTE9HX1RPX0NSRUFURSA9IHsKICBjb21wYW55SWQ6IDk5OTksCiAgdXNlcklkOiA4ODg4LAogIGxvZ0NvZGU6ICdTVUJTQ1JJQkVSIFRPUCBVUCcsCiAgbm90ZTogJ05vIGF1ZGl0IGxvZyBoYXMgYmVlbiBhZGRlZCcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgc3Vic2NyaWJlclNlcnZpY2VTdHViLmNyZWF0ZQogICAgLndpdGhBcmdzKAogICAgICBJTlZBTElEX1NFTlRfUkVRVUVTVF9UT19DUkVBVEUKICAgICkKICAgIC5yZWplY3RzKCdBcGlDYWxsRXJyb3InKQo=</text>
+        <text encoding="base64">Y29uc3QgSU5WQUxJRF9TRU5UX1JFUVVFU1RfVE9fQ1JFQVRFID0gewogIGNvbXBhbnlJZDogMTM0MCwKICByZXF1ZXN0VHlwZTogJ3RvcHVwJywKICBvcGVyYXRvcjogJ3Rlc3RPcGVyYXRvcicsCiAgcGh5c2ljYWxJZDogJzk5OTk5OTk5OScsCiAgYmF0Y2hOdW1iZXI6ICcnLAogIHJlYWxtOiAnc3RyZWFtJywKICBhdHRyaWJ1dGVzOiBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVkFMSURfU0VOVF9SRVFVRVNUX1RPX0NSRUFURQo=</text>
+        <text encoding="base64">Y29uc3QgVkFMSURfQVVESVRfTE9HX1JFU1BPTlNFID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
