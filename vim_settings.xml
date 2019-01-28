@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548427931929">
-        <mark key="[" line="72" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/services/TopUpService.ts" timestamp="1548694745060">
+        <mark key="[" line="1" column="65" />
         <mark key="]" line="72" column="18" />
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/arm-openapi/test/swagger-generation.test.ts" timestamp="1542644177380">
-        <mark key="[" line="15" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/index.ts" timestamp="1548330389510">
         <mark key="[" line="3" column="26" />
@@ -18,40 +15,10 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="internal/process/next_tick.js" timestamp="1542102411952">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1542818740006">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/clients/internal/add-audit-log-client.test.ts" timestamp="1548255824328">
-        <mark key="[" line="52" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/config.ts" timestamp="1542629882947">
-        <mark key="[" line="22" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/ContainerInstance.ts" timestamp="1542098478265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/test/testSuccessfulResponsesForAllEndpoints.test.ts" timestamp="1542880486330">
-        <mark key="[" line="26" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/models/FormattedDataUsageByDevice.ts" timestamp="1542879914017">
-        <mark key="[" line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/index.ts" timestamp="1538583859301">
-        <mark key="[" line="27" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/add-audit-log/src/resources/LogCodes.ts" timestamp="1548262945798">
-        <mark key="[" line="6" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1543941475559">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="1" />
         <mark key="." line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-disable-profile.test.ts" timestamp="1542736127139">
-        <mark key="[" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1543941225268">
         <mark key="[" line="92" column="27" />
@@ -83,23 +50,16 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="47" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/arm-openapi.js" timestamp="1543941807768">
-        <mark key="[" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/SentRequestService.ts" timestamp="1548172154496">
         <mark key="[" line="99" column="47" />
         <mark key="]" line="100" column="56" />
         <mark key="^" line="100" column="56" />
         <mark key="." line="100" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/utilities.ts" timestamp="1548417500648">
-        <mark key="[" line="41" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/microservice-information-service.test.ts" timestamp="1543499902811">
-        <mark key="[" line="84" column="39" />
-      </file>
-      <file name="buffer.js" timestamp="1542051817668">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/clients/SentRequestClient.ts" timestamp="1548694618170">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/UpdateDeviceNickname.test.ts" timestamp="1543840381550">
         <mark key="[" line="34" column="47" />
@@ -107,37 +67,28 @@
         <mark key="^" line="142" column="3" />
         <mark key="." line="138" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/docker-compose.yml" timestamp="1539356085773">
-        <mark key="[" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestToCreate.ts" timestamp="1548339666026">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/package.json" timestamp="1542110388969">
-        <mark key="[" line="65" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/RoutingControllers.ts" timestamp="1544007515032">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/package.json" timestamp="1548337881293">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/interfaces.ts" timestamp="1542731983741">
-        <mark key="[" line="16" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/package.json" timestamp="1548695398950">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/services/SentRequestService.js" timestamp="1548341274459">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-1.yml" timestamp="1542189407104">
-        <mark key="[" line="16" column="59" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/package.json" timestamp="1548694720180">
+        <mark key="[" line="86" column="11" />
+        <mark key="]" line="86" column="14" />
+        <mark key="^" line="86" column="14" />
+        <mark key="." line="86" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/docker-compose.yml" timestamp="1542735667323">
         <mark key="[" line="21" column="8" />
@@ -150,39 +101,33 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/SentRequest.ts" timestamp="1548694454580">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/DeviceListResource.ts" timestamp="1542818550319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/DeviceGroup.ts" timestamp="1544009486946">
-        <mark key="[" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/config/routingControllerOptions.ts" timestamp="1548424073896">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" timestamp="1548255798242">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="42" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" timestamp="1548694561047">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/AdminActionService.ts" timestamp="1542732102126">
-        <mark key="[" line="4" column="17" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/SentRequestToCreate.ts" timestamp="1548694407158" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequest.ts" timestamp="1548346731090">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/file-serializer.test.ts" timestamp="1542051875238">
-        <mark key="[" line="28" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-management/package.json" timestamp="1542797500655">
-        <mark key="[" line="78" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/MonitoringAlert.ts" timestamp="1544016578075">
         <mark key="[" line="24" column="84" />
@@ -190,16 +135,10 @@
         <mark key="^" line="24" column="84" />
         <mark key="." line="24" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/docker/docker-compose-test-project-3.yml" timestamp="1542105599491">
-        <mark key="[" line="18" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpPostBody.ts" timestamp="1548430944811">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" timestamp="1548691310328">
         <mark key="'" line="140" column="61" />
@@ -207,6 +146,12 @@
         <mark key="]" line="143" column="77" />
         <mark key="^" line="143" column="77" />
         <mark key="." line="143" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/.gitignore" timestamp="1548693990698">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544090373346">
         <mark key="[" line="67" column="4" />
@@ -220,23 +165,11 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/.gitlab-ci.yml" timestamp="1542812433135">
-        <mark key="[" line="0" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/fixtures/CompanyFixtures.ts" timestamp="1543424743068">
         <mark key="[" line="77" column="6" />
         <mark key="]" line="77" column="9" />
         <mark key="." line="77" column="9" />
         <mark key="^" line="77" column="9" />
-      </file>
-      <file name="internal/process/promises.js" timestamp="1542048939322">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="timers.js" timestamp="1542102413741">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/SentRequestController.ts" timestamp="1538582885935">
-        <mark key="[" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/clients/internal/sent-request-client.test.ts" timestamp="1548257846492">
         <mark key="[" line="35" column="17" />
@@ -244,20 +177,16 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1543840305176">
-        <mark key="[" line="292" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
-        <mark key="[" line="224" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1543506991538">
         <mark key="[" line="19" column="87" />
         <mark key="]" line="19" column="26" />
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Subscriber.ts" timestamp="1542386732777">
-        <mark key="[" line="52" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/clients/AddAuditLogClient.ts" timestamp="1548694591957">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1548432309798">
         <mark key="[" line="83" column="33" />
@@ -270,26 +199,17 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceGroupFixtures.ts" timestamp="1544009466373">
-        <mark key="[" line="6" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpType.ts" timestamp="1548428569342">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/CompanyDevice.ts" timestamp="1542818701764">
-        <mark key="[" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/errorMessages.ts" timestamp="1542883809248">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/RoutingControllers.ts" timestamp="1543509833065">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/sqlQueries.ts" timestamp="1542880447253">
         <mark key="[" line="14" column="19" />
@@ -330,31 +250,18 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="34" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/SentRequestPostBody.ts" timestamp="1548694421548" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/responses/subscriber-not-found.json" timestamp="1543489227824">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/docker-compose.yml" timestamp="1538664139316">
-        <mark key="[" line="30" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1542884132701">
         <mark key="[" line="585" column="20" />
         <mark key="]" line="585" column="20" />
         <mark key="." line="585" column="20" />
         <mark key="^" line="537" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/responses/get-projects-in-group-response.json" timestamp="1542112732246">
-        <mark key="[" line="77" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/SubscriberService.ts" timestamp="1542732297039">
-        <mark key="[" line="12" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/index.ts" timestamp="1548338689729">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/PatchBody.ts" timestamp="1543839809886">
         <mark key="[" line="1" column="0" />
@@ -379,15 +286,6 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/interfaces.ts" timestamp="1542879813885">
-        <mark key="[" line="74" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/interfaces/internal/SentRequest.d.ts" timestamp="1548346763243">
-        <mark key="[" line="19" column="17" />
-      </file>
-      <file name="/fragment.js" timestamp="1542630584035">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/docker-compose.yml" timestamp="1544027198418">
         <mark key="[" line="72" column="60" />
         <mark key="]" line="44" column="0" />
@@ -398,9 +296,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
         <mark key="^" line="121" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/edit-company-ones-device-information.json" timestamp="1543511190539">
-        <mark key="[" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1543941785402">
         <mark key="[" line="52" column="9" />
@@ -414,11 +309,11 @@
         <mark key="." line="25" column="65" />
         <mark key="^" line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/tsconfig.json" timestamp="1548337853946">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/tsconfig.json" timestamp="1548693980039">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1543415920938">
         <mark key="[" line="65" column="105" />
@@ -437,11 +332,8 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548338663240">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
         <mark key="[" line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/models/TagWithCount.ts" timestamp="1542726668891">
-        <mark key="[" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/TransactionLogService.ts" timestamp="1542732276686">
         <mark key="[" line="48" column="40" />
@@ -458,9 +350,6 @@
         <mark key="]" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/index.d.ts" timestamp="1548337085250">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestPostBody.ts" timestamp="1548254060829">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="13" />
@@ -472,17 +361,11 @@
         <mark key="]" line="131" column="50" />
         <mark key="." line="131" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542301716230">
-        <mark key="[" line="3" column="72" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/testUtilities.ts" timestamp="1543486936100">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-management/src/server.ts" timestamp="1542797193144">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-sync-euicc-device.test.ts" timestamp="1542736147918">
         <mark key="[" line="72" column="50" />
@@ -500,18 +383,6 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="28" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/models/FormattedDeviceDataUsageByIpAddress.ts" timestamp="1542879937000">
-        <mark key="[" line="11" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/src/index.ts" timestamp="1542301736646">
-        <mark key="[" line="42" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/fixtures/SubscriberFixtures.ts" timestamp="1542301814970">
-        <mark key="[" line="106" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-attach-profile.test.ts" timestamp="1542735940488">
-        <mark key="[" line="51" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/docker-compose.yml" timestamp="1542801215588">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -521,9 +392,6 @@
         <mark key="[" line="109" column="11" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/audit-log/src/index.ts" timestamp="1538990180817">
-        <mark key="[" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1548431096738">
         <mark key="'" line="62" column="0" />
@@ -552,31 +420,15 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/models/Project.ts" timestamp="1542277892111">
-        <mark key="[" line="11" column="118" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/validators.ts" timestamp="1542732028467">
-        <mark key="[" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/responses/get-text-file-from-repository-response.json" timestamp="1542029655625">
-        <mark key="[" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/src/Container.ts" timestamp="1542098483325">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/.gitlab-ci.yml" timestamp="1538752298939">
-        <mark key="[" line="0" column="122" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/DeviceListFixtures.ts" timestamp="1542818605454">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/AddAuditLogService.ts" timestamp="1548255801657">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="19" column="47" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/AddAuditLogService.ts" timestamp="1548694497440">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1543510037150">
         <mark key="[" line="24" column="14" />
@@ -602,29 +454,13 @@
         <mark key="^" line="86" column="83" />
         <mark key="." line="86" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548427778575">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1542385674872">
-        <mark key="[" line="0" column="123" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/RoutingControllers.ts" timestamp="1548173341818">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLogToCreate.ts" timestamp="1548694392116" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/SentRequestAttribute.ts" timestamp="1548694436579" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/tslint.json" timestamp="1543405954648">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="57" />
         <mark key="^" line="3" column="57" />
         <mark key="." line="3" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/repositories/AnalyticsRepositoryInterface.ts" timestamp="1542880605490">
-        <mark key="[" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-management/src/controllers/ApnManagementController.ts" timestamp="1542797339302">
-        <mark key="[" line="115" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/test-utilities.ts" timestamp="1548173819700">
-        <mark key="[" line="9" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-information/src/controllers/DeviceInformationController.ts" timestamp="1543833547414">
         <mark key="[" line="3" column="68" />
@@ -653,9 +489,6 @@
         <mark key="]" line="76" column="50" />
         <mark key="." line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" timestamp="1542726809691">
-        <mark key="[" line="24" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542819183521">
         <mark key="[" line="20" column="293" />
         <mark key="]" line="20" column="293" />
@@ -673,16 +506,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/UserActionService.ts" timestamp="1542732188385">
-        <mark key="[" line="4" column="75" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/services/AddAuditLogService.js" timestamp="1548341268618">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/test/TestInformation.ts" timestamp="1542881367663">
-        <mark key="[" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/InternalSentRequestService.ts" timestamp="1548173879261">
         <mark key="[" line="33" column="4" />
@@ -694,17 +521,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/device-list/test/SubscriberAssertionHelperFunctions.ts" timestamp="1542302963491">
-        <mark key="[" line="36" column="75" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpResponse.ts" timestamp="1548432813392">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/force-detach-profile.test.ts" timestamp="1542732914121">
-        <mark key="[" line="24" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -780,7 +601,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgRW5kcG9pbnRVcmwgfSBmcm9tICcuLi8uLi9FbmRwb2ludFVybCcK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -792,31 +613,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgRW5kcG9pbnRVcmwgfSBmcm9tICcuLi8uLi9FbmRwb2ludFVybCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tb2JpbGVDb3VudHJ5Q29kZSA9IHRoaXMuY29ubmVjdEluZm9TdGFydCEuc2xpY2UodGhpcy5NT0JJTEVfQ09VTlRSWV9DT0RFX1NUQVJUX0lOREVYLCB0aGlzLk1PQklMRV9DT1VOVFJZX0NPREVfU1RBUlRfSU5ERVgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RUb0NyZWF0ZSB9IGZyb20gJy4uLy4uL2ludGVyZmFjZXMvaW50ZXJuYWwvU2VudFJlcXVlc3RUb0NyZWF0ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmNvbm5lY3RJbmZvU3RhcnQpIHsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvU2VudFJlcXVlc3RTZXJ2aWNlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eGQK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi8uLi9pbnRlcmZhY2VzL2ludGVybmFsL1NlbnRSZXF1ZXN0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXVkaXRMb2dUb0NyZWF0ZSB9IGZyb20gJy4uL2ludGVyZmFjZXMvQXVkaXRMb2dUb0NyZWF0ZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGBGYWlsZWQgdG8gYWRkIG5ldyBzZW50IHJlcXVlc3QgXG4gJHtlcnJvci5tZXNzYWdlfWApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi9pbnRlcmZhY2VzL1NlbnRSZXF1ZXN0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvc2lub24tY2hhaSI6ICJeMy4yLjIiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RUb0NyZWF0ZSB9IGZyb20gJy4uL2ludGVyZmFjZXMvU2VudFJlcXVlc3RUb0NyZWF0ZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcGlubyI6ICJeNC4xNi4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RQb3N0Qm9keSB9IGZyb20gJy4uL2ludGVyZmFjZXMvU2VudFJlcXVlc3RQb3N0Qm9keScK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
