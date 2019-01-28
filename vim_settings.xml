@@ -155,7 +155,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/class-validator/decorator/decorators.js" timestamp="1548424843675" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/models/DeviceGroup.ts" timestamp="1544009486946">
         <mark key="[" line="3" column="21" />
       </file>
@@ -202,10 +201,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/RoutingControllers.ts" timestamp="1538753683999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" timestamp="1543487045326">
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="2" />
-        <mark key="." line="76" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" timestamp="1548691310328">
+        <mark key="'" line="140" column="61" />
+        <mark key="[" line="143" column="78" />
+        <mark key="]" line="143" column="77" />
+        <mark key="^" line="143" column="77" />
+        <mark key="." line="143" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/src/controllers/MonitoringAlertsController.ts" timestamp="1544090373346">
         <mark key="[" line="67" column="4" />
@@ -246,7 +247,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetSubscribers.test.ts" timestamp="1543840305176">
         <mark key="[" line="292" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/swagger.json" timestamp="1548432893643" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/test/testGetAttributesAndReportTypes.test.ts" timestamp="1542810448753">
         <mark key="[" line="224" column="5" />
       </file>
@@ -307,7 +307,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/docker-compose.yml" timestamp="1548412280674" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/SubscriberFixtures.ts" timestamp="1542819352356">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
@@ -654,7 +653,6 @@
         <mark key="]" line="76" column="50" />
         <mark key="." line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/class-validator/decorator/decorators.d.ts" timestamp="1548425248822" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewTagsDevices.test.ts" timestamp="1542726809691">
         <mark key="[" line="24" column="17" />
       </file>
@@ -778,13 +776,14 @@
       <jump line="31" column="28" filename="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" />
       <jump line="4" column="13" filename="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpPostBody.ts" />
+      <jump line="146" column="61" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;^0.1.1&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -793,31 +792,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5tb2JpbGVDb3VudHJ5Q29kZSA9IHRoaXMuY29ubmVjdEluZm9TdGFydCEuc2xpY2UodGhpcy5NT0JJTEVfQ09VTlRSWV9DT0RFX1NUQVJUX0lOREVYLCB0aGlzLk1PQklMRV9DT1VOVFJZX0NPREVfU1RBUlRfSU5ERVgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmNvbm5lY3RJbmZvU3RhcnQpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvc2lub24tY2hhaSI6ICJeMy4yLjIiLAo=</text>
+        <text encoding="base64">eGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcGlubyI6ICJeNC4xNi4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VHJhbnNsYXRvciB9IGZyb20gJ3N0cmVhbS1hcGktdXRpbGl0aWVzL3NyYy91dGlsaXR5L2xvY2FsaXphdGlvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMTIuMTgiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVzY3JpcHRpb24sIEV4YW1wbGUgfSBmcm9tICdhcm0tb3BlbmFwaS9zcmMvZGVjb3JhdG9ycycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbXVsdGVyIjogIl4xLjMuNyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbW9jaGEiOiAiXjIuMi40NCIsCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvc2lub24tY2hhaSI6ICJeMy4yLjIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvaTE4bmV4dCI6ICJeOC40LjQiLAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcGlubyI6ICJeNC4xNi4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
