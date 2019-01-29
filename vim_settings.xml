@@ -361,6 +361,12 @@
         <mark key="]" line="131" column="50" />
         <mark key="." line="131" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/fixtures/TopUpFixtures.ts" timestamp="1548775512068">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/testUtilities.ts" timestamp="1543486936100">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="33" column="0" />
@@ -594,11 +600,11 @@
       <jump line="146" column="61" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>The identifier of the network that the subscriber connected to. This is usually the operator's Mobile Country Code and Mobile Network Code.If N/A is displayed, it means the operator has not provided this information.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>The identifier of the network that the subscriber connected to. This is usually the operator's Mobile Country Code and Mobile Network Code.If N/A is displayed, it means the operator has not provided this information.</text>
+        <text>ApnConfigDataFixtures</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -607,31 +613,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQWZ0ZXJMb2FkKCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQWZ0ZXJMb2FkKCkK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFRvcFVwRml4dHVyZXMgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQgfSBmcm9tICdhcGktc2RrJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQsIFNlbnRSZXF1ZXN0Q2xpZW50IH0gZnJvbSAnYXBpLXNkaycK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VydmljZSB9IGZyb20gJ3R5cGVkaScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW5kcG9pbnRVcmwgfSBmcm9tICcuLi8uLi9FbmRwb2ludFVybCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBuQ29uZmlnIH0gZnJvbSAnLi4vLi4vc3JjL21vZGVscy9BcG5Db25maWdEYXRhJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RUb0NyZWF0ZSB9IGZyb20gJy4uLy4uL2ludGVyZmFjZXMvaW50ZXJuYWwvU2VudFJlcXVlc3RUb0NyZWF0ZScK</text>
+        <text encoding="base64">QFNlcnZpY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvU2VudFJlcXVlc3RTZXJ2aWNlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT3JtQ29ubmVjdGlvbiB9IGZyb20gJ3R5cGVvcm0tdHlwZWRpLWV4dGVuc2lvbnMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi8uLi9pbnRlcmZhY2VzL2ludGVybmFsL1NlbnRSZXF1ZXN0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXVkaXRMb2dUb0NyZWF0ZSB9IGZyb20gJy4uL2ludGVyZmFjZXMvQXVkaXRMb2dUb0NyZWF0ZScK</text>
+        <text encoding="base64">ICBAT3JtQ29ubmVjdGlvbignY29uRGInKSBwcml2YXRlIFJlcG9zaXRvcnk8QXBuQ29uZmlnPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
