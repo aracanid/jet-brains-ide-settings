@@ -132,6 +132,13 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" timestamp="1548772823914">
+        <mark key="'" line="145" column="61" />
+        <mark key="[" line="150" column="35" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="141" column="132" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/.gitignore" timestamp="1548693990698">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="3" />
@@ -195,6 +202,9 @@
         <mark key="]" line="1" column="46" />
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/fixtures/ApnLogFixtures.ts" timestamp="1548771489838">
+        <mark key="[" line="27" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/sqlQueries.ts" timestamp="1542880447253">
         <mark key="[" line="14" column="19" />
@@ -275,7 +285,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1543487874744">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-logs.test.ts" timestamp="1548771406917">
         <mark key="[" line="72" column="146" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -362,7 +372,7 @@
         <mark key="]" line="72" column="50" />
         <mark key="." line="72" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1548769243366">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/get-apn-details.test.ts" timestamp="1548771390854">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="43" />
         <mark key="." line="31" column="43" />
@@ -437,7 +447,7 @@
         <mark key="^" line="86" column="83" />
         <mark key="." line="86" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548769248765">
+      <file name="/JavaScript Console" timestamp="1548772424832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/tslint.json" timestamp="1543405954648">
@@ -585,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>docker rm -f $(docker ps -aq) || echo 'No containers to remove'&quot;</text>
+        <text>The identifier of the network that the subscriber connected to. This is usually the operator's Mobile Country Code and Mobile Network Code.If N/A is displayed, it means the operator has not provided this information.</text>
       </register>
       <register name="-" type="4">
-        <text>docker rm -f $(docker ps -aq) || echo 'No containers to remove'&quot;</text>
+        <text>The identifier of the network that the subscriber connected to. This is usually the operator's Mobile Country Code and Mobile Network Code.If N/A is displayed, it means the operator has not provided this information.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -597,31 +607,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQgfSBmcm9tICdhcGktc2RrJwo=</text>
+        <text encoding="base64">ICBAQWZ0ZXJMb2FkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQsIFNlbnRSZXF1ZXN0Q2xpZW50IH0gZnJvbSAnYXBpLXNkaycK</text>
+        <text encoding="base64">ICBAQWZ0ZXJMb2FkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW5kcG9pbnRVcmwgfSBmcm9tICcuLi8uLi9FbmRwb2ludFVybCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQgfSBmcm9tICdhcGktc2RrJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RUb0NyZWF0ZSB9IGZyb20gJy4uLy4uL2ludGVyZmFjZXMvaW50ZXJuYWwvU2VudFJlcXVlc3RUb0NyZWF0ZScK</text>
+        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQsIFNlbnRSZXF1ZXN0Q2xpZW50IH0gZnJvbSAnYXBpLXNkaycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvU2VudFJlcXVlc3RTZXJ2aWNlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRW5kcG9pbnRVcmwgfSBmcm9tICcuLi8uLi9FbmRwb2ludFVybCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi8uLi9pbnRlcmZhY2VzL2ludGVybmFsL1NlbnRSZXF1ZXN0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RUb0NyZWF0ZSB9IGZyb20gJy4uLy4uL2ludGVyZmFjZXMvaW50ZXJuYWwvU2VudFJlcXVlc3RUb0NyZWF0ZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXVkaXRMb2dUb0NyZWF0ZSB9IGZyb20gJy4uL2ludGVyZmFjZXMvQXVkaXRMb2dUb0NyZWF0ZScK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RTZXJ2aWNlIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvU2VudFJlcXVlc3RTZXJ2aWNlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKGBGYWlsZWQgdG8gYWRkIG5ldyBzZW50IHJlcXVlc3QgXG4gJHtlcnJvci5tZXNzYWdlfWApCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi8uLi9pbnRlcmZhY2VzL2ludGVybmFsL1NlbnRSZXF1ZXN0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3QgfSBmcm9tICcuLi9pbnRlcmZhY2VzL1NlbnRSZXF1ZXN0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXVkaXRMb2dUb0NyZWF0ZSB9IGZyb20gJy4uL2ludGVyZmFjZXMvQXVkaXRMb2dUb0NyZWF0ZScK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
