@@ -187,10 +187,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1548756722913">
-        <mark key="[" line="62" column="19" />
-        <mark key="]" line="62" column="19" />
-        <mark key="." line="62" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1548762552849">
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="16" />
+        <mark key="." line="62" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090535371">
@@ -602,11 +602,11 @@
       <jump line="146" column="61" filename="$USER_HOME$/Documents/Projects/Typescript/apn-information/src/models/ApnLog.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkQXVkaXRMb2dDbGllbnQgfSBmcm9tICdhcGktc2RrJwo=</text>
+      <register name="&quot;" type="4">
+        <text>:../api-sdk</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>:../api-sdk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
