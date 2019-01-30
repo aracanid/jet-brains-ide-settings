@@ -32,11 +32,10 @@
         <mark key="." line="0" column="81" />
         <mark key="^" line="0" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/package.json" timestamp="1548864009939">
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="22" />
-        <mark key="." line="47" column="22" />
-        <mark key="^" line="47" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/package.json" timestamp="1548867917707">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1548768085116">
         <mark key="[" line="18" column="25" />
@@ -638,10 +637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>git+https://github.com/chaijs/chai-http.git</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>git+https://github.com/chaijs/chai-http.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -650,31 +649,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1N0cmVhbUFwaUdhdGV3YXlIZWFkZXJNaWRkbGV3YXJlJwo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
+        <text encoding="base64">fSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1N0cmVhbUFwaUdhdGV3YXlIZWFkZXJNaWRkbGV3YXJlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCg==</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELAo=</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9UT0tFTiwK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9UT0tFTiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gY2hhaS5leHBlY3QK</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gY2hhaS5leHBlY3QK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
