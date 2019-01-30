@@ -234,11 +234,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/integration/top-up-subscriber.test.ts" timestamp="1548845316203">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/integration/top-up-subscriber.test.ts" timestamp="1548846140039">
         <mark key="[" line="30" column="4" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="9" />
+        <mark key="]" line="12" column="60" />
+        <mark key="." line="12" column="60" />
+        <mark key="^" line="12" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequest.ts" timestamp="1548346731090">
         <mark key="[" line="21" column="15" />
