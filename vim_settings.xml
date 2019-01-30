@@ -116,11 +116,10 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/integration/top-up-subscriber.test.ts" timestamp="1548848536682">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/integration/top-up-subscriber.test.ts" timestamp="1548860485629">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequest.ts" timestamp="1548346731090">
         <mark key="[" line="21" column="15" />
@@ -234,10 +233,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/docker-compose.yml" timestamp="1548857731728">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/docker-compose.yml" timestamp="1548859409443">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/SubscriberFixtures.ts" timestamp="1542819352356">
         <mark key="[" line="11" column="26" />
@@ -373,14 +373,17 @@
         <mark key="]" line="65" column="98" />
         <mark key="." line="65" column="98" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/top-up-controller.test.ts" timestamp="1548860328047" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/internal/SentRequestPostBody.ts" timestamp="1548254060829">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/config.ts" timestamp="1548847817656">
-        <mark key="[" line="31" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/config.ts" timestamp="1548859569531">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/test/user-enable-profile.test.ts" timestamp="1542736139971">
         <mark key="[" line="131" column="50" />
@@ -479,7 +482,7 @@
         <mark key="^" line="86" column="83" />
         <mark key="." line="86" column="83" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548772424832">
+      <file name="/JavaScript Console" timestamp="1548860252725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/tslint.json" timestamp="1543405954648">
@@ -514,6 +517,11 @@
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="50" />
         <mark key="." line="76" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/fixtures/sql/add_subscriber.sql" timestamp="1548860066062">
+        <mark key="[" line="1" column="171" />
+        <mark key="]" line="4" column="210" />
+        <mark key="." line="4" column="210" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/CompanySubscriberFixtures.ts" timestamp="1542819183521">
         <mark key="[" line="20" column="293" />
@@ -627,10 +635,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1N0cmVhbUFwaUdhdGV3YXlIZWFkZXJNaWRkbGV3YXJlJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>from '../../src/config'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RcPg==</text>
@@ -639,31 +647,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1N0cmVhbUFwaUdhdGV3YXlIZWFkZXJNaWRkbGV3YXJlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ09OX0RBVEFCQVNFX05BTUUgfSAK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCdEZXZpY2UgMTInLCdsb3JhJywnTG9yYSBUYXJpZmYnLDEwMCwxMjMsJzIwMTgtMTEtMjkgMTA6MzM6MzAnLCcyMDE4LTEyLTIzIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLE5VTEwsJ0dCUCcsMSwxMjMsJ3BoeXNpY2FsJywwKTsK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9UT0tFTiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KDExLCcxMjM0NTYxMScsJzc1NjQzMjY5MTEnLCcxMTExMTExMTEnLCdEZXZpY2UgMTEnLCdpcmlkJywnU0JELTAnLDEwMCw0NTYsJzIwMTgtMTEtMzAgMTA6MzM6MzAnLCcyMDE4LTEyLTIyIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLCcyMDE4LTExLTMwIDEwOjMzOjMwJywnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KDEwLCcxMjM0NTYxMCcsJzc1NjQzMjY5MTAnLCcxMTExMTExMTAnLCdEZXZpY2UgMTAnLCdIM0cnLCcxMDAgR2IvTW9udGhseScsMTAwLDEyMywnMjAxOC0xMi0wMSAxMDozMzozMCcsJzIwMTgtMTItMjEgMTA6MzM6MzAnLDI0LDAsJyBUaGlzIGlzIGFuIGFjdGl2ZSBkZXZpY2UnLDEyLDI0LDEsTlVMTCwnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ID0gY2hhaS5leHBlY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCcyMzQ1MDcwOTE2NjE3MjEyJywnMzU2OTM4MDM1NjQzODAxMicsJzEnLCdjb21wYW55X29uZScsJ2xvcmEnLCcyMDE4LTA4LTIxIDE1OjIzOjM2JywnMjAxOC0wOC0yMSAxNToyMzozNicsJ3BoeXNpY2FsJywwLCdzdHJlYW0nLE5VTEwsTlVMTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
