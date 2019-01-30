@@ -234,6 +234,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/docker-compose.yml" timestamp="1548856571077">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/fixtures/SubscriberFixtures.ts" timestamp="1542819352356">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
@@ -622,7 +627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>from '../../src/config'</text>
@@ -634,31 +639,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ09OX0RBVEFCQVNFX05BTUUgfSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCdEZXZpY2UgMTInLCdsb3JhJywnTG9yYSBUYXJpZmYnLDEwMCwxMjMsJzIwMTgtMTEtMjkgMTA6MzM6MzAnLCcyMDE4LTEyLTIzIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLE5VTEwsJ0dCUCcsMSwxMjMsJ3BoeXNpY2FsJywwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KDExLCcxMjM0NTYxMScsJzc1NjQzMjY5MTEnLCcxMTExMTExMTEnLCdEZXZpY2UgMTEnLCdpcmlkJywnU0JELTAnLDEwMCw0NTYsJzIwMTgtMTEtMzAgMTA6MzM6MzAnLCcyMDE4LTEyLTIyIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLCcyMDE4LTExLTMwIDEwOjMzOjMwJywnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYXBwLCBkYXRhYmFzZUNvbm5lY3Rpb25Qcm9taXNlIH0gZnJvbSAnLi4vc3JjJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KDEwLCcxMjM0NTYxMCcsJzc1NjQzMjY5MTAnLCcxMTExMTExMTAnLCdEZXZpY2UgMTAnLCdIM0cnLCcxMDAgR2IvTW9udGhseScsMTAwLDEyMywnMjAxOC0xMi0wMSAxMDozMzozMCcsJzIwMTgtMTItMjEgMTA6MzM6MzAnLDI0LDAsJyBUaGlzIGlzIGFuIGFjdGl2ZSBkZXZpY2UnLDEyLDI0LDEsTlVMTCwnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ09OX0RBVEFCQVNFX05BTUUgfSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCcyMzQ1MDcwOTE2NjE3MjEyJywnMzU2OTM4MDM1NjQzODAxMicsJzEnLCdjb21wYW55X29uZScsJ2xvcmEnLCcyMDE4LTA4LTIxIDE1OjIzOjM2JywnMjAxOC0wOC0yMSAxNToyMzozNicsJ3BoeXNpY2FsJywwLCdzdHJlYW0nLE5VTEwsTlVMTCk7Cg==</text>
+        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCdEZXZpY2UgMTInLCdsb3JhJywnTG9yYSBUYXJpZmYnLDEwMCwxMjMsJzIwMTgtMTEtMjkgMTA6MzM6MzAnLCcyMDE4LTEyLTIzIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLE5VTEwsJ0dCUCcsMSwxMjMsJ3BoeXNpY2FsJywwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KDExLCcxMjM0NTYxMScsJzc1NjQzMjY5MTEnLCcxMTExMTExMTEnLCcyMzQ1MDcwOTE2NjE3MjExJywnMzU2OTM4MDM1NjQzODAxMScsJzEnLCdjb21wYW55X29uZScsJ2lyaWQnLCcyMDE4LTA4LTIxIDE1OjIzOjM2JywnMjAxOC0wOC0yMSAxNToyMzozNicsJ3BoeXNpY2FsJywwLCdzdHJlYW0nLE5VTEwsTlVMTCksCg==</text>
+        <text encoding="base64">KDExLCcxMjM0NTYxMScsJzc1NjQzMjY5MTEnLCcxMTExMTExMTEnLCdEZXZpY2UgMTEnLCdpcmlkJywnU0JELTAnLDEwMCw0NTYsJzIwMTgtMTEtMzAgMTA6MzM6MzAnLCcyMDE4LTEyLTIyIDEwOjMzOjMwJywyNCwwLCcgVGhpcyBpcyBhbiBhY3RpdmUgZGV2aWNlJywxMiwyNCwxLCcyMDE4LTExLTMwIDEwOjMzOjMwJywnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KDEwLCcxMjM0NTYxMCcsJzc1NjQzMjY5MTAnLCcxMTExMTExMTAnLCcyMzQ1MDcwOTE2NjE3MjEwJywnMzU2OTM4MDM1NjQzODAxMCcsJzEnLCdjb21wYW55X29uZScsJ0gzRycsJzIwMTgtMDgtMjEgMTU6MjM6MzYnLCcyMDE4LTA4LTIxIDE1OjIzOjM2JywncGh5c2ljYWwnLDAsJ3N0cmVhbScsTlVMTCxOVUxMKSwK</text>
+        <text encoding="base64">KDEwLCcxMjM0NTYxMCcsJzc1NjQzMjY5MTAnLCcxMTExMTExMTAnLCdEZXZpY2UgMTAnLCdIM0cnLCcxMDAgR2IvTW9udGhseScsMTAwLDEyMywnMjAxOC0xMi0wMSAxMDozMzozMCcsJzIwMTgtMTItMjEgMTA6MzM6MzAnLDI0LDAsJyBUaGlzIGlzIGFuIGFjdGl2ZSBkZXZpY2UnLDEyLDI0LDEsTlVMTCwnR0JQJywxLDEyMywncGh5c2ljYWwnLDApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">KDEyLCcxMjM0NTYxMicsJzc1NjQzMjY5MTInLCcxMTExMTExMTInLCcyMzQ1MDcwOTE2NjE3MjEyJywnMzU2OTM4MDM1NjQzODAxMicsJzEnLCdjb21wYW55X29uZScsJ2xvcmEnLCcyMDE4LTA4LTIxIDE1OjIzOjM2JywnMjAxOC0wOC0yMSAxNToyMzozNicsJ3BoeXNpY2FsJywwLCdzdHJlYW0nLE5VTEwsTlVMTCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
