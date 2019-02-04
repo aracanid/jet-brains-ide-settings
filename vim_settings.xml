@@ -190,6 +190,11 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/.gitlab-ci.yml" timestamp="1549298309135">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1543506991538">
         <mark key="[" line="19" column="87" />
         <mark key="]" line="19" column="26" />
@@ -700,10 +705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sentRequestClient</text>
+        <text encoding="base64">Pi88</text>
       </register>
       <register name="-" type="4">
-        <text>sentRequestClient</text>
+        <text encoding="base64">Pi88</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
