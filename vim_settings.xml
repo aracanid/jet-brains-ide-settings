@@ -14,6 +14,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/RoutingControllers.ts" timestamp="1549373751796">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/sql/add_companies.sql" timestamp="1549371112342">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="23" />
@@ -111,10 +114,10 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/controllers/AuditLogController.ts" timestamp="1549369402251">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/controllers/AuditLogController.ts" timestamp="1549373416377">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/index.ts" timestamp="1549364506085">
         <mark key="[" line="7" column="120" />
@@ -624,7 +627,7 @@
       <file name="crypto.js" timestamp="1549031278404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1549366135121">
+      <file name="/JavaScript Console" timestamp="1549373682094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/crypto/hash.js" timestamp="1549031268013">
@@ -718,7 +721,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/package.json" timestamp="1549364145577" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpResponse.ts" timestamp="1548432813392">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -802,8 +804,8 @@
       <jump line="31" column="47" filename="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/CompanyFixtures.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -815,31 +817,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
+        <text encoding="base64">fSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCg==</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELAo=</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9UT0tFTiwK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX0lELAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9UT0tFTiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVByb2ZpbGUsIENvbXBhbnkgfSBmcm9tICdjb21wYW55LWluZm9ybWF0aW9uL2Rpc3Qvc3JjL21vZGVscycK</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ09OX0RBVEFCQVNFX05BTUUgfSBmcm9tICcuLi8uLi9zcmMvY29uZmlnJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVByb2ZpbGUsIENvbXBhbnkgfSBmcm9tICdjb21wYW55LWluZm9ybWF0aW9uL2Rpc3Qvc3JjL21vZGVscycK</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleLineBreakpoint</text>
