@@ -23,10 +23,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/audit-log-service.test.ts" timestamp="1549383811151">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/audit-log-service.test.ts" timestamp="1549385405351">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="19" column="69" />
+        <mark key="." line="19" column="69" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/index.ts" timestamp="1548330389510">
         <mark key="[" line="3" column="26" />
@@ -167,7 +168,7 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" timestamp="1549383646045">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/services/SentRequestService.ts" timestamp="1549385204749">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="28" />
@@ -629,7 +630,7 @@
       <file name="crypto.js" timestamp="1549031278404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1549383667614">
+      <file name="/JavaScript Console" timestamp="1549385182304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/crypto/hash.js" timestamp="1549031268013">
@@ -703,11 +704,11 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/sent-request-service.test.ts" timestamp="1549383634716">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/sent-request-service.test.ts" timestamp="1549385415698">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="9" />
+        <mark key="." line="55" column="9" />
+        <mark key="^" line="55" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/node_modules/api-sdk/lib/services/AddAuditLogService.js" timestamp="1548341268618">
         <mark key="[" line="20" column="0" />
@@ -808,11 +809,11 @@
       <jump line="31" column="47" filename="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/CompanyFixtures.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
