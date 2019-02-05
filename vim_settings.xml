@@ -40,7 +40,6 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/topup-service.test.ts" timestamp="1549297528018" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1548768085116">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="28" column="8" />
@@ -212,6 +211,7 @@
         <mark key="." line="62" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/add-audit-log.test.ts" timestamp="1549360978900" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090535371">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -265,6 +265,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="16" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/package.json" timestamp="1549360943883">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="65" column="37" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/microservice-serializer.test.ts" timestamp="1543494916873">
         <mark key="[" line="51" column="0" />
@@ -557,7 +563,6 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/index.ts" timestamp="1549288481205" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/device-information/src/controllers/DeviceInformationController.ts" timestamp="1543833547414">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="3" column="68" />
@@ -705,10 +710,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pi88</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pi88</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
