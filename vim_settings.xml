@@ -14,11 +14,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/sql/add_companies.sql" timestamp="1549371107723">
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/sql/add_companies.sql" timestamp="1549371112342">
         <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/index.ts" timestamp="1548330389510">
         <mark key="[" line="3" column="26" />
