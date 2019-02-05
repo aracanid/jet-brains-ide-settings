@@ -211,7 +211,7 @@
         <mark key="." line="62" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/add-audit-log.test.ts" timestamp="1549360978900" />
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/add-audit-log.test.ts" timestamp="1549361652705" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/monitoring-alerts/test/CreateMonitoringAlert.test.ts" timestamp="1544090535371">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -266,11 +266,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/package.json" timestamp="1549360943883">
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="65" column="37" />
-        <mark key="." line="65" column="37" />
-        <mark key="^" line="65" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/package.json" timestamp="1549361735830">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="64" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/microservice-serializer.test.ts" timestamp="1543494916873">
         <mark key="[" line="51" column="0" />
@@ -709,8 +709,8 @@
       <jump line="13" column="3" filename="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/api-calls.http" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjb21wYW55LWluZm9ybWF0aW9uIjogImdpdCtzc2g6Ly9naXRAZ2l0bGFiLnN0cmVhbS5sb2NhbDphcGk0L2NvbXBhbnktaW5mb3JtYXRpb24uZ2l0I3YxLjAuMCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -722,31 +722,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBzZW50UmVxdWVzdC5jcmVhdGVkRGF0ZQo=</text>
+        <text encoding="base64">ICAgICJjb21wYW55LWluZm9ybWF0aW9uIjogImdpdCtzc2g6Ly9naXRAZ2l0bGFiLnN0cmVhbS5sb2NhbDphcGk0L2NvbXBhbnktaW5mb3JtYXRpb24uZ2l0I3YxLjAuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBzZW50UmVxdWVzdC5yYW5kCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBzZW50UmVxdWVzdC5jcmVhdGVkRGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByYW5kOiAncmFuZG9tSGFzaCcsCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBzZW50UmVxdWVzdC5yYW5kCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICByYW5kOiAncmFuZG9tSGFzaCcsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBjcmVhdGVkRGF0ZTogbmV3IERhdGUoJzIwMTktMDEtMTdUMDk6NTI6MDEuMDAwWicpLAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">KQogICAg</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">RVhQT1NFIDMwMDAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHJ1bmNhdGVTdWJzY3JpYmVyRml4dHVyZXMgfSBmcm9tICcuL2ZpeHR1cmVzL3N1YnNjcmliZXItZml4dHVyZXMnCg==</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUK</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleLineBreakpoint</text>
