@@ -23,8 +23,8 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/audit-log-service.test.ts" timestamp="1549386886554">
-        <mark key="[" line="21" column="40" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/test/unit/services/audit-log-service.test.ts" timestamp="1549446596281">
+        <mark key="[" line="20" column="29" />
         <mark key="]" line="21" column="16" />
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
@@ -88,13 +88,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/CompanyFixtures.ts" timestamp="1549369226421">
-        <mark key="'" line="21" column="47" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/UpdateDeviceNickname.test.ts" timestamp="1543840381550">
         <mark key="[" line="34" column="47" />
@@ -330,7 +323,6 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/package.json" timestamp="1549375803439" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/microservice-dependency-mapper-server/test/services/serializers/microservice-serializer.test.ts" timestamp="1543494916873">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -398,6 +390,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrlKey.ts" timestamp="1549447195365">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/arm-openapi.js" timestamp="1548431546371">
         <mark key="[" line="4" column="20" />
@@ -577,6 +574,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrl.ts" timestamp="1549447244680">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1548177652287">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -626,7 +629,6 @@
         <mark key="^" line="86" column="83" />
         <mark key="." line="86" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/resources/LogCodes.ts" timestamp="1549380784845" />
       <file name="crypto.js" timestamp="1549031278404">
         <mark key="[" line="0" column="0" />
       </file>
@@ -725,7 +727,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/package.json" timestamp="1549364145577" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpResponse.ts" timestamp="1548432813392">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -809,11 +810,11 @@
       <jump line="31" column="47" filename="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/CompanyFixtures.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${EndpointUrl.BASE}${EndpointUrl.ADD_SENT_REQUEST}`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${EndpointUrl.BASE}${EndpointUrl.ADD_SENT_REQUEST}`</text>
+        <text>RELATIVE_PATH_OVERRIDE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -825,28 +826,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgcmVhZG9ubHkgQUREX1NFTlRfUkVRVUVTVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdGF0aWMgcmVhZG9ubHkgQUREX0FVRElUX0xPR19SRUxBVElWRV9QQVRIX09WRVJSSURFID0gJ0FERF9BVURJVF9MT0dfUkVMQVRJVkVfUEFUSF9PVkVSUklERScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWZvcmUoJ3NldHVwJywgYXN5bmMgKCkgPT4gewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdCgK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUnCg==</text>
+        <text encoding="base64">ICBiZWZvcmUoJ3NldHVwJywgYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX1BFUk1JU1NJT05TCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdCgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBIRUFERVJfR0FURVdBWV9VU0VSX0lELAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleLineBreakpoint</text>
