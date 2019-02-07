@@ -72,10 +72,10 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/.gitlab-ci.yml" timestamp="1549536430675">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/.gitlab-ci.yml" timestamp="1549537622101">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/docker-compose.yml" timestamp="1548768085116">
         <mark key="[" line="18" column="25" />
@@ -846,11 +846,11 @@
       <jump line="31" column="47" filename="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/fixtures/CompanyFixtures.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbWFnZTogY29ubmVjdGl2aXR5LWRvY2tlci1yZWdpc3RyeS5hcm0uY29tL2lvdHgvZGluZDoxNwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>ALLOW_MULTILINE_STATMENTS</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
