@@ -16,6 +16,7 @@
       <mapping pattern="get-all-tickets-empty-response.json" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="get-all-logs-single-subscriber-ordered-by-date-created-ascjson.json" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="get-all-tickets-default.json" type="PLAIN_TEXT" />
       <mapping pattern="create-ticket-response" type="PLAIN_TEXT" />
       <mapping pattern="SerializeError" type="TypeScript" />
