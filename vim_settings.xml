@@ -84,6 +84,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/test/utilities.ts" timestamp="1549639149815">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="41" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/UpdateDeviceNickname.test.ts" timestamp="1543840381550">
         <mark key="[" line="34" column="47" />
         <mark key="]" line="138" column="89" />
@@ -260,10 +266,10 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1549638535753">
-        <mark key="[" line="79" column="44" />
-        <mark key="]" line="79" column="44" />
-        <mark key="." line="79" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1549639481886">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/test/add-audit-log.test.ts" timestamp="1549369147848">
         <mark key="[" line="26" column="24" />
@@ -825,11 +831,11 @@
       <jump line="29" column="60" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrl.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjaGFpLWh0dHAiOiAiXjQuMi4xIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>^10.0.6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -838,31 +844,31 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RyZWFtQXBpR2F0ZXdheUhlYWRlck1pZGRsZXdhcmUgfSBmcm9tICd0eXBlc2NyaXB0LWFwaS1leHRlbnNpb25zJwo=</text>
+        <text encoding="base64">ICAgICJjaGFpLWh0dHAiOiAiXjQuMi4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGVybWlzc2lvbnMgfSBmcm9tICdzdHJlYW0tYXBpLWV4dGVuc2lvbnMvZGlzdC9taWRkbGV3YXJlL1Blcm1pc3Npb25zTWlkZGxld2FyZScK</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl40LjIuMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASXNTdHJpbmcoKQogIEBEZXNjcmlwdGlvbigK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvY2hhaS1odHRwIjogIl4zLjAuNSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSXNFbnVtLCBJc0ludCwgSXNTdHJpbmcgfSBmcm9tICdjbGFzcy12YWxpZGF0b3InCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvY2hhaSI6ICJ+NC4xLjciLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudFJlcXVlc3RDbGllbnQsIEFkZEF1ZGl0TG9nQ2xpZW50IH0gZnJvbSAnYXBpLXNkaycK</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl40LjIuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJuby1jb25zb2xlIjogZmFsc2UK</text>
+        <text encoding="base64">ICAgICJjaGFpLWh0dHAiOiAiXjQuMi4xIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0VSUk9SIEBAQEBAQEAnLCBlcnJvci5tZXNzYWdlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvY2hhaS1odHRwIjogIl4zLjAuNSIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2VudiA9ICcsIHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICJ0cy1ub2RlIjogIl44LjAuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
