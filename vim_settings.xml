@@ -36,6 +36,7 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" timestamp="1554802618257" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1543941475559">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="1" />
@@ -279,6 +280,15 @@
       <file name="/JavaScript Console" timestamp="1549643213520">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1554802083436" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1554802357755">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1554803021089" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1549642592703">
         <mark key="[" line="73" column="28" />
         <mark key="]" line="73" column="28" />
@@ -463,13 +473,15 @@
       <jump line="23" column="16" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrl.ts" />
       <jump line="14" column="53" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrl.ts" />
       <jump line="29" column="60" filename="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/EndpointUrl.ts" />
+      <jump line="91" column="14" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUK</text>
+      <register name="&quot;" type="4">
+        <text>4.2.0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>4.2.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
