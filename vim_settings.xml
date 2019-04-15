@@ -36,7 +36,6 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" timestamp="1554802618257" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1543941475559">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="1" />
@@ -183,6 +182,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1555330924233" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1549641967317">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
@@ -280,7 +280,6 @@
       <file name="/JavaScript Console" timestamp="1549643213520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1554802083436" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1554802357755">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="21" column="25" />
@@ -288,7 +287,6 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/.gitlab-ci.yml" timestamp="1554805099488" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/package.json" timestamp="1549642592703">
         <mark key="[" line="73" column="28" />
         <mark key="]" line="73" column="28" />
