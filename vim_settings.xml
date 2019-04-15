@@ -183,7 +183,7 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1555330924233" />
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1555343892701">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1555344246855">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
         <mark key="^" line="24" column="28" />
@@ -202,7 +202,7 @@
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/config.ts" timestamp="1549368225989">
         <mark key="[" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpPostBody.ts" timestamp="1549643333888">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/models/TopUpPostBody.ts" timestamp="1555344238547">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
@@ -515,7 +515,7 @@
         <text encoding="base64">ICAgIC0gY29uLWRiOmRhdGFiYXNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -556,10 +556,10 @@
         <entry>action VimFilePrevious</entry>
         <entry>action SearchEverywhere</entry>
         <entry>rr</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
