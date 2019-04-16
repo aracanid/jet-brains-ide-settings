@@ -311,6 +311,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/activate.strings.yml" timestamp="1555423083580">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/src/services/ValidationService.ts" timestamp="1542732407217">
         <mark key="[" line="6" column="80" />
         <mark key="]" line="6" column="80" />
@@ -479,7 +484,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4.2.0</text>
+        <text encoding="base64">CiAgICBoZWFkZXJzOg==</text>
       </register>
       <register name="-" type="4">
         <text>4.2.0</text>
@@ -490,32 +495,32 @@
       <register name="0" type="4">
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBoZWFkZXJzOg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gYWRkYXVkaXRsb2cK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgpjb25maWd1cmUtc3Vic2NyaWJlcnM6CiAgdGl0bGU6CiAgYWN0aXZhdGUtc3Vic2NyaWJlcnM6CiAgc3Vic2NyaWJlcnMtaGVhZGVyOg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gYWRkYXVkaXRsb2c6YWRkYXVkaXRsb2cK</text>
+        <text encoding="base64">ICAgIC0gYWRkYXVkaXRsb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gY29tcGFueWluZm9ybWF0aW9uOmNvbXBhbnlpbmZvcm1hdGlvbgo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gc2VudHJlcXVlc3Q6c2VudHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIC0gYWRkYXVkaXRsb2c6YWRkYXVkaXRsb2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc3Vic2NyaWJlcnM6c3Vic2NyaWJlcnMK</text>
+        <text encoding="base64">ICAgIC0gY29tcGFueWluZm9ybWF0aW9uOmNvbXBhbnlpbmZvcm1hdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gY29uLWRiOmNvbnJlYWRob3N0Cg==</text>
+        <text encoding="base64">ICAgIC0gc2VudHJlcXVlc3Q6c2VudHJlcXVlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gY29uLWRiOmRhdGFiYXNlCg==</text>
+        <text encoding="base64">ICAgIC0gc3Vic2NyaWJlcnM6c3Vic2NyaWJlcnMK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
