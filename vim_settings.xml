@@ -31,10 +31,11 @@
       <file name="internal/process/next_tick.js" timestamp="1549296647041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556121778836">
-        <mark key="[" line="93" column="9" />
-        <mark key="]" line="96" column="16" />
-        <mark key="." line="96" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556123412741">
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="96" column="41" />
+        <mark key="." line="96" column="41" />
+        <mark key="^" line="96" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/.gitlab-ci.yml" timestamp="1549644791521">
         <mark key="[" line="2" column="44" />
@@ -411,11 +412,11 @@
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1556121712031">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1556123349968">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="9" column="20" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -502,10 +503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -514,25 +515,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCb2R5KCkgYm9keTogeyBkZWZhdWx0TG9jYWxlOiBzdHJpbmcgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI2MjkuNDA0Lmh0bWwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGVmYXVsdExvY2FsZSI6ICJlbl9HQiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI2MTcuNDA0Lmh0bWwK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI1NDcuNDA0Lmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -967,10 +968,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI2MDQuNDA0Lmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9uZCIiUGBbYAo=</text>
+        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI2MjkuNDA0Lmh0bWwK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
