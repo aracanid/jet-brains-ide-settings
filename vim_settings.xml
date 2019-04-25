@@ -31,11 +31,11 @@
       <file name="internal/process/next_tick.js" timestamp="1549296647041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556123412741">
-        <mark key="[" line="96" column="17" />
-        <mark key="]" line="96" column="41" />
-        <mark key="." line="96" column="41" />
-        <mark key="^" line="96" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556184049998">
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="76" column="23" />
+        <mark key="." line="76" column="23" />
+        <mark key="^" line="76" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/.gitlab-ci.yml" timestamp="1549644791521">
         <mark key="[" line="2" column="44" />
@@ -84,7 +84,12 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1556121310555" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1556183825879">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="62" column="86" />
+        <mark key="." line="62" column="86" />
+        <mark key="^" line="62" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/edit-sent-request.test.ts" timestamp="1548869504290">
         <mark key="[" line="85" column="69" />
         <mark key="]" line="85" column="69" />
@@ -392,7 +397,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" timestamp="1556121697206" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/InternalSentRequestService.ts" timestamp="1548173879261">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="0" />
@@ -503,10 +507,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>this.localeService.getLocale(lang.code) as Locale</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>this.localeService.getLocale(lang.code) as Locale</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -515,25 +519,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICfml6XmnKzoqp4nLCBjb2RlOiAnanBfSlAnLCB0YWc6ICdqYS1KUCcgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCb2R5KCkgYm9keTogeyBkZWZhdWx0TG9jYWxlOiBzdHJpbmcgfQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuc29ydCgoYSwgYikgPT4gYS5jb2RlID4gYi5jb2RlID8gMSA6IC0xKSkudG8uZGVlcC5lcXVhbCgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvLmJlLm9mLmxlbmd0aCgyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZGVmYXVsdExvY2FsZSI6ICJlbl9HQiIK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvLmJlLmFuKCdhcnJheScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHliLmNvZGUgPyAxIDogLTEpKS50by5kZWVwLmVxdWFsKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvLmJlLm9mLmxlbmd0aCgyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpLnRvLmJlLmFuKCdhcnJheScpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -968,10 +972,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD4gMjAxOS0wNC0yNFQwNDI2MjkuNDA0Lmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdFbmdsaXNoIChCcml0aXNoKScsIGNvZGU6ICdlbl9HQmQnLCB0YWc6ICdlbi1HQicgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
