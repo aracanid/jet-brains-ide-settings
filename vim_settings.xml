@@ -31,11 +31,11 @@
       <file name="internal/process/next_tick.js" timestamp="1549296647041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556190991265">
-        <mark key="[" line="106" column="18" />
-        <mark key="]" line="105" column="9" />
-        <mark key="^" line="105" column="9" />
-        <mark key="." line="105" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1556195265903">
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="89" column="34" />
+        <mark key="." line="89" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/.gitlab-ci.yml" timestamp="1549644791521">
         <mark key="[" line="2" column="44" />
@@ -422,8 +422,8 @@
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1556123349968">
-        <mark key="[" line="13" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1556195688700">
+        <mark key="[" line="15" column="25" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="16" column="0" />
