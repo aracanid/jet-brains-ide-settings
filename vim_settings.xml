@@ -41,7 +41,8 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" timestamp="1555415112620">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" timestamp="1557320817588">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/RelatedItems.ts" timestamp="1543941475559">
@@ -515,6 +516,7 @@
       <jump line="91" column="14" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/terms.strings.yml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
