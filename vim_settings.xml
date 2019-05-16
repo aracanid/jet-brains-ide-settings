@@ -182,7 +182,6 @@
         <mark key="]" line="63" column="45" />
         <mark key="." line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1557936917152" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/config/routingControllerOptions.ts" timestamp="1549643989649">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="59" />
@@ -248,6 +247,7 @@
         <mark key="]" line="5" column="49" />
         <mark key="." line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/inventory.strings.yml" timestamp="1558014172146" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/test/create-sent-request.test.ts" timestamp="1548177652287">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
