@@ -36,11 +36,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1556190937991">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1559661689661">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="51" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/menu.strings.yml" timestamp="1558695092903">
         <mark key="[" line="2" column="12" />
@@ -83,6 +83,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/search.strings.yml" timestamp="1558695198759">
         <mark key="[" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/terms.strings.yml" timestamp="1559662079406">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1555344246855">
         <mark key="[" line="23" column="14" />
@@ -299,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBoeXNpY2FsLWlkX3BsdXJhbDogJ0lEcyBmw61zaWNvcycK</text>
       </register>
       <register name="-" type="4">
-        <text>stream-api-extensions</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -311,25 +316,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBoeXNpY2FsLWlkX3BsdXJhbDogJ0lEcyBmw61zaWNvcycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBSRkM1NjQ2IFRhZwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keS5jb250ZW50KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcG9zdDog</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1dWlkIjogIl4zLjMuMiIK</text>
+        <text encoding="base64">IyBSRkM1NjQ2IFRhZwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2guZm9yb3duIjogIl40LjQuMCIsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgcG9zdDog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTAiLAo=</text>
+        <text encoding="base64">ICAgICJ1dWlkIjogIl4zLjMuMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2guZm9yb3duIjogIl40LjQuMCIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -764,10 +769,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTAiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuYW1lc3BhY2VPYmplY3QuZ2V0QWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
