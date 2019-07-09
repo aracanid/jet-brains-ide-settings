@@ -107,7 +107,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/terms.strings.yml" timestamp="1562685515685">
         <mark key="[" line="52" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562685712056">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562686845778">
         <mark key="[" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-topup/src/controllers/TopUpController.ts" timestamp="1555344246855">
@@ -247,6 +247,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
+        <mark key="[" line="115" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/terms.strings.yml" timestamp="1562684733670">
         <mark key="[" line="52" column="12" />
