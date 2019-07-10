@@ -36,6 +36,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/Service/ApnService.ts" timestamp="1562751240586" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1558695154168">
         <mark key="[" line="8" column="16" />
       </file>
@@ -102,6 +103,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/inventory.strings.yml" timestamp="1558694808267">
         <mark key="[" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/test/fixtures/CompanyFixtures.ts" timestamp="1562751341319" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
@@ -155,6 +157,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/test/addSubscriberManually.test.ts" timestamp="1558088688991">
         <mark key="[" line="5" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-move/src/services/SubscriberMoveService.ts" timestamp="1562751162743" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/fixtures/ApnLogFixtures.ts" timestamp="1548771489838">
         <mark key="[" line="27" column="55" />
       </file>
@@ -172,6 +175,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-move/src/services/ApnService.ts" timestamp="1562751059543" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/api4/errors.strings.yml" timestamp="1562685433930">
         <mark key="[" line="0" column="95" />
       </file>
@@ -195,9 +199,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
         <mark key="[" line="115" column="90" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-move/docker-compose.yml" timestamp="1562751258813" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-move/src/config.ts" timestamp="1562751361161" />
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
