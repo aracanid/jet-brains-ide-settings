@@ -30,6 +30,9 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
+        <mark key="[" line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/menu.strings.yml" timestamp="1558695092903">
         <mark key="[" line="2" column="12" />
       </file>
@@ -194,7 +197,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
         <mark key="[" line="115" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/permissions.strings.yml" timestamp="1563210419778" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
       </file>
