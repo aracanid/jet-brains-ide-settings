@@ -48,6 +48,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1565793590998">
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="54" column="5" />
+        <mark key="." line="42" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
       </file>
@@ -56,7 +62,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1565780015295" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1565793031000" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
       </file>
@@ -65,6 +71,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/terms.strings.yml" timestamp="1562685515685">
         <mark key="[" line="52" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/config.ts" timestamp="1565793174731">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562686845778">
         <mark key="[" line="2" column="48" />
@@ -292,11 +303,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -310,8 +321,8 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBSRkM1NjQ2IFRhZwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChzbXRwU2VydmVyID09PSBudWxsKSB7CgogICAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -320,7 +331,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc21wdFNlcnZlciB9IGZyb20gJy4uL2NvbmZpZycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -757,8 +768,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgojIFJGQzU2NDYgVGFn</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
