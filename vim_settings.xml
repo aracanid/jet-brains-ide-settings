@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1565793590998">
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="54" column="5" />
-        <mark key="." line="42" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1565800163114">
+        <mark key="[" line="66" column="133" />
+        <mark key="]" line="66" column="131" />
+        <mark key="^" line="66" column="131" />
+        <mark key="." line="66" column="131" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
@@ -139,6 +139,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.yamllint" timestamp="1562685283230">
         <mark key="[" line="6" column="19" />
+      </file>
+      <file name="/fragment.ts" timestamp="1565799813852">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/tariffs.strings.yml" timestamp="1562748442014">
         <mark key="[" line="59" column="15" />
@@ -301,13 +304,14 @@
       <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/terms.strings.yml" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/docker-compose.yml" />
+      <jump line="52" column="33" filename="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNtdHBTZXJ2ZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -316,22 +320,24 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNtdHBTZXJ2ZXIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChzbXRwU2VydmVyID09PSBudWxsKSB7CgogICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzbXRwU2VydmVyCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>else {
+
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc210cFNlcnZlciA9IGF3YWl0IHRoaXMuZ2V0UmVhbG1TbXRwU2VydmVyKHJlYWxtLCBzbXRwU2VydmVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc21wdFNlcnZlciB9IGZyb20gJy4uL2NvbmZpZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -769,7 +775,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHNtdHBTZXJ2ZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
