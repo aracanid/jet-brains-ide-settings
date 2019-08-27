@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/RoutingControllers.ts" timestamp="1549373751796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="internal/process/next_tick.js" timestamp="1549296647041">
+      <file name="internal/process/next_tick.js" timestamp="1566902587446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/statistics.strings.yml" timestamp="1562684693897">
@@ -30,6 +30,12 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/integration/patchPendingStockDispatch.test.ts" timestamp="1566901780884">
+        <mark key="[" line="83" column="47" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="61" />
+        <mark key="^" line="83" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
       </file>
@@ -48,12 +54,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566812077453">
-        <mark key="[" line="67" column="58" />
-        <mark key="]" line="67" column="58" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="67" column="58" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
       </file>
@@ -62,11 +62,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566900030285">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="35" />
-        <mark key="." line="44" column="35" />
-        <mark key="^" line="44" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566901619444">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
@@ -128,6 +128,9 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/branding.strings.yml" timestamp="1562684380835">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="internal/process/promises.js" timestamp="1566902584566">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/shared.strings.yml" timestamp="1562684564202">
         <mark key="[" line="156" column="36" />
       </file>
@@ -157,7 +160,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/accounts.strings.yml" timestamp="1562685371023">
         <mark key="[" line="160" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556190929468">
+      <file name="/JavaScript Console" timestamp="1566908022679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1562748252433">
@@ -194,11 +197,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/RealmFixtures.ts" timestamp="1566811822200">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/RealmFixtures.ts" timestamp="1566908303290">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/api4/errors.strings.yml" timestamp="1562685433930">
         <mark key="[" line="0" column="95" />
@@ -319,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REALM_ATTRIBUTES_URL_BAS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>REALM_ATTRIBUTES_URL_BAS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -331,25 +334,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBSRUFMTV9BVFRSSUJVVEVTX1VSTF9CQVNFPWh0dHA6Ly9yZWFsbXM6ODA4MAo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBTTVRQX1VTRV9UTFM9ZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBTTVRQX1BPUlQ9MTAyNQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnVW5pdCB0ZXN0cyBkZGZvciBFbWFpbEZvcm1hdHRlcicsIGFzeW5jICgpID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBTTVRQX1BBU1NXT1JEPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBTTVRQX1VTRVJOQU1FPQo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBTTVRQX0hPU1Q9bWFpbGNhdGNoZXIK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -784,10 +787,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnVGVzdCBjcmVhdGVNYWlsT3B0aW9ucyBmdW5jdGlvbicsICgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
