@@ -64,9 +64,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566901619444">
         <mark key="[" line="25" column="37" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
@@ -110,6 +107,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/Dockerfile" timestamp="1566910295339" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/userdashboard.strings.yml" timestamp="1558695283593">
         <mark key="[" line="1" column="9" />
       </file>
@@ -321,8 +319,8 @@
       <jump line="52" column="33" filename="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I1JVTiB3Z2V0IGh0dHA6Ly9zZWN1cml0eS51YnVudHUuY29tL3VidW50dS9wb29sL21haW4vby9vcGVuc3NsL2xpYnNzbDEuMV8xLjEuMGctMnVidW50dTQuM19hbWQ2NC5kZWIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -334,25 +332,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">I1JVTiB3Z2V0IGh0dHA6Ly9zZWN1cml0eS51YnVudHUuY29tL3VidW50dS9wb29sL21haW4vby9vcGVuc3NsL2xpYnNzbDEuMV8xLjEuMGctMnVidW50dTQuM19hbWQ2NC5kZWIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnVW5pdCB0ZXN0cyBkZGZvciBFbWFpbEZvcm1hdHRlcicsIGFzeW5jICgpID0+IHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZXNjcmliZSgnVW5pdCB0ZXN0cyBkZGZvciBFbWFpbEZvcm1hdHRlcicsIGFzeW5jICgpID0+IHsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">fSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -787,10 +785,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnVGVzdCBjcmVhdGVNYWlsT3B0aW9ucyBmdW5jdGlvbicsICgpID0+IHsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
