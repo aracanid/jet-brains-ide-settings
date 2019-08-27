@@ -62,11 +62,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566833652265">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566900030285">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="35" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
@@ -122,7 +122,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/inventory.strings.yml" timestamp="1558694808267">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/UserFixtures.ts" timestamp="1566811398672" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
