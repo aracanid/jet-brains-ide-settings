@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566915371478">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
         <mark key="[" line="62" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
@@ -65,7 +65,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566915338328">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1566987696057">
         <mark key="]" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
@@ -119,6 +119,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/email.strings.yml" timestamp="1559218762287">
         <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/stock-order/docker-compose.yml" timestamp="1566988035683">
+        <mark key="[" line="25" column="63" />
+        <mark key="]" line="25" column="62" />
+        <mark key="^" line="25" column="62" />
+        <mark key="." line="25" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/inventory.strings.yml" timestamp="1558694808267">
         <mark key="[" line="4" column="13" />
@@ -204,7 +210,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/RealmFixtures.ts" timestamp="1566908303290">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/RealmFixtures.ts" timestamp="1566987742409">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
