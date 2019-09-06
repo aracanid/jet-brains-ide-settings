@@ -65,10 +65,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/docker-compose.yml" timestamp="1567007784142">
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
       </file>
@@ -213,12 +209,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/fixtures/RealmFixtures.ts" timestamp="1566987742409">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/api4/errors.strings.yml" timestamp="1562685433930">
         <mark key="[" line="0" column="95" />
       </file>
@@ -241,6 +231,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
         <mark key="[" line="115" column="90" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/StockDispatchProcessorService.ts" timestamp="1567771294314">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
@@ -338,7 +333,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAndHlwZXNjcmlwdC1hcGktdXRpbGl0aWVzL2xpYi9zcmMnCg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -350,25 +345,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAndHlwZXNjcmlwdC1hcGktdXRpbGl0aWVzL2xpYi9zcmMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3a2h0bWx0b3BkZihodG1sKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldFN0b2NrRGlzcGF0Y2hOb3RlIChodG1sOiBzdHJpbmcpOiBQcm9taXNlPHN0cmluZz4gewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB3a2h0bWx0b3BkZihodG1sKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhbG1BdHRyaWJ1dGVzIH0gZnJvbSAnLi4vbW9kZWxzL1JlYWxtQXR0cmlidXRlcycK</text>
+        <text encoding="base64">ICBwcml2YXRlIGdldFN0b2NrRGlzcGF0Y2hOb3RlIChodG1sOiBzdHJpbmcpOiBQcm9taXNlPHN0cmluZz4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVwb3NpdG9yeSB9IGZyb20gJ3R5cGVvcm0nCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVhbG1BdHRyaWJ1dGVzIH0gZnJvbSAnLi4vbW9kZWxzL1JlYWxtQXR0cmlidXRlcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3JtUmVwb3NpdG9yeSB9IGZyb20gJ3R5cGVvcm0tdHlwZWRpLWV4dGVuc2lvbnMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVwb3NpdG9yeSB9IGZyb20gJ3R5cGVvcm0nCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -803,10 +798,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT3JtUmVwb3NpdG9yeSB9IGZyb20gJ3R5cGVvcm0tdHlwZWRpLWV4dGVuc2lvbnMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
