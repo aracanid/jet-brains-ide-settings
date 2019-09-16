@@ -57,11 +57,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
         <mark key="[" line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/Service/CompanyAndCompanyProfileService.ts" timestamp="1568631461933">
-        <mark key="[" line="59" column="27" />
-        <mark key="]" line="92" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/Service/CompanyAndCompanyProfileService.ts" timestamp="1568648012166">
+        <mark key="[" line="337" column="4" />
+        <mark key="]" line="337" column="4" />
         <mark key="^" line="92" column="50" />
-        <mark key="." line="92" column="50" />
+        <mark key="." line="337" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
@@ -339,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IENIQVJBQ1RFUiBTRVQgbGF0aW4xIENPTExBVEUgbGF0aW4xX2dlbmVyYWxfY2kgREVGQVVMVCBOVUxMLA==</text>
+        <text>companyProfile.companyNumber</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENIQVJBQ1RFUiBTRVQgbGF0aW4xIENPTExBVEUgbGF0aW4xX2dlbmVyYWxfY2kgREVGQVVMVCBOVUxMLA==</text>
+        <text>companyProfile.companyNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -810,7 +810,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -852,9 +852,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>rr</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
