@@ -9,6 +9,7 @@
       <file name="internal/process/next_tick.js" timestamp="1566902587446">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1569403130792" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/statistics.strings.yml" timestamp="1562684693897">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -25,10 +26,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/details.info.yml" timestamp="1569402732317">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/details.info.yml" timestamp="1569403340720">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/integration/patchPendingStockDispatch.test.ts" timestamp="1566915785844">
         <mark key="[" line="546" column="74" />
