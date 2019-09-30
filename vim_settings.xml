@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/RoutingControllers.ts" timestamp="1549373751796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/locales/jp_JP@softbank/test-namespace/test.strings.yaml" timestamp="1569488051308" />
       <file name="internal/process/next_tick.js" timestamp="1566902587446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +28,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/controllers/InternalSentRequestController.ts" timestamp="1569849094804" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
         <mark key="[" line="10" column="1" />
       </file>
