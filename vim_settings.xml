@@ -70,7 +70,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/controllers/InternalCompanyInformationController.ts" timestamp="1570550645062" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
       </file>
@@ -245,6 +244,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/admin-users.strings.yml" timestamp="1558702124221">
         <mark key="[" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/SubscribersService.ts" timestamp="1570609191196" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
       </file>
