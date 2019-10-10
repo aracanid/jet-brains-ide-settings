@@ -36,6 +36,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetAllSubscribersInternal.test.ts" timestamp="1570699203516" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1569491796037">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="83" column="17" />
@@ -241,10 +242,15 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/support.strings.yml" timestamp="1558696152961">
         <mark key="[" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/InternalSubscriberResponse.ts" timestamp="1570632273423">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/admin-users.strings.yml" timestamp="1558702124221">
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/SubscribersService.ts" timestamp="1570609191196" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
       </file>
@@ -349,8 +355,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>var</text>
@@ -364,23 +370,23 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLmxvY2FsZXMpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgaWYoKSB7CiAgICAgIAogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLmxvY2FsZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -815,7 +821,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdFbmdsaXNoIChCcml0aXNoKScsIGNvZGU6ICdlbl9HQicsIHRhZzogJ2VuLUdCJyB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
