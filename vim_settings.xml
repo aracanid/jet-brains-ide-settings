@@ -42,7 +42,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetAllSubscribersInternal.test.ts" timestamp="1571839664053" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1569491796037">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="83" column="17" />
@@ -56,8 +55,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1558695154168">
-        <mark key="[" line="8" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572369827078">
+        <mark key="[" line="138" column="4" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
         <mark key="[" line="0" column="8" />
@@ -80,6 +82,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-twos-subscriber.json" timestamp="1570699982756">
         <mark key="[" line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tariff-modification/src/controllers/tariffs/RetailTariffController.ts" timestamp="1572367791524" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
       </file>
@@ -149,7 +152,6 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1571839400077" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
@@ -276,9 +278,16 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
         <mark key="[" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/permissions.strings.yml" timestamp="1572368368776">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="39" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="47" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tariff-modification/src/controllers/tariffs/CallPlansController.ts" timestamp="1572367775357" />
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
@@ -375,10 +384,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Subscriber</text>
+        <text>Allow a user to view all pending and resolved support tickets</text>
       </register>
       <register name="-" type="4">
-        <text>Subscriber</text>
+        <text>Allow a user to view all pending and resolved support tickets</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -387,25 +396,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGFkbWluLWRpc3BhdGNoLWFkZDogJ2RlbGV0ZSB0aGlzJwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIAogICAgaWYoKSB7CiAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLmxvY2FsZXMpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -840,7 +849,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
