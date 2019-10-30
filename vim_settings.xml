@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572436026103">
-        <mark key="[" line="74" column="21" />
-        <mark key="]" line="77" column="33" />
-        <mark key="^" line="77" column="33" />
-        <mark key="." line="77" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572446497492">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="69" />
+        <mark key="^" line="30" column="69" />
+        <mark key="." line="30" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
         <mark key="[" line="0" column="8" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEJ1bGsgQWN0aW9ucw==</text>
+        <text>'???'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJ1bGsgQWN0aW9ucw==</text>
+        <text>'???'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -897,6 +897,7 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoAction</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
