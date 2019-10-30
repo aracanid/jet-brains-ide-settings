@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572431550615">
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="50" />
-        <mark key="^" line="71" column="50" />
-        <mark key="." line="71" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572434535693">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="77" column="33" />
+        <mark key="^" line="77" column="33" />
+        <mark key="." line="77" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
         <mark key="[" line="0" column="8" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>View {{tariff}} List</text>
+        <text encoding="base64">IEJ1bGsgQWN0aW9ucw==</text>
       </register>
       <register name="-" type="4">
-        <text>View {{tariff}} List</text>
+        <text encoding="base64">IEJ1bGsgQWN0aW9ucw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
