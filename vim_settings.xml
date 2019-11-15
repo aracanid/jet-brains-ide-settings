@@ -61,6 +61,11 @@
         <mark key="^" line="30" column="69" />
         <mark key="." line="30" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/SentRequestService.ts" timestamp="1573835293737">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
         <mark key="[" line="0" column="8" />
       </file>
@@ -382,8 +387,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'???'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'???'</text>
@@ -395,25 +400,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkbWluLWRpc3BhdGNoLWFkZDogJ2RlbGV0ZSB0aGlzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGFkbWluLWRpc3BhdGNoLWFkZDogJ2RlbGV0ZSB0aGlzJwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIAogICAgaWYoKSB7CiAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLmxvY2FsZXMpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
+        <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -848,10 +853,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKHRoaXMubG9jYWxlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXBwZWRLZXlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
