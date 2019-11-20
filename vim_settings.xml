@@ -15,6 +15,7 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1574259090991" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberActionsController.test.ts" timestamp="1571839653415">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,7 +40,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-subscriber.json" timestamp="1570700694831">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1574257708874" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1574259129464" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
       </file>
@@ -197,7 +198,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/accounts.strings.yml" timestamp="1562685371023">
         <mark key="[" line="160" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1569490202818">
+      <file name="/JavaScript Console" timestamp="1574259131798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1562748252433">
