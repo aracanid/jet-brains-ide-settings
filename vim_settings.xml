@@ -39,6 +39,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-subscriber.json" timestamp="1570700694831">
         <mark key="[" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberResponse.ts" timestamp="1574257708874" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
       </file>
@@ -55,6 +56,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/SubscriberBillingHistory.ts" timestamp="1574257799325" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572446497492">
         <mark key="[" line="30" column="17" />
         <mark key="]" line="30" column="69" />
@@ -87,7 +89,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-twos-subscriber.json" timestamp="1570699982756">
         <mark key="[" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/controllers/InternalCompanyInformationController.ts" timestamp="1573834816518" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
       </file>
