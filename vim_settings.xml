@@ -3,9 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberInternalController.ts" timestamp="1574689610122" />
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/RoutingControllers.ts" timestamp="1549373751796">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/user.strings.yml" timestamp="1576574349263">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1566902587446">
         <mark key="[" line="0" column="0" />
@@ -55,12 +60,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/permissions.strings.yml" timestamp="1572446497492">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="69" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="30" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/SentRequestService.ts" timestamp="1573835293737">
         <mark key="[" line="113" column="0" />
@@ -284,10 +283,10 @@
         <mark key="[" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/permissions.strings.yml" timestamp="1572368368776">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="39" />
-        <mark key="^" line="47" column="29" />
-        <mark key="." line="47" column="39" />
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
