@@ -79,6 +79,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
         <mark key="[" line="62" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/shared.strings.yml" timestamp="1576591260900">
+        <mark key="[" line="200" column="11" />
+        <mark key="]" line="204" column="18" />
+        <mark key="." line="204" column="18" />
+        <mark key="^" line="204" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/Service/CompanyAndCompanyProfileService.ts" timestamp="1568648012166">
         <mark key="[" line="337" column="4" />
         <mark key="]" line="337" column="4" />
@@ -394,11 +400,11 @@
       <jump line="61" column="23" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/terms.strings.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>使いにくい</text>
       </register>
       <register name="-" type="4">
-        <text>'???'</text>
+        <text>使いにくい</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
