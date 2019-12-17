@@ -30,6 +30,10 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/terms.strings.yml" timestamp="1576579002492">
+        <mark key="'" line="61" column="23" />
+        <mark key="[" line="61" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/details.info.yml" timestamp="1569403340720">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="12" />
@@ -119,6 +123,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/config.ts" timestamp="1549368225989">
         <mark key="[" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/billing.strings.yml" timestamp="1576578923976">
+        <mark key="[" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-euicc-subscriber.json" timestamp="1570702921744">
         <mark key="[" line="8" column="28" />
@@ -384,6 +391,7 @@
       <jump line="179" column="23" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
+      <jump line="61" column="23" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/terms.strings.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
