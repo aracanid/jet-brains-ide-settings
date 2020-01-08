@@ -21,6 +21,7 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578490605037" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberActionsController.test.ts" timestamp="1571839653415">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,13 +52,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
         <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" timestamp="1569491796037">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="83" column="17" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/menu.strings.yml" timestamp="1558695092903">
         <mark key="[" line="2" column="12" />
@@ -190,6 +184,7 @@
       <file name="timers.js" timestamp="1549296648657">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1578489991913" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/config.ts" timestamp="1549368156825">
         <mark key="[" line="11" column="16" />
       </file>
@@ -286,6 +281,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/admin-users.strings.yml" timestamp="1558702124221">
         <mark key="[" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/SubscribersService.ts" timestamp="1578490595400" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
       </file>
