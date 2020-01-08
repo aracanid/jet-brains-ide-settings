@@ -21,10 +21,10 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578497890740">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="84" column="22" />
-        <mark key="." line="84" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="89" column="35" />
+        <mark key="." line="89" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberActionsController.test.ts" timestamp="1571839653415">
         <mark key="[" line="0" column="0" />
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiBBcnJheTxTdHJpbmc+</text>
+        <text>incoming companyName from headers is ${companyName} for physicalId ${physicalId} and headers is ${headers}`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBBcnJheTxTdHJpbmc+</text>
+        <text>incoming companyName from headers is ${companyName} for physicalId ${physicalId} and headers is ${headers}`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
