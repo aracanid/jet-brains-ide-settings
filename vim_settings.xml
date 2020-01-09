@@ -21,7 +21,7 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/middleware/StreamApiGatewayHeaderMiddleware.js" timestamp="1578565732629" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/middleware/StreamApiGatewayHeaderMiddleware.js" timestamp="1578566922468" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
         <mark key="[" line="89" column="35" />
         <mark key="]" line="89" column="35" />
@@ -168,6 +168,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1578569126403">
+        <mark key="[" line="102" column="19" />
+        <mark key="]" line="105" column="16" />
+        <mark key="^" line="105" column="16" />
+        <mark key="." line="105" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
@@ -188,11 +194,6 @@
       </file>
       <file name="timers.js" timestamp="1549296648657">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/repository/CompanySubscriberRepository.ts" timestamp="1578492291058">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/config.ts" timestamp="1549368156825">
         <mark key="[" line="11" column="16" />
@@ -257,6 +258,13 @@
         <mark key="." line="176" column="6" />
         <mark key="^" line="176" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/proxy.yaml" timestamp="1578571182769">
+        <mark key="'" line="60" column="17" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
@@ -291,9 +299,9 @@
         <mark key="[" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/SubscribersService.ts" timestamp="1578491269316">
-        <mark key="[" line="82" column="67" />
-        <mark key="]" line="82" column="67" />
-        <mark key="." line="82" column="67" />
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
@@ -408,13 +416,14 @@
       <jump line="185" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/StringsController.test.ts" />
       <jump line="61" column="23" filename="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/terms.strings.yml" />
+      <jump line="38" column="17" filename="$USER_HOME$/Documents/Projects/Typescript/subscribers/proxy.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>incoming companyName from headers is ${companyName} for physicalId ${physicalId} and headers is ${headers}`</text>
+        <text>service_google</text>
       </register>
       <register name="-" type="4">
-        <text>incoming companyName from headers is ${companyName} for physicalId ${physicalId} and headers is ${headers}`</text>
+        <text>service_google</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -423,25 +432,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnNldE9wdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcihgZ2V0U2luZ2xlU3Vic2NyaWJlcldpdGhDb21wYW55ICBjb21wYW55TmFtZSBmcm9tIGhlYWRlcnMgaXMgJHtjb21wYW55TmFtZX0gZm9yIHBoeXNpY2FsSWQgJHtwaHlzaWNhbElkfWApCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkbWluLWRpc3BhdGNoLWFkZDogJ2RlbGV0ZSB0aGlzJwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIC0gbGJfZW5kcG9pbnRzOgogICAgICAgICAgICAgIC0gZW5kcG9pbnQ6CiAgICAgICAgICAgICAgICAgIGFkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgc29ja2V0X2FkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgICBhZGRyZXNzOiB3ZWIKICAgICAgICAgICAgICAgICAgICAgIHBvcnRfdmFsdWU6IDQwMDA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgIC0gbGJfZW5kcG9pbnRzOgogICAgICAgICAgICAgIC0gZW5kcG9pbnQ6CiAgICAgICAgICAgICAgICAgIGFkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgc29ja2V0X2FkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgICBhZGRyZXNzOiB3ZWIKICAgICAgICAgICAgICAgICAgICAgIHBvcnRfdmFsdWU6IDMwMDA=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgLSBlbmRwb2ludDoKICAgICAgICAgICAgICAgICAgYWRkcmVzczoKICAgICAgICAgICAgICAgICAgICBzb2NrZXRfYWRkcmVzczoKICAgICAgICAgICAgICAgICAgICAgIGFkZHJlc3M6IHdlYgogICAgICAgICAgICAgICAgICAgICAgcG9ydF92YWx1ZTogMzAwMA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIAogICAgaWYoKSB7CiAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIGVuZHBvaW50OgogICAgICAgICAgICAgICAgICBhZGRyZXNzOgogICAgICAgICAgICAgICAgICAgIHNvY2tldF9hZGRyZXNzOgogICAgICAgICAgICAgICAgICAgICAgYWRkcmVzczogd2ViCiAgICAgICAgICAgICAgICAgICAgICBwb3J0X3ZhbHVlOiA0MDAw</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZTogTE9HSUNBTF9ETlMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -876,10 +885,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLmxvY2FsZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBvcnRfdmFsdWU6IDMwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKChsb2NhbGUpID0+IHRoaXMubGFuZ3VhZ2VJbmZvW2xvY2FsZV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
