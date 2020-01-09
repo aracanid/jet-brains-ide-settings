@@ -21,6 +21,7 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/middleware/StreamApiGatewayHeaderMiddleware.js" timestamp="1578565732629" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
         <mark key="[" line="89" column="35" />
         <mark key="]" line="89" column="35" />
@@ -312,6 +313,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/decorators/GatewayHeaderDecorator.d.ts" timestamp="1578565694618" />
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
