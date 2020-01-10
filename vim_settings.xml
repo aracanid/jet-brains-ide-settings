@@ -32,6 +32,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/test/addInventorySubscriber.test.ts" timestamp="1558088682826">
         <mark key="[" line="4" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/AdminGetSubscribersSearch.test.ts" timestamp="1578650937558" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
         <mark key="[" line="10" column="1" />
       </file>
@@ -74,6 +75,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/src/middleware/StreamApiGatewayHeaderMiddleware.ts" timestamp="1578652347201">
+        <mark key="[" line="102" column="73" />
+        <mark key="]" line="102" column="73" />
+        <mark key="." line="102" column="73" />
+        <mark key="^" line="102" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
         <mark key="[" line="62" column="74" />
       </file>
@@ -92,6 +99,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
         <mark key="[" line="74" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/package.json" timestamp="1578651407403">
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-twos-subscriber.json" timestamp="1570699982756">
         <mark key="[" line="8" column="29" />
       </file>
@@ -101,12 +114,14 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/search.strings.yml" timestamp="1558695198759">
         <mark key="[" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/CompaniesService.ts" timestamp="1578652268120" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/terms.strings.yml" timestamp="1562685515685">
         <mark key="[" line="52" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562686845778">
         <mark key="[" line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/Company.ts" timestamp="1578652097492" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/stock-dispatch.strings.yml" timestamp="1558702211899">
         <mark key="[" line="13" column="11" />
       </file>
@@ -209,6 +224,7 @@
       <file name="/JavaScript Console" timestamp="1574259131798">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1578651397336" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1562748252433">
         <mark key="[" line="16" column="26" />
       </file>
@@ -301,6 +317,7 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
         <mark key="[" line="115" column="90" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/GetProfileSubscribers.test.ts" timestamp="1578651475158" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
         <mark key="[" line="8" column="28" />
       </file>
@@ -309,6 +326,12 @@
         <mark key="]" line="3" column="39" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/test/middleware/middleware.test.ts" timestamp="1578652167395">
+        <mark key="[" line="196" column="38" />
+        <mark key="]" line="197" column="47" />
+        <mark key="." line="197" column="47" />
+        <mark key="^" line="197" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
@@ -411,10 +434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5xdWVyeSh7IGZpbHRlcjogYG5hbWUgZXEgIiR7Y29tcGFueU5hbWV9ImAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>blank_template</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -423,25 +446,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5xdWVyeSh7IGZpbHRlcjogYG5hbWUgZXEgIiR7Y29tcGFueU5hbWV9ImAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlOmxvZ0luZm8oIkNvbnZlcnRlZCBYLUdhdGV3YXktQ29tcGFueS1OYW1lIGhlYWRlciBmcm9tIHZhbHVlIFsiIC4uIHVuZW5jb2RlZF9oZWFkZXIgLi4gIl0gdG8gdmFsdWUgWyIgLi4gZW5jb2RlZF9oZWFkZXIgLi4gIl0iKQo=</text>
+        <text encoding="base64">ICAgIC5zZXQoSEVBREVSX0dBVEVXQVlfUkVBTE0sIHJlYWxtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGU6bG9nSW5mbygiQ29udmVydGVkIFgtR2F0ZXdheS1Db21wYW55LU5hbWUgaGVhZGVyIGZyb20gdmFsdWUgWyIgLi4gdW5lbmNvZGVkX2hlYWRlciAuLiAiXSB0byB2YWx1ZSBbIiAuLiBlbmNvZGVkX2hlYWRlciAuLiAiXSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVwbHkoMjAwLCB7IGNvbnRlbnQ6IHsgaWQ6IDEzNDAsIG5hbWU6ICdibGFua190ZW1wbGF0ZScgfSB9KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jYWwgbXlsaWJyYXJ5ID0gcmVxdWlyZSgibGliLm15bGlicmFyeSIpCgogICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bmN0aW9uIGVudm95X29uX3JlcXVlc3QocmVxdWVzdF9oYW5kbGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0X2hhbmRsZTpoZWFkZXJzKCk6YWRkKCJmb28iLCBteWxpYnJhcnkuZm9vYmFyKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gZW52b3lfb25fcmVzcG9uc2UocmVzcG9uc2VfaGFuZGxlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9keV9zaXplID0gcmVzcG9uc2VfaGFuZGxlOmJvZHkoKTpsZW5ndGgoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2VfaGFuZGxlOmhlYWRlcnMoKTphZGQoInJlc3BvbnNlLWJvZHktc2l6ZSIsIHRvc3RyaW5nKGJvZHlfc2l6ZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgZW5k</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuZ2V0KCcvaW50ZXJuYWwvY29tcGFueS8xMzQwJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRvbWFpbnM6IFsiKiJdCg==</text>
+        <text encoding="base64">ICAgICAgbm9jaygnaHR0cDovL2NvbXBhbnktaW5mb3JtYXRpb246NDAwMCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LmNvbnRlbnQubmFtZSkudG8uZXF1YWwoJ2JsYW5rX3RlbXBsYXRlJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -876,10 +899,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5zdGF0dXMpLnRvLmVxdWFsKDIwMCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIC0gbGJfZW5kcG9pbnRzOgogICAgICAgICAgICAgIC0gZW5kcG9pbnQ6CiAgICAgICAgICAgICAgICAgIGFkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgc29ja2V0X2FkZHJlc3M6CiAgICAgICAgICAgICAgICAgICAgICBhZGRyZXNzOiB3ZWIKICAgICAgICAgICAgICAgICAgICAgIHBvcnRfdmFsdWU6IDQwMDA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LmFwaUdhdGV3YXkucmVhbG1Pd25lckNvbXBhbnlJZCkudG8uZXF1YWwoOTk5OCkK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
