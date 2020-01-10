@@ -21,7 +21,6 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/middleware/StreamApiGatewayHeaderMiddleware.js" timestamp="1578566922468" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
         <mark key="[" line="89" column="35" />
         <mark key="]" line="89" column="35" />
@@ -168,12 +167,6 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/docker-compose.yml" timestamp="1578569126403">
-        <mark key="[" line="102" column="19" />
-        <mark key="]" line="105" column="16" />
-        <mark key="^" line="105" column="16" />
-        <mark key="." line="105" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
@@ -192,7 +185,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/shared.strings.yml" timestamp="1562684564202">
         <mark key="[" line="156" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test.http" timestamp="1578572948498" />
       <file name="timers.js" timestamp="1549296648657">
         <mark key="[" line="0" column="0" />
       </file>
@@ -321,7 +313,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/node_modules/typescript-api-headers-middleware/lib/decorators/GatewayHeaderDecorator.d.ts" timestamp="1578565694618" />
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
       </file>
