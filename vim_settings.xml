@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/src/middleware/StreamApiGatewayHeaderMiddleware.ts" timestamp="1578663491920">
-        <mark key="[" line="64" column="89" />
-        <mark key="]" line="64" column="89" />
-        <mark key="." line="64" column="89" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/src/middleware/StreamApiGatewayHeaderMiddleware.ts" timestamp="1578665305097">
+        <mark key="[" line="64" column="71" />
+        <mark key="]" line="64" column="82" />
+        <mark key="." line="64" column="82" />
+        <mark key="^" line="64" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
         <mark key="[" line="62" column="74" />
@@ -429,10 +429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Iconv.convert(headerValue).toString('utf8')</text>
+        <text encoding="base64">Jykg</text>
       </register>
       <register name="-" type="4">
-        <text>Iconv.convert(headerValue).toString('utf8')</text>
+        <text encoding="base64">Jykg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
