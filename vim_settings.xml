@@ -6,40 +6,14 @@
       <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/RoutingControllers.ts" timestamp="1549373751796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/user.strings.yml" timestamp="1576574349263">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="internal/process/next_tick.js" timestamp="1566902587446">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1569490757665">
-        <mark key="[" line="31" column="43" />
-        <mark key="]" line="32" column="58" />
-        <mark key="^" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
-        <mark key="[" line="89" column="35" />
-        <mark key="]" line="89" column="35" />
-        <mark key="." line="89" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/SubscriberActionsController.test.ts" timestamp="1571839653415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/test/addInventorySubscriber.test.ts" timestamp="1558088682826">
         <mark key="[" line="4" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1578910766493">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="65" column="47" />
-        <mark key="^" line="65" column="47" />
-        <mark key="." line="65" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
-        <mark key="[" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/terms.strings.yml" timestamp="1576579002492">
         <mark key="'" line="61" column="23" />
@@ -57,21 +31,6 @@
         <mark key="." line="83" column="61" />
         <mark key="^" line="83" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-subscriber.json" timestamp="1570700694831">
-        <mark key="[" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
-        <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-groups/package.json" timestamp="1578910243135">
-        <mark key="[" line="62" column="48" />
-        <mark key="]" line="62" column="47" />
-        <mark key="^" line="62" column="47" />
-        <mark key="." line="62" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/package.json" timestamp="1578911317715">
-        <mark key="[" line="67" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/menu.strings.yml" timestamp="1558695092903">
         <mark key="[" line="2" column="12" />
       </file>
@@ -83,26 +42,11 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
-        <mark key="[" line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/src/middleware/StreamApiGatewayHeaderMiddleware.ts" timestamp="1578666102399">
-        <mark key="[" line="64" column="62" />
-        <mark key="]" line="64" column="62" />
-        <mark key="." line="64" column="62" />
-        <mark key="^" line="64" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
-        <mark key="[" line="62" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/shared.strings.yml" timestamp="1576591260900">
-        <mark key="[" line="200" column="11" />
-        <mark key="]" line="204" column="18" />
-        <mark key="." line="204" column="18" />
-        <mark key="^" line="204" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/static-charge/package.json" timestamp="1578912376295">
+        <mark key="[" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/Service/CompanyAndCompanyProfileService.ts" timestamp="1568648012166">
         <mark key="[" line="337" column="4" />
@@ -110,59 +54,23 @@
         <mark key="^" line="92" column="50" />
         <mark key="." line="337" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
-        <mark key="[" line="74" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/package.json" timestamp="1578668808513">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="43" column="20" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-twos-subscriber.json" timestamp="1570699982756">
-        <mark key="[" line="8" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.statistics.strings.yml" timestamp="1562749498132">
         <mark key="[" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/search.strings.yml" timestamp="1558695198759">
-        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/terms.strings.yml" timestamp="1562685515685">
         <mark key="[" line="52" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562686845778">
-        <mark key="[" line="2" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/stock-dispatch.strings.yml" timestamp="1558702211899">
-        <mark key="[" line="13" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/company.strings.yml" timestamp="1562685014195">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/shared.strings.yml" timestamp="1562685474653">
-        <mark key="[" line="156" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/accounts.strings.yml" timestamp="1562684332314">
         <mark key="[" line="160" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/dist/test/StringsController.test.js" timestamp="1569491799697">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="55" column="24" />
-        <mark key="^" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/config.ts" timestamp="1549368225989">
-        <mark key="[" line="11" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/billing.strings.yml" timestamp="1576578923976">
-        <mark key="[" line="46" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/stock-order/package.json" timestamp="1578910515319">
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="47" />
-        <mark key="^" line="86" column="47" />
-        <mark key="." line="86" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-euicc-subscriber.json" timestamp="1570702921744">
         <mark key="[" line="8" column="28" />
@@ -170,14 +78,8 @@
         <mark key="^" line="79" column="11" />
         <mark key="." line="79" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/userdashboard.strings.yml" timestamp="1558695283593">
-        <mark key="[" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/openapi/strings-api/endpoints.strings.yml" timestamp="1562684452779">
         <mark key="[" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/email.strings.yml" timestamp="1559218762287">
-        <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/stock-order/docker-compose.yml" timestamp="1566988035683">
         <mark key="[" line="25" column="63" />
@@ -209,9 +111,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/branding.strings.yml" timestamp="1562685387807">
         <mark key="[" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/branding.strings.yml" timestamp="1562684380835">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="internal/process/promises.js" timestamp="1566902584566">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,32 +120,14 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/shared.strings.yml" timestamp="1562684564202">
-        <mark key="[" line="156" column="36" />
-      </file>
       <file name="timers.js" timestamp="1549296648657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/src/config.ts" timestamp="1549368156825">
         <mark key="[" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.yamllint" timestamp="1562685283230">
-        <mark key="[" line="6" column="19" />
-      </file>
-      <file name="/fragment.ts" timestamp="1569490654117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/tariffs.strings.yml" timestamp="1562748442014">
-        <mark key="[" line="59" column="15" />
-      </file>
-      <file name="crypto.js" timestamp="1549031278404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/accounts.strings.yml" timestamp="1562685371023">
         <mark key="[" line="160" column="13" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1578657490934">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/package.json" timestamp="1578908930541">
         <mark key="[" line="81" column="48" />
@@ -257,26 +138,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/package.json" timestamp="1562748252433">
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="internal/crypto/hash.js" timestamp="1549031268013">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/billing.strings.yml" timestamp="1558694715385">
-        <mark key="[" line="2" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/test/addSubscriberManually.test.ts" timestamp="1558088688991">
         <mark key="[" line="5" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/test/fixtures/ApnLogFixtures.ts" timestamp="1548771489838">
         <mark key="[" line="27" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/unit/testServiceEmailSender.test.ts" timestamp="1566913007481">
-        <mark key="[" line="84" column="75" />
-        <mark key="]" line="88" column="36" />
-        <mark key="^" line="88" column="36" />
-        <mark key="." line="88" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/services.strings.yml" timestamp="1562684808200">
-        <mark key="[" line="72" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/test/locales/jp_JP/details.info.yml" timestamp="1569491643609">
         <mark key="[" line="5" column="6" />
@@ -286,9 +152,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/activate.strings.yml" timestamp="1567413916589">
         <mark key="[" line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/automation.strings.yml" timestamp="1558694693289">
-        <mark key="[" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/LocaleService.ts" timestamp="1569491239101">
         <mark key="[" line="176" column="4" />
@@ -304,12 +167,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitignore" timestamp="1569491897460">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="9" column="8" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="9" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/package.json" timestamp="1578909998010">
         <mark key="[" line="75" column="48" />
@@ -332,6 +189,162 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/support.strings.yml" timestamp="1558696152961">
         <mark key="[" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1578911618961" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="http.js" timestamp="1549642183735">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/user.strings.yml" timestamp="1558695289146">
+        <mark key="[" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/user.strings.yml" timestamp="1576574349263">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/src/controllers/StringsController.ts" timestamp="1569490757665">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="32" column="58" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="32" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="89" column="35" />
+        <mark key="." line="89" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1578910766493">
+        <mark key="[" line="65" column="48" />
+        <mark key="]" line="65" column="47" />
+        <mark key="^" line="65" column="47" />
+        <mark key="." line="65" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-sdk/src/interfaces/AuditLog.ts" timestamp="1548694395709">
+        <mark key="[" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-subscriber.json" timestamp="1570700694831">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/permissions.yml" timestamp="1563372726068">
+        <mark key="[" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscriber-groups/package.json" timestamp="1578910243135">
+        <mark key="[" line="62" column="48" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="62" column="47" />
+        <mark key="." line="62" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/package.json" timestamp="1578911317715">
+        <mark key="[" line="67" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
+        <mark key="[" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/api-gateway-middleware/src/middleware/StreamApiGatewayHeaderMiddleware.ts" timestamp="1578666102399">
+        <mark key="[" line="64" column="62" />
+        <mark key="]" line="64" column="62" />
+        <mark key="." line="64" column="62" />
+        <mark key="^" line="64" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/src/services/EmailSenderService.ts" timestamp="1566987683919">
+        <mark key="[" line="62" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/shared.strings.yml" timestamp="1576591260900">
+        <mark key="[" line="200" column="11" />
+        <mark key="]" line="204" column="18" />
+        <mark key="." line="204" column="18" />
+        <mark key="^" line="204" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/login.strings.yml" timestamp="1558694841848">
+        <mark key="[" line="74" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-twos-subscriber.json" timestamp="1570699982756">
+        <mark key="[" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/search.strings.yml" timestamp="1558695198759">
+        <mark key="[" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitlab-ci.yml" timestamp="1562686845778">
+        <mark key="[" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/stock-dispatch.strings.yml" timestamp="1558702211899">
+        <mark key="[" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/shared.strings.yml" timestamp="1562685474653">
+        <mark key="[" line="156" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/dist/test/StringsController.test.js" timestamp="1569491799697">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="24" />
+        <mark key="^" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Platform/add-audit-log/src/config.ts" timestamp="1549368225989">
+        <mark key="[" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/ja_JP@softbank/pelion/billing.strings.yml" timestamp="1576578923976">
+        <mark key="[" line="46" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/stock-order/package.json" timestamp="1578910515319">
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="47" />
+        <mark key="^" line="86" column="47" />
+        <mark key="." line="86" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/userdashboard.strings.yml" timestamp="1558695283593">
+        <mark key="[" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/email.strings.yml" timestamp="1559218762287">
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/branding.strings.yml" timestamp="1562684380835">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/shared.strings.yml" timestamp="1562684564202">
+        <mark key="[" line="156" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.yamllint" timestamp="1562685283230">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="/fragment.ts" timestamp="1569490654117">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/tariffs.strings.yml" timestamp="1562748442014">
+        <mark key="[" line="59" column="15" />
+      </file>
+      <file name="crypto.js" timestamp="1549031278404">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1578657490934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="internal/crypto/hash.js" timestamp="1549031268013">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/billing.strings.yml" timestamp="1558694715385">
+        <mark key="[" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-dispatch/test/unit/testServiceEmailSender.test.ts" timestamp="1566913007481">
+        <mark key="[" line="84" column="75" />
+        <mark key="]" line="88" column="36" />
+        <mark key="^" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/services.strings.yml" timestamp="1562684808200">
+        <mark key="[" line="72" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/automation.strings.yml" timestamp="1558694693289">
+        <mark key="[" line="30" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/.gitignore" timestamp="1569491897460">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/models/InternalSubscriberResponse.ts" timestamp="1570632273423">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="18" />
@@ -346,15 +359,11 @@
         <mark key="]" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1578911618961" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion-admin/tariffs.strings.yml" timestamp="1562686953795">
         <mark key="[" line="115" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
-        <mark key="[" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/permissions.strings.yml" timestamp="1572368368776">
         <mark key="[" line="3" column="39" />
@@ -373,12 +382,6 @@
         <mark key="]" line="73" column="47" />
         <mark key="^" line="73" column="47" />
         <mark key="." line="73" column="47" />
-      </file>
-      <file name="http.js" timestamp="1549642183735">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/user.strings.yml" timestamp="1558695289146">
-        <mark key="[" line="2" column="14" />
       </file>
     </filemarks>
     <jumps>
