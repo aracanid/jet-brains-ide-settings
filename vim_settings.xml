@@ -284,6 +284,12 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/package.json" timestamp="1578909998010">
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="47" />
+        <mark key="^" line="75" column="47" />
+        <mark key="." line="75" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/api4/errors.strings.yml" timestamp="1562685433930">
         <mark key="[" line="0" column="95" />
       </file>
