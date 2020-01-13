@@ -39,11 +39,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/admin-stock-add/.gitlab-ci.yml" timestamp="1558088158042">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/sent-request/src/services/SentRequestService.ts" timestamp="1573835293737">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/api4/errors.strings.yml" timestamp="1562684420405">
         <mark key="[" line="0" column="17" />
       </file>
@@ -213,11 +208,6 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/controllers/SubscriberController.ts" timestamp="1578501828373">
-        <mark key="[" line="89" column="35" />
-        <mark key="]" line="89" column="35" />
-        <mark key="." line="89" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1578910766493">
         <mark key="[" line="65" column="48" />
         <mark key="]" line="65" column="47" />
@@ -359,11 +349,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/admin-users.strings.yml" timestamp="1558702124221">
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/src/services/SubscribersService.ts" timestamp="1578491269316">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/report.strings.yml" timestamp="1558702191557">
         <mark key="[" line="4" column="21" />
       </file>
@@ -375,6 +360,9 @@
         <mark key="]" line="3" column="39" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/inventory/package.json" timestamp="1578913669439">
+        <mark key="[" line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/pt_PT/pelion/services.strings.yml" timestamp="1562685657539">
         <mark key="[" line="72" column="15" />
