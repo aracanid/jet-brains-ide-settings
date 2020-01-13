@@ -331,8 +331,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/services.strings.yml" timestamp="1562684808200">
         <mark key="[" line="72" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/users/package.json" timestamp="1578915281204">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/users/package.json" timestamp="1578924200155">
         <mark key="[" line="81" column="48" />
+        <mark key="]" line="79" column="23" />
+        <mark key="^" line="79" column="23" />
+        <mark key="." line="79" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/automation.strings.yml" timestamp="1558694693289">
         <mark key="[" line="30" column="14" />
