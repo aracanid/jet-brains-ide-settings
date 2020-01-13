@@ -156,12 +156,6 @@
         <mark key="." line="176" column="6" />
         <mark key="^" line="176" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/proxy.yaml" timestamp="1578573929043">
-        <mark key="'" line="86" column="17" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
       </file>
@@ -189,6 +183,12 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1578911618961" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
         <mark key="[" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tariff-modification/package.json" timestamp="1578915155245">
+        <mark key="[" line="77" column="46" />
+        <mark key="]" line="77" column="45" />
+        <mark key="^" line="77" column="45" />
+        <mark key="." line="77" column="45" />
       </file>
       <file name="http.js" timestamp="1549642183735">
         <mark key="[" line="0" column="0" />
