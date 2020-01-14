@@ -75,6 +75,11 @@
         <mark key="^" line="79" column="11" />
         <mark key="." line="79" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1579013985958">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/openapi/strings-api/endpoints.strings.yml" timestamp="1562684452779">
         <mark key="[" line="1" column="8" />
       </file>
@@ -158,6 +163,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/subscribers.strings.yml" timestamp="1558696117886">
         <mark key="[" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/config.ts" timestamp="1579014012397">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/euicc/package.json" timestamp="1578909998010">
         <mark key="[" line="75" column="48" />
@@ -473,10 +483,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'åå¥è©¦é¨ç¨ã¢ã«ã¦ã³ã_ModeB_sim_list'</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>'åå¥è©¦é¨ç¨ã¢ã«ã¦ã³ã_ModeB_sim_list'</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -485,25 +495,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmltcG9ydCB7CiAgSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwKICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCiAgSEVBREVSX0dBVEVXQVlfVE9LRU4sIEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMKfSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUn</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IEljb252ID0gcmVxdWlyZSgnaWNvbnYnKS5JY29udgo=</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
+        <text encoding="base64">bGV0IEljb252ID0gcmVxdWlyZSgnaWNvbnYnKS5JY29udgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -938,10 +948,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IEljb252ID0gcmVxdWlyZSgnaWNvbnYnKS5JY29udgo=</text>
+        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
