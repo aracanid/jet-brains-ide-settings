@@ -180,7 +180,6 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion/support.strings.yml" timestamp="1558696152961">
         <mark key="[" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/predictive-analytics/src/controllers/AnalyticsController.ts" timestamp="1578911618961" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-profile-subscriber.json" timestamp="1570700712188">
         <mark key="[" line="8" column="28" />
       </file>
@@ -376,11 +375,11 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/report-queue/package.json" timestamp="1578912199670">
         <mark key="[" line="63" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/package.json" timestamp="1578911010420">
-        <mark key="[" line="73" column="48" />
-        <mark key="]" line="73" column="47" />
-        <mark key="^" line="73" column="47" />
-        <mark key="." line="73" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/company-information/package.json" timestamp="1579009175692">
+        <mark key="[" line="73" column="43" />
+        <mark key="]" line="73" column="41" />
+        <mark key="^" line="73" column="41" />
+        <mark key="." line="73" column="41" />
       </file>
     </filemarks>
     <jumps>
