@@ -72,13 +72,18 @@
       <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/fixtures/OaSysDemoSimListFixtures.ts" timestamp="1579020367146">
         <mark key="[" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/docker-compose.yml" timestamp="1579098477864">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/subscribers/test/responses/get-internal-company-ones-euicc-subscriber.json" timestamp="1570702921744">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="79" column="11" />
         <mark key="^" line="79" column="11" />
         <mark key="." line="79" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1579013985958">
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/src/controllers/TagListController.ts" timestamp="1579098319573">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -235,7 +240,6 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/test/ViewSubscriberTags.test.ts" timestamp="1579017981755" />
       <file name="$USER_HOME$/Documents/Projects/Typescript/apn-information/package.json" timestamp="1578910766493">
         <mark key="[" line="65" column="48" />
         <mark key="]" line="65" column="47" />
@@ -257,8 +261,11 @@
         <mark key="^" line="62" column="47" />
         <mark key="." line="62" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/package.json" timestamp="1578911317715">
-        <mark key="[" line="67" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/Typescript/tags/package.json" timestamp="1579098505473">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Typescript/strings-api/locales/en_GB/pelion-admin/company.strings.yml" timestamp="1562684866013">
         <mark key="[" line="0" column="8" />
@@ -341,7 +348,7 @@
       <file name="crypto.js" timestamp="1549031278404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1578657490934">
+      <file name="/JavaScript Console" timestamp="1579098284112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/crypto/hash.js" timestamp="1549031268013">
@@ -505,7 +512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAndHlwZXNjcmlwdC1hcGktaGVhZGVycy1taWRkbGV3YXJlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dist/middleware/PermissionsMiddleware'</text>
@@ -517,25 +524,25 @@
         <text encoding="base64">ZXhwZWN0KHN1YnNjcmliZXJTZXJ2aWNlLmdldFN1YnNjcmliZXIpLnRvLmhhdmUuYmVlbi5jYWxsZWQoSU5WQUxJRF9QSFlTSUNBTF9JRCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAndHlwZXNjcmlwdC1hcGktaGVhZGVycy1taWRkbGV3YXJlJwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdWJzY3JpYmVyczoKICAgIGltYWdlOiAke0RPQ0tFUl9SRUdJU1RSWX0vYXBpL3N1YnNjcmliZXJzOnYzLjYuMQogICAgcG9ydHM6CiAgICAgIC0gODA4NDozMDAwCiAgICBsaW5rczoKICAgICAgLSBjb24tZGI6ZGF0YWJhc2UKICAgICAgLSBjb24tZGI6Y29ucmVhZGhvc3QKICAgIGRlcGVuZHNfb246CiAgICAgIC0gY29uLWRiCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBEQVRBQkFTRV9VUkk9bXlzcWw6Ly9kZXY6ZnVsbHN0cmVhbWFoZWFkQGRhdGFiYXNlL2NvbXBhbmllcwogICAgICAtIERBVEFCQVNFX1NZTkM9ZmFsc2UKICAgICAgLSBEQVRBQkFTRV9MT0dHSU5HPWZhbHNlCg==</text>
+      </register>
       <register name="3" type="4">
-        <text encoding="base64">CmltcG9ydCB7CiAgSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwKICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCiAgSEVBREVSX0dBVEVXQVlfVE9LRU4sIEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMKfSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUn</text>
+        <text encoding="base64">ICBzdWJzY3JpYmVyczoKICAgIGltYWdlOiAke0RPQ0tFUl9SRUdJU1RSWX0vYXBpL3N1YnNjcmliZXJzOnYzLjYuMQogICAgcG9ydHM6CiAgICAgIC0gODA4NDozMDAwCiAgICBsaW5rczoKICAgICAgLSBjb24tZGI6ZGF0YWJhc2UKICAgICAgLSBjb24tZGI6Y29ucmVhZGhvc3QKICAgIGRlcGVuZHNfb246CiAgICAgIC0gY29uLWRiCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBEQVRBQkFTRV9VUkk9bXlzcWw6Ly9kZXY6ZnVsbHN0cmVhbWFoZWFkQGRhdGFiYXNlL2NvbXBhbmllcwogICAgICAtIERBVEFCQVNFX1NZTkM9ZmFsc2U=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAndHlwZXNjcmlwdC1hcGktaGVhZGVycy1taWRkbGV3YXJlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmltcG9ydCB7CiAgSEVBREVSX0dBVEVXQVlfQ09NUEFOWV9JRCwKICBIRUFERVJfR0FURVdBWV9DT01QQU5ZX05BTUUsCiAgSEVBREVSX0dBVEVXQVlfVE9LRU4sIEhFQURFUl9HQVRFV0FZX1VTRVJfUEVSTUlTU0lPTlMKfSBmcm9tICd0eXBlc2NyaXB0LWFwaS1oZWFkZXJzLW1pZGRsZXdhcmUn</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IEljb252ID0gcmVxdWlyZSgnaWNvbnYnKS5JY29udgo=</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -970,10 +977,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjUiLAo=</text>
+        <text encoding="base64">SWNvbnYgPSBuZXcgSWNvbnYoJ0lTTy04ODU5LTEnLCAnVVRGLTgnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
